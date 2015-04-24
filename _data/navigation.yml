@@ -1,13 +1,13 @@
-# Site navigation links
+# site navigation links
 
 - title: Home
-  url: /home/
+  url: https://dieuwkehupkes.github.io/home/
 
 - title: Research
-  url: /research/
+  url: https://dieuwkehupkes.github.io/research/
 
 - title: Projects
-  url: /projects/
+  url: https://dieuwkehupkes.github.io/projects/
 
-- title: Cv
-  url: /cv/
+- title: CV
+  url: https://dieuwkehupkes.github.io/cv/
