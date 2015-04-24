@@ -1,0 +1,13 @@
+# Site navigation links
+
+- title: Home
+  url: /home/
+
+- title: Research
+  url: /research/
+
+- title: Projects
+  url: /projects/
+
+- title: Cv
+  url: /cv/

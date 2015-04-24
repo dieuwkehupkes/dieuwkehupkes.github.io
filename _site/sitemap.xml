@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>/research/</loc>
+  </url>
+  <url>
+    <loc>/theme-setup/</loc>
+  </url>
+  <url>
+    <loc>/cv/</loc>
+  </url>
+  <url>
+    <loc>/home/</loc>
+  </url>
+  <url>
+    <loc>/posts/</loc>
+  </url>
+  <url>
+    <loc>/</loc>
+  </url>
+  <url>
+    <loc>/projects/</loc>
+  </url>
+  <url>
+    <loc>/index.html</loc>
+    <lastmod>2015-04-22T12:57:31+02:00</lastmod>
+  </url>
+</urlset>
