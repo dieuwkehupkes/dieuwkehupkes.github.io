@@ -14,7 +14,7 @@ image:
 
 Description of the project
 
-[Go to project page](http://dieuwkehupkes.github.io/Spiking-Network//)
+[Go to project page](http://dieuwkehupkes.github.io/Spiking-Network)
 
 ## Part-of-speech tagging of historical Dutch
 
