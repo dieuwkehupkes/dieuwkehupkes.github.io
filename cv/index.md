@@ -43,7 +43,7 @@ image:
 </style>
 
 
-## Education
+# Education
 <hr>
 
 <div id="columns">
@@ -57,20 +57,20 @@ image:
     </b>
     </div>
     <div class="description column">
-        Master of Science in Logic (track: Language), <b> ILLC, University of Amsterdam </b>
+        <a href="http://www.illc.uva.nl/MScLogic/" target="_blank"><font color="brown">Master of Logic</font></a> (track: Language), <b> ILLC, University of Amsterdam </b>
         <br><i>Dissertation: An Empirical Account of Compositionality of Translation
         through Translation Data</i>
         <br><font size="2"> Supervisor: Khalil Sima'an</font>
         <br><br> Exchange Semester, <b>University of Edinburgh</b>
         <br><br> Preparation Year, <b>University of Amsterdam</b>
-        <br><br> Bachelor of Science in Physics and Astronomy, <b>University of Amsterdam</b>
+        <br><br> Bachelor of Science in <a href="http://www.uva.nl/onderwijs/bachelor/bacheloropleidingen/content/natuur--en-sterrenkunde/natuur--en-sterrenkunde.html" target = "_blank"><font color="brown">Physics and Astrophysics</font></a>, <b>University of Amsterdam</b>
         <br><i>Dissertation: Bohr's Atomic Model: the Evolution of a Theory</i>
         <br><font size="2"> Supervisors: A.J. Kox, E.P. Verlinde</font>
         <br><br>
     </div>
 </div>
 
-## Work Experience
+# Work Experience
 <hr>
 
 <div id="columns">
@@ -91,7 +91,7 @@ image:
     </div>
 </div>
 
-## Teaching
+# Teaching
 <hr>
 I have been teaching assistant in the following courses:
 
@@ -122,7 +122,7 @@ I have been teaching assistant in the following courses:
     </div>
 </div>
 
-## Languages
+# Languages
 <hr>
 
 <div id="columns">
@@ -154,7 +154,7 @@ I have been teaching assistant in the following courses:
     </div>
 </div>
 
-## Technical Skills
+# Technical Skills
 <hr>
 
 <div id="columns">
@@ -164,7 +164,7 @@ I have been teaching assistant in the following courses:
         <br><br>
     </div>
     <div class="description column">
-        Python, Java, Matlab, Processing
+        Python, Java, Matlab, Processing, Bash
         <br> Prolog, C, R
         <br><br>
     </div>
