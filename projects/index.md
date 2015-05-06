@@ -10,12 +10,12 @@ image:
 
 {% include _toc.html %}
 
-## Spiking Networks with Izhikevich neurons
+# Spiking Networks with Izhikevich neurons
 
-Description of the project
+Description of the project will follow soon.
 
 [Go to project page](http://dieuwkehupkes.github.io/Spiking-Network)
 
-## Part-of-speech tagging of historical Dutch
+# Part-of-speech tagging of historical Dutch
 
-Description of the project
+Description of the project will follow soon
