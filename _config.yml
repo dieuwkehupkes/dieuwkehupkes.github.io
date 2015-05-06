@@ -29,10 +29,8 @@ owner:
   name: Dieuwke Hupkes
   avatar: dieuwk.jpg
   # bio: "Describe your self."
-  email: 
+  email: dieuwkehupkes@gmail.com
   disqus-shortname: 
-  twitter: #username
-  facebook: #username
   google:
     plus: #username
     analytics: 
@@ -44,7 +42,6 @@ owner:
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: dieuwke-hupkes/84/656/707
   xing: #username
-  instagram: #username
   lastfm: #username
   tumblr: #username
   pinterest: #username
@@ -54,7 +51,6 @@ owner:
   youtube: #username
   soundcloud: #username
   weibo: #username
-  flickr: #username
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
