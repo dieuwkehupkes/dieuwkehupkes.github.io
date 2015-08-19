@@ -148,7 +148,7 @@ I have been teaching assistant in the following courses:
     <div class="level column">
         Mothertongue
         <br> Fluent
-        <br> Intermediate
+        <br> Good command
     </div>
     <div class="languages column">
         <b>
