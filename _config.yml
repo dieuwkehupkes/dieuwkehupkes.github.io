@@ -9,7 +9,7 @@ url:
 
 permalink:   /:categories/:title/
 markdown:    kramdown
-highlighter: pygments
+highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
@@ -29,7 +29,7 @@ owner:
   name: Dieuwke Hupkes
   avatar: dieuwk.jpg
   # bio: "Describe your self."
-  email: dieuwkehupkes@gmail.com
+  email: d.hupkes@uva.nl
   disqus-shortname: 
   google:
     plus: #username
