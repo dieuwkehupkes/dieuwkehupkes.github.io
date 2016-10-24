@@ -6,8 +6,11 @@
 - title: Research
   url: /research/
 
-- title: Projects
-  url: /projects/
+  # - title: Publications
+  # url: /publications/
+
+# - title: Projects
+#  url: /projects/
 
 - title: CV
   url: /cv/
