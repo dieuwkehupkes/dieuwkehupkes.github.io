@@ -41,5 +41,3 @@ Follows soon.
 ## Compositionality of translation
 
 In my master thesis, I aimed to empirically establish the compositionality of translation according to dependency parses. If you are interested in the results, my thesis can be found [<font color="brown">here</font>](thesis.pdf).
-
-- 
