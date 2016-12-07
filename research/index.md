@@ -24,7 +24,7 @@ I'll briefly describe some of the projects I have worked on in the past (as well
 ## Current
 
 Currently I am investigating how recurrent neural networks can process hierarchical compositionality. 
-In [this paper](nips2016.pdf), some preliminary findings for this project are described, as well as an extensive account of how a task involving hierarchical compositionality can be implemented in a recursive neural network (work of my colleague Sara Veldhoen).
+In [<font color="brown">this paper</font>](nips2016.pdf), some preliminary findings for this project are described, as well as an extensive account of how a task involving hierarchical compositionality can be implemented in a recursive neural network (work of my colleague Sara Veldhoen).
 The source code of this project is not publically available yet, but will be available at [https://github.com/dieuwkehupkes/processing_arithmetics](https://github.com/dieuwkehupkes/processing_arithmetics).
 
 ## POStagging of historical Dutch
