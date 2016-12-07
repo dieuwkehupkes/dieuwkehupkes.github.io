@@ -175,6 +175,7 @@ I have been teaching assistant in the following courses:
         French
         <br> Russian
         <br> German
+        <br> Frysian
         <br><br>
         </b>
     </div>
@@ -182,6 +183,7 @@ I have been teaching assistant in the following courses:
         Basic Knowledge
         <br> Basic Knowledge
         <br> Basic Knowledge
+        <br> Understanding
         <br><br>
     </div>
 </div>
