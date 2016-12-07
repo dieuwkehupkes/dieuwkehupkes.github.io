@@ -161,12 +161,14 @@ I have been teaching assistant in the following courses:
         Dutch
         <br> English
         <br> Italian
+        <br> Spanish
         </b>
     </div>
     <div class="level column">
         Mothertongue
         <br> Fluent
         <br> Good command
+        <br> basic knowledge
     </div>
     <div class="languages column">
         <b>
@@ -197,7 +199,7 @@ I have been teaching assistant in the following courses:
     <div class="description column">
         Python, Java, Matlab, Processing, Bash, R
         <br> Prolog, C
-        <br> Theano, keras
+        <br> Theano, Keras
         <br><br>
     </div>
 </div>
