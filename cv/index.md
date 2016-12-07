@@ -98,7 +98,7 @@ I have been teaching assistant in the following courses:
         </b>
     </div>
     <div class="description column">
-        <b><a href="http://studiegids.uva.nl/web/uva/sgs/en/c/12063.html" target="_blank"><font color="brown">Evolution of Language and Music</font></a></b> (Universiteit van Amsterdam)
+        <b><a href="http://studiegids.uva.nl/web/uva/sgs/en/c/12063.html" target="_blank"><font color="brown">Computational Semantics and Pragmatics</font></a></b> (Universiteit van Amsterdam)
         <br><i> Course on topics and methodologies of natural language semantics and pragmatics from an empirical point of view, taught in the Master AI and Master of Logic.</i>
 
         <br><br><b><a href="http://studiegids.uva.nl/xmlpages/page/2016-2017/zoek-vak/vak/1545206" target="_blank"><font color="brown">Evolution of Language and Music</font></a></b> (Universiteit van Amsterdam)
