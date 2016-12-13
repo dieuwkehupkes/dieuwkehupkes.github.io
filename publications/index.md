@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  
+title: In preparation/under review
 excerpt: "Publications"
 tags: [Jekyll, theme, responsive, blog, template]
 modified: 2014-08-08T20:53:07.573882-04:00
@@ -10,8 +10,6 @@ image:
 ---
 
 {% include _toc.html %}
-
-# In preparation/under review
 
 * Zuidema W., Hupkes, D., Wiggins G., Scharf C. and Rohrmeier M. (2017). Formal models of Structure Building in Music, Language and Animal Song. for: Musical Animals book.
 
