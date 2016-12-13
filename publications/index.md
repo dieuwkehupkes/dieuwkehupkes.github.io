@@ -16,7 +16,7 @@ image:
 
 * Veldhoen S., Hupkes D. and Zuidema W. (2016). Diagnostic Classifiers: Revealing how Neural Networks
 Process Hierarchical Structure. [Cognitive Computation: Integrating Neural and Symbolic Approaches](http://daselab.cs.wright.edu/nesy/CoCo2016/), NIPS 2016.\\
-\[[bibtex](nips_bib.txt)\]\[[paper](../research/nips2016.pdf)\]\[[poster](../research/nips2016.pdf)\]
+\[[bibtex](nips_bib.txt)\]\[[paper](../research/nips2016.pdf)\]\[[poster](../research/nips2016_poster.pdf)\]
 
 * Hupkes D. and Bod R. (2016). POS-tagging of Historical Dutch. In N. Calzolari, K. Choukri, T. Declerck, S. Goggi, M. Grobelnik, B. Maegaard, J. Mariani, H. Mazo, A. Moreno, J. Odijk and S. Piperidis (eds) Proceedings of the Tenth International Conference on Language Recsources and Evaluation (LREC 2016).   
 \[[bibtex](LREC_bib.txt)\]\[[paper](../research/LREC2016.pdf)\]
