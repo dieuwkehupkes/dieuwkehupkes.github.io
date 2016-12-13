@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  
-excerpt: "A page describing my research (interests)"
+excerpt: "Publications"
 tags: [Jekyll, theme, responsive, blog, template]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
