@@ -8,76 +8,11 @@ image:
     feature: piano-header-own2.jpg
 ---
 
-{% include _toc.html %}
-
-<style>
-   #columns {
-       width: 770px;
-       overflow:auto;
-   }
-
-   #columns .column {
-       padding: 1%;
-   }
-
-   #columns .date {
-       float: left;
-       width: 160px;
-   }
-
-   #columns .description {
-       float: left;
-       width: 540px;
-   }
-
-   #columns .languages {
-       float: left;
-       width: 100px;
-   }
-
-   #columns .level {
-       float: left;
-       width: 180px;
-    }
-
-</style>
-
-# Work Experience
-<hr>
-
-<div id="columns">
-    <div class="date column">
-
-    <b> <i> Current </i>
-
-    <br><br><font size="2"></font>
-    <br><br>Feb 2014 -Jun 2015
-
-    <br><br><font size="2"></font>
-    <br><br>Feb-Dec 2014
-    <br><br>
-    </b>
-    </div>
-    <div class="description column">
-
-    PhD Student, <b>ILLC, University of Amsterdam</b>
-    <br><i>Supervisor</i>: <a href="http://wzuidema.humanities.uva.nl/" target="_blank"><font color="brown">Willem Zuidema</font></a>
-    <br><font size="2"> Working on: neurally inspired models of natural language processing </font>
-
-    <br><br>Research Assistant, <b>ILLC, University of Amsterdam</b>
-    <br><i>Supervisor</i>: <a href="http://wzuidema.humanities.uva.nl/" target="_blank"><font color="brown">Willem Zuidema</font></a>
-    <br><font size="2"> Working on: neural models of parsing </font>
-
-    <br><br> Pre-PhD Fellowship, <b> <a href="http://www.create.humanities.uva.nl/" target="_blank"><font color="brown">CREATE</font></a>, University of Amsterdam</b>
-    <br><i> Under supervision of:</i> <a href="http://www.uva.nl/over-de-uva/organisatie/medewerkers/content/b/o/l.w.m.bod/l.w.m.bod.html" target="_blank"><font color="brown">Rens Bod</font></a>
-    <br> <font size="2"> Working on: Part-of-Speech tagging of 17th century Dutch</font>
-    <br><br>
-    </div>
-</div>
-
 # Teaching
 <hr>
 I have been teaching assistant in the following courses:
+
+## 2016
 
 <div id="columns">
     <div class="date column">

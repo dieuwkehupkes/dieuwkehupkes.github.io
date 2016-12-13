@@ -6,13 +6,13 @@ image:
   feature: piano-header-own2.jpg
 ---
 
-# Publications
+{% include _toc.html %}
 
-## In preparation/under review
+# In preparation/under review
 
 * Zuidema W., Hupkes, D., Wiggins G., Scharf C. and Rohrmeier M. (2017). Formal models of Structure Building in Music, Language and Animal Song. for: Musical Animals book.
 
-## 2016
+# 2016
 
 * Veldhoen S., Hupkes D. and Zuidema W. (2016). Diagnostic Classifiers: Revealing how Neural Networks
 Process Hierarchical Structure. [Cognitive Computation: Integrating Neural and Symbolic Approaches](http://daselab.cs.wright.edu/nesy/CoCo2016/), NIPS 2016.\\
