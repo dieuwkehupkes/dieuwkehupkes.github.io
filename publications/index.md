@@ -3,9 +3,10 @@ layout: page
 title:  
 excerpt: "A page describing my research (interests)"
 tags: [Jekyll, theme, responsive, blog, template]
+modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
-image:
-  feature: piano-header-own2.jpg
+image: 
+    feature: piano-header-own2.jpg
 ---
 
 {% include _toc.html %}
