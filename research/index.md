@@ -1,13 +1,11 @@
 ---
 layout: page
-title:   
+title: Research Interests
 excerpt: "A page describing my research (interests)"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: piano-header-own2.jpg
 ---
-
-# Research Interests
 
 I am interested in many different aspects of natural language, a selection:
 
