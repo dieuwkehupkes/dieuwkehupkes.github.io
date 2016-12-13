@@ -7,8 +7,6 @@ image:
   feature: piano-header-own2.jpg
 ---
 
-{% include _toc.html %}
-
 # Research Interests
 
 I am interested in many different aspects of natural language, a selection:
