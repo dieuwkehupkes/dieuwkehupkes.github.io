@@ -8,6 +8,8 @@ image:
     feature: piano-header-own2.jpg
 ---
 
+# Curriculum Vitae
+
 {% include _toc.html %}
 
 <style>
