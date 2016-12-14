@@ -16,7 +16,7 @@ While doing a master in Logic at the University of Amsterdam I was very lucky to
 I am still very glad that I got the chance to do a job that allows me try to find answers to the questions that intrigue me most.
 
 Currently, in my PhD work, I focus on (artificial) neural network models for (semantic) parsing, a problem that for me touches on the core of understanding natural language.
-Although artificial neural networks are of course nothing like the real brain, I hope that understanding the principles by which they can encode processes can still teach us something that will lead to a better understanding of how language could be implemented by the brain.   
+Although artificial neural networks are of course nothing like the real brain, I hope that understanding the principles by which they can encode processes can still teach us something that will lead to a better understanding of how language could be implemented in the brain.   
 
 In my free time, I still spend quite a substantial amount of my time thinking about language and learning new ones.
 I am also a pretty fanatic sports girl (playing, not watching) and I like playing the piano.
