@@ -4,39 +4,39 @@
   </header>
 <div id="drawer">
 <ul id="markdown-toc">
-  <li><a href="#installation">Installation</a></li>
-  <li><a href="#running-jekyll">Running Jekyll</a></li>
-  <li><a href="#scaffolding">Scaffolding</a></li>
-  <li><a href="#site-setup">Site Setup</a>    <ul>
-      <li><a href="#site-wide-configuration">Site Wide Configuration</a>        <ul>
-          <li><a href="#title">title</a></li>
-          <li><a href="#url">url</a></li>
-          <li><a href="#google-analytics-and-webmaster-tools">Google Analytics and Webmaster Tools</a></li>
+  <li><a href="#installation" id="markdown-toc-installation">Installation</a></li>
+  <li><a href="#running-jekyll" id="markdown-toc-running-jekyll">Running Jekyll</a></li>
+  <li><a href="#scaffolding" id="markdown-toc-scaffolding">Scaffolding</a></li>
+  <li><a href="#site-setup" id="markdown-toc-site-setup">Site Setup</a>    <ul>
+      <li><a href="#site-wide-configuration" id="markdown-toc-site-wide-configuration">Site Wide Configuration</a>        <ul>
+          <li><a href="#title" id="markdown-toc-title">title</a></li>
+          <li><a href="#url" id="markdown-toc-url">url</a></li>
+          <li><a href="#google-analytics-and-webmaster-tools" id="markdown-toc-google-analytics-and-webmaster-tools">Google Analytics and Webmaster Tools</a></li>
         </ul>
       </li>
-      <li><a href="#navigation-links">Navigation Links</a></li>
+      <li><a href="#navigation-links" id="markdown-toc-navigation-links">Navigation Links</a></li>
     </ul>
   </li>
-  <li><a href="#adding-new-content-with-octopress">Adding New Content with Octopress</a>    <ul>
-      <li><a href="#new-post">New Post</a></li>
-      <li><a href="#new-page">New Page</a></li>
+  <li><a href="#adding-new-content-with-octopress" id="markdown-toc-adding-new-content-with-octopress">Adding New Content with Octopress</a>    <ul>
+      <li><a href="#new-post" id="markdown-toc-new-post">New Post</a></li>
+      <li><a href="#new-page" id="markdown-toc-new-page">New Page</a></li>
     </ul>
   </li>
-  <li><a href="#layouts-and-content">Layouts and Content</a>    <ul>
-      <li><a href="#post-and-page">Post and Page</a></li>
-      <li><a href="#post-index-page">Post Index Page</a></li>
-      <li><a href="#feature-images">Feature Images</a></li>
-      <li><a href="#thumbnails-for-og-and-twitter-cards">Thumbnails for OG and Twitter Cards</a></li>
-      <li><a href="#author-override">Author Override</a></li>
-      <li><a href="#kramdown-table-of-contents">Kramdown Table of Contents</a></li>
-      <li><a href="#paragraph-indentation">Paragraph Indentation</a></li>
-      <li><a href="#videos">Videos</a></li>
-      <li><a href="#social-sharing-links">Social Sharing Links</a></li>
+  <li><a href="#layouts-and-content" id="markdown-toc-layouts-and-content">Layouts and Content</a>    <ul>
+      <li><a href="#post-and-page" id="markdown-toc-post-and-page">Post and Page</a></li>
+      <li><a href="#post-index-page" id="markdown-toc-post-index-page">Post Index Page</a></li>
+      <li><a href="#feature-images" id="markdown-toc-feature-images">Feature Images</a></li>
+      <li><a href="#thumbnails-for-og-and-twitter-cards" id="markdown-toc-thumbnails-for-og-and-twitter-cards">Thumbnails for OG and Twitter Cards</a></li>
+      <li><a href="#author-override" id="markdown-toc-author-override">Author Override</a></li>
+      <li><a href="#kramdown-table-of-contents" id="markdown-toc-kramdown-table-of-contents">Kramdown Table of Contents</a></li>
+      <li><a href="#paragraph-indentation" id="markdown-toc-paragraph-indentation">Paragraph Indentation</a></li>
+      <li><a href="#videos" id="markdown-toc-videos">Videos</a></li>
+      <li><a href="#social-sharing-links" id="markdown-toc-social-sharing-links">Social Sharing Links</a></li>
     </ul>
   </li>
-  <li><a href="#further-customization">Further Customization</a></li>
-  <li><a href="#questions">Questions?</a></li>
-  <li><a href="#license">License</a></li>
+  <li><a href="#further-customization" id="markdown-toc-further-customization">Further Customization</a></li>
+  <li><a href="#questions" id="markdown-toc-questions">Questions?</a></li>
+  <li><a href="#license" id="markdown-toc-license">License</a></li>
 </ul>
 
   </div>
@@ -45,35 +45,35 @@
 
 <h2 id="installation">Installation</h2>
 
-<p>Minimal Mistakes now requires <a href="http://jekyllrb.com/">Jekyll</a> 2.2+. Make sure to run <code>gem update jekyll</code> if you aren’t on the latest version or <code>gem install jekyll</code> if this is your first time installing it.</p>
+<p>Minimal Mistakes now requires <a href="http://jekyllrb.com/">Jekyll</a> 2.2+. Make sure to run <code class="highlighter-rouge">gem update jekyll</code> if you aren’t on the latest version or <code class="highlighter-rouge">gem install jekyll</code> if this is your first time installing it.</p>
 
 <p>If you are creating a new Jekyll site using Minimal Mistakes follow these steps:</p>
 
 <ol>
   <li>Fork the <a href="http://github.com/mmistakes/minimal-mistakes/fork">Minimal Mistakes repo</a>.</li>
   <li>Clone the repo you just forked and rename it.</li>
-  <li><a href="http://bundler.io">Install Bundler</a> <code>gem install bundler</code> and Run <code>bundle install</code> to install all dependencies (Jekyll, <a href="https://github.com/jekyll/jekyll-sitemap">Jekyll-Sitemap</a>, <a href="https://github.com/octopress/octopress">Octopress</a>, etc)</li>
-  <li>Update <code>config.yml</code>, add navigation, and replace demo posts and pages with your own. Full details below.</li>
+  <li><a href="http://bundler.io">Install Bundler</a> <code class="highlighter-rouge">gem install bundler</code> and Run <code class="highlighter-rouge">bundle install</code> to install all dependencies (Jekyll, <a href="https://github.com/jekyll/jekyll-sitemap">Jekyll-Sitemap</a>, <a href="https://github.com/octopress/octopress">Octopress</a>, etc)</li>
+  <li>Update <code class="highlighter-rouge">config.yml</code>, add navigation, and replace demo posts and pages with your own. Full details below.</li>
 </ol>
 
 <p>If you want to use Minimal Mistakes with an existing Jekyll site follow these steps:</p>
 
 <ol>
   <li><a href="https://github.com/mmistakes/minimal-mistakes/archive/master.zip">Download Minimal Mistakes</a> and unzip.</li>
-  <li>Rename <code>minimal-mistakes-master</code> to something meaningful ie: <code>new-site</code></li>
-  <li>Run <code>bundle install</code> to install all dependencies (Jekyll, <a href="https://github.com/jekyll/jekyll-sitemap">Jekyll-Sitemap</a>, <a href="https://github.com/octopress/octopress">Octopress</a>, etc)</li>
+  <li>Rename <code class="highlighter-rouge">minimal-mistakes-master</code> to something meaningful ie: <code class="highlighter-rouge">new-site</code></li>
+  <li>Run <code class="highlighter-rouge">bundle install</code> to install all dependencies (Jekyll, <a href="https://github.com/jekyll/jekyll-sitemap">Jekyll-Sitemap</a>, <a href="https://github.com/octopress/octopress">Octopress</a>, etc)</li>
   <li>Remove demo posts/pages and replace with your own posts, pages, and any other content you want to move over.</li>
   <li>Update posts’ and pages’ YAML to match variables used by Minimal Mistakes. Full details below.</li>
-  <li>Update <code>_config.yml</code> and add navigation links. Full details below. </li>
+  <li>Update <code class="highlighter-rouge">_config.yml</code> and add navigation links. Full details below.</li>
 </ol>
 
-<p class="notice"><strong>Pro-tip:</strong> Delete the <code>gh-pages</code> branch after cloning and start fresh by branching off <code>master</code>. There is a bunch of garbage in <code>gh-pages</code> used for the theme’s demo site that I’m guessing you won’t want.</p>
+<p class="notice"><strong>Pro-tip:</strong> Delete the <code class="highlighter-rouge">gh-pages</code> branch after cloning and start fresh by branching off <code class="highlighter-rouge">master</code>. There is a bunch of garbage in <code class="highlighter-rouge">gh-pages</code> used for the theme’s demo site that I’m guessing you won’t want.</p>
 
 <hr />
 
 <h2 id="running-jekyll">Running Jekyll</h2>
 
-<p>If <code>jekyll build</code> and <code>jekyll serve</code> throw errors you may have to run Jekyll with <code>bundled exec</code> instead.</p>
+<p>If <code class="highlighter-rouge">jekyll build</code> and <code class="highlighter-rouge">jekyll serve</code> throw errors you may have to run Jekyll with <code class="highlighter-rouge">bundled exec</code> instead.</p>
 
 <blockquote>
   <p>In some cases, running executables without bundle exec may work, if the executable happens to be installed in your system and does not pull in any gems that conflict with your bundle.</p>
@@ -81,17 +81,17 @@
   <p>However, this is unreliable and is the source of considerable pain. Even if it looks like it works, it may not work in the future or on another machine.</p>
 </blockquote>
 
-<div class="highlight"><pre><code class="language-text" data-lang="text">bundle exec jekyll build
+<figure class="highlight"><pre><code class="language-text" data-lang="text">bundle exec jekyll build
 
-bundle exec jekyll serve</code></pre></div>
+bundle exec jekyll serve</code></pre></figure>
 
 <hr />
 
 <h2 id="scaffolding">Scaffolding</h2>
 
-<p>How Minimal Mistakes is organized and what the various files are. All posts, layouts, includes, stylesheets, assets, and whatever else is grouped nicely under the root folder. The compiled Jekyll site outputs to <code>_site/</code>.</p>
+<p>How Minimal Mistakes is organized and what the various files are. All posts, layouts, includes, stylesheets, assets, and whatever else is grouped nicely under the root folder. The compiled Jekyll site outputs to <code class="highlighter-rouge">_site/</code>.</p>
 
-<div class="highlight"><pre><code class="language-text" data-lang="text">minimal-mistakes/
+<figure class="highlight"><pre><code class="language-text" data-lang="text">minimal-mistakes/
 ├── _includes/
 |    ├── _author-bio.html        # bio stuff layout. pulls optional owner data from _config.yml
 |    ├── _browser-upgrade.html   # prompt to install a modern browser for &lt; IE9
@@ -124,7 +124,7 @@ bundle exec jekyll serve</code></pre></div>
 ├── feed.xml                     # Atom feed template
 ├── index.md                     # sample homepage. lists 5 latest posts 
 ├── posts/                       # sample post index page. lists all posts in reverse chronology
-└── theme-setup/                 # theme setup page. safe to remove</code></pre></div>
+└── theme-setup/                 # theme setup page. safe to remove</code></pre></figure>
 
 <hr />
 
@@ -134,38 +134,38 @@ bundle exec jekyll serve</code></pre></div>
 
 <h3 id="site-wide-configuration">Site Wide Configuration</h3>
 
-<p><code>_config.yml</code> is your friend. Open it up and personalize it. Most variables are self explanatory but here’s an explanation of each if needed:</p>
+<p><code class="highlighter-rouge">_config.yml</code> is your friend. Open it up and personalize it. Most variables are self explanatory but here’s an explanation of each if needed:</p>
 
 <h4 id="title">title</h4>
 
 <p>The title of your site… shocker!</p>
 
-<p>Example <code>title: My Awesome Site</code></p>
+<p>Example <code class="highlighter-rouge">title: My Awesome Site</code></p>
 
 <h4 id="url">url</h4>
 
-<p>Used to generate absolute urls in <code>sitemap.xml</code>, <code>feed.xml</code>, and for generating canonical URLs in <code>&lt;head&gt;</code>. When developing locally either comment this out or use something like <code>http://localhost:4000</code> so all assets load properly. <em>Don’t include a trailing <code>/</code></em>.</p>
+<p>Used to generate absolute urls in <code class="highlighter-rouge">sitemap.xml</code>, <code class="highlighter-rouge">feed.xml</code>, and for generating canonical URLs in <code class="highlighter-rouge">&lt;head&gt;</code>. When developing locally either comment this out or use something like <code class="highlighter-rouge">http://localhost:4000</code> so all assets load properly. <em>Don’t include a trailing <code class="highlighter-rouge">/</code></em>.</p>
 
 <p>Examples:</p>
 
-<div class="highlight"><pre><code class="language-yaml" data-lang="yaml"><span class="l-Scalar-Plain">url</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">http://mmistakes.github.io/minimal-mistakes</span>
-<span class="l-Scalar-Plain">url</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">http://localhost:4000</span>
-<span class="l-Scalar-Plain">url</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">//cooldude.github.io</span>
-<span class="l-Scalar-Plain">url</span><span class="p-Indicator">:</span></code></pre></div>
+<figure class="highlight"><pre><code class="language-yaml" data-lang="yaml"><span class="s">url</span><span class="pi">:</span> <span class="s">http://mmistakes.github.io/minimal-mistakes</span>
+<span class="s">url</span><span class="pi">:</span> <span class="s">http://localhost:4000</span>
+<span class="s">url</span><span class="pi">:</span> <span class="s">//cooldude.github.io</span>
+<span class="s">url</span><span class="pi">:</span> </code></pre></figure>
 
 <h4 id="google-analytics-and-webmaster-tools">Google Analytics and Webmaster Tools</h4>
 
-<p>Google Analytics UA and Webmaster Tool verification tags can be entered under <code>owner</code> in <code>_config.yml</code>. For more information on obtaining these meta tags check <a href="http://support.google.com/webmasters/bin/answer.py?hl=en&amp;answer=35179">Google Webmaster Tools</a> and <a href="https://ssl.bing.com/webmaster/configure/verify/ownership">Bing Webmaster Tools</a> support.</p>
+<p>Google Analytics UA and Webmaster Tool verification tags can be entered under <code class="highlighter-rouge">owner</code> in <code class="highlighter-rouge">_config.yml</code>. For more information on obtaining these meta tags check <a href="http://support.google.com/webmasters/bin/answer.py?hl=en&amp;answer=35179">Google Webmaster Tools</a> and <a href="https://ssl.bing.com/webmaster/configure/verify/ownership">Bing Webmaster Tools</a> support.</p>
 
 <h3 id="navigation-links">Navigation Links</h3>
 
-<p>To set what links appear in the top navigation edit <code>_data/navigation.yml</code>. Use the following format to set the URL and title for as many links as you’d like. <em>External links will open in a new window.</em></p>
+<p>To set what links appear in the top navigation edit <code class="highlighter-rouge">_data/navigation.yml</code>. Use the following format to set the URL and title for as many links as you’d like. <em>External links will open in a new window.</em></p>
 
-<div class="highlight"><pre><code class="language-yaml" data-lang="yaml"><span class="p-Indicator">-</span> <span class="l-Scalar-Plain">title</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">Portfolio</span>
-  <span class="l-Scalar-Plain">url</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">/portfolio/</span>
+<figure class="highlight"><pre><code class="language-yaml" data-lang="yaml"><span class="pi">-</span> <span class="s">title</span><span class="pi">:</span> <span class="s">Portfolio</span>
+  <span class="s">url</span><span class="pi">:</span> <span class="s">/portfolio/</span>
 
-<span class="p-Indicator">-</span> <span class="l-Scalar-Plain">title</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">Made Mistakes</span>
-  <span class="l-Scalar-Plain">url</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">http://mademistakes.com</span></code></pre></div>
+<span class="pi">-</span> <span class="s">title</span><span class="pi">:</span> <span class="s">Made Mistakes</span>
+  <span class="s">url</span><span class="pi">:</span> <span class="s">http://mademistakes.com</span>  </code></pre></figure>
 
 <hr />
 
@@ -173,31 +173,31 @@ bundle exec jekyll serve</code></pre></div>
 
 <p>While completely optional, I’ve included Octopress and some starter templates to automate the creation of new posts and pages. To take advantage of it start by installing the <a href="https://github.com/octopress/octopress">Octopress</a> gem if it isn’t already.</p>
 
-<div class="highlight"><pre><code class="language-bash" data-lang="bash"><span class="nv">$ </span>gem install octopress --pre</code></pre></div>
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><span class="gp">$ </span>gem install octopress --pre</code></pre></figure>
 
 <h3 id="new-post">New Post</h3>
 
 <p>Default command</p>
 
-<div class="highlight"><pre><code class="language-bash" data-lang="bash"><span class="nv">$ </span>octopress new post <span class="s2">&quot;Post Title&quot;</span></code></pre></div>
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><span class="gp">$ </span>octopress new post <span class="s2">"Post Title"</span></code></pre></figure>
 
-<p>Default works great if you want all your posts in one directory, but if you’re like me and want to group them into subfolders like <code>/posts</code>, <code>/portfolio</code>, etc. Then this is the command for you. By specifying the DIR it will create a new post in that folder and populate the <code>categories:</code> YAML with the same value.</p>
+<p>Default works great if you want all your posts in one directory, but if you’re like me and want to group them into subfolders like <code class="highlighter-rouge">/posts</code>, <code class="highlighter-rouge">/portfolio</code>, etc. Then this is the command for you. By specifying the DIR it will create a new post in that folder and populate the <code class="highlighter-rouge">categories:</code> YAML with the same value.</p>
 
-<div class="highlight"><pre><code class="language-bash" data-lang="bash"><span class="nv">$ </span>octopress new post <span class="s2">&quot;New Post Title&quot;</span> --dir posts</code></pre></div>
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><span class="gp">$ </span>octopress new post <span class="s2">"New Post Title"</span> --dir posts</code></pre></figure>
 
 <h3 id="new-page">New Page</h3>
 
 <p>To create a new page use the following command.</p>
 
-<div class="highlight"><pre><code class="language-bash" data-lang="bash"><span class="nv">$ </span>octopress new page new-page/</code></pre></div>
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><span class="gp">$ </span>octopress new page new-page/</code></pre></figure>
 
-<p>This will create a page at <code>/new-page/index.md</code></p>
+<p>This will create a page at <code class="highlighter-rouge">/new-page/index.md</code></p>
 
 <hr />
 
 <h2 id="layouts-and-content">Layouts and Content</h2>
 
-<p>Explanations of the various <code>_layouts</code> included with the theme and when to use them.</p>
+<p>Explanations of the various <code class="highlighter-rouge">_layouts</code> included with the theme and when to use them.</p>
 
 <h3 id="post-and-page">Post and Page</h3>
 
@@ -208,34 +208,34 @@ bundle exec jekyll serve</code></pre></div>
 <p>A <a href="/posts/">sample index page</a> listing all posts grouped by the year they were published has been provided. The name can be customized to your liking by editing a few references. For example, to change <strong>Posts</strong> to <strong>Writing</strong> update the following:</p>
 
 <ul>
-  <li>In <code>_config.yml</code> under <code>links:</code> rename the title and URL to the following:</li>
+  <li>In <code class="highlighter-rouge">_config.yml</code> under <code class="highlighter-rouge">links:</code> rename the title and URL to the following:</li>
 </ul>
 
-<div class="highlight"><pre><code class="language-yaml" data-lang="yaml"><span class="l-Scalar-Plain">links</span><span class="p-Indicator">:</span>
-  <span class="p-Indicator">-</span> <span class="l-Scalar-Plain">title</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">Writing</span>
-    <span class="l-Scalar-Plain">url</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">/writing/</span></code></pre></div>
+<figure class="highlight"><pre><code class="language-yaml" data-lang="yaml">  <span class="s">links</span><span class="pi">:</span>
+  <span class="pi">-</span> <span class="s">title</span><span class="pi">:</span> <span class="s">Writing</span>
+    <span class="s">url</span><span class="pi">:</span> <span class="s">/writing/</span></code></pre></figure>
 
 <ul>
-  <li>Rename <code>posts/index.md</code> to <code>writing/index.md</code> and update the YAML front matter accordingly.</li>
-  <li>Update the <strong>View all posts</strong> link in the <code>post.html</code> layout found in <code>_layouts</code> to match title and URL set previously.</li>
+  <li>Rename <code class="highlighter-rouge">posts/index.md</code> to <code class="highlighter-rouge">writing/index.md</code> and update the YAML front matter accordingly.</li>
+  <li>Update the <strong>View all posts</strong> link in the <code class="highlighter-rouge">post.html</code> layout found in <code class="highlighter-rouge">_layouts</code> to match title and URL set previously.</li>
 </ul>
 
 <h3 id="feature-images">Feature Images</h3>
 
 <p>A good rule of thumb is to keep feature images nice and wide so you don’t push the body text too far down. An image cropped around around 1024 x 256 pixels will keep file size down with an acceptable resolution for most devices. If you want to serve these images responsively I’d suggest looking at the <a href="https://github.com/robwierzbowski/jekyll-picture-tag">Jekyll Picture Tag</a> plugin<sup id="fnref:plugins"><a href="#fn:plugins" class="footnote">1</a></sup>.</p>
 
-<p>The post and page layouts make the assumption that the feature images live in the <code>images/</code> folder. To add a feature image to a post or page just include the filename in the front matter like so. It’s probably best to host all your images from this folder, but you can hotlink from external sources if you desire.</p>
+<p>The post and page layouts make the assumption that the feature images live in the <code class="highlighter-rouge">images/</code> folder. To add a feature image to a post or page just include the filename in the front matter like so. It’s probably best to host all your images from this folder, but you can hotlink from external sources if you desire.</p>
 
-<div class="highlight"><pre><code class="language-yaml" data-lang="yaml"><span class="l-Scalar-Plain">image</span><span class="p-Indicator">:</span>
-  <span class="l-Scalar-Plain">feature</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">feature-image-filename.jpg</span>
-  <span class="l-Scalar-Plain">thumb</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">thumbnail-image.jpg</span> <span class="c1">#keep it square 200x200 px is good</span></code></pre></div>
+<figure class="highlight"><pre><code class="language-yaml" data-lang="yaml"><span class="s">image</span><span class="pi">:</span>
+  <span class="s">feature</span><span class="pi">:</span> <span class="s">feature-image-filename.jpg</span>
+  <span class="s">thumb</span><span class="pi">:</span> <span class="s">thumbnail-image.jpg</span> <span class="c1">#keep it square 200x200 px is good</span></code></pre></figure>
 
 <p>To add attribution to a feature image use the following YAML front matter on posts or pages. Image credits appear directly below the feature image with a link back to the original source if supplied.</p>
 
-<div class="highlight"><pre><code class="language-yaml" data-lang="yaml"><span class="l-Scalar-Plain">image</span><span class="p-Indicator">:</span>
-  <span class="l-Scalar-Plain">feature</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">feature-image-filename.jpg</span>
-  <span class="l-Scalar-Plain">credit</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">Michael Rose</span> <span class="c1">#name of the person or site you want to credit</span>
-  <span class="l-Scalar-Plain">creditlink</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">http://mademistakes.com</span> <span class="c1">#url to their site or licensing</span></code></pre></div>
+<figure class="highlight"><pre><code class="language-yaml" data-lang="yaml"><span class="s">image</span><span class="pi">:</span>
+  <span class="s">feature</span><span class="pi">:</span> <span class="s">feature-image-filename.jpg</span>
+  <span class="s">credit</span><span class="pi">:</span> <span class="s">Michael Rose</span> <span class="c1">#name of the person or site you want to credit</span>
+  <span class="s">creditlink</span><span class="pi">:</span> <span class="s">http://mademistakes.com</span> <span class="c1">#url to their site or licensing</span></code></pre></figure>
 
 <h3 id="thumbnails-for-og-and-twitter-cards">Thumbnails for OG and Twitter Cards</h3>
 
@@ -247,38 +247,38 @@ bundle exec jekyll serve</code></pre></div>
 
 <p>By making use of data files you can assign different authors for each post.</p>
 
-<p>Start by modifying <code>authors.yml</code> file in the <code>_data</code> folder and add your authors using the following format.</p>
+<p>Start by modifying <code class="highlighter-rouge">authors.yml</code> file in the <code class="highlighter-rouge">_data</code> folder and add your authors using the following format.</p>
 
-<div class="highlight"><pre><code class="language-yaml" data-lang="yaml"><span class="c1"># Authors</span>
+<figure class="highlight"><pre><code class="language-yaml" data-lang="yaml"><span class="c1"># Authors</span>
 
-<span class="l-Scalar-Plain">billy_rick</span><span class="p-Indicator">:</span>
-  <span class="l-Scalar-Plain">name</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">Billy Rick</span>
-  <span class="l-Scalar-Plain">web</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">http://thewhip.com</span>
-  <span class="l-Scalar-Plain">email</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">billy@rick.com</span>
-  <span class="l-Scalar-Plain">bio</span><span class="p-Indicator">:</span> <span class="s">&quot;What</span><span class="nv"> </span><span class="s">do</span><span class="nv"> </span><span class="s">you</span><span class="nv"> </span><span class="s">want,</span><span class="nv"> </span><span class="s">jewels?</span><span class="nv"> </span><span class="s">I</span><span class="nv"> </span><span class="s">am</span><span class="nv"> </span><span class="s">a</span><span class="nv"> </span><span class="s">very</span><span class="nv"> </span><span class="s">extravagant</span><span class="nv"> </span><span class="s">man.&quot;</span>
-  <span class="l-Scalar-Plain">avatar</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">bio-photo-2.jpg</span>
-  <span class="l-Scalar-Plain">twitter</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">extravagantman</span>
-  <span class="l-Scalar-Plain">google</span><span class="p-Indicator">:</span>
-    <span class="l-Scalar-Plain">plus</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">+BillyRick</span>
+<span class="s">billy_rick</span><span class="pi">:</span>
+  <span class="s">name</span><span class="pi">:</span> <span class="s">Billy Rick</span>
+  <span class="s">web</span><span class="pi">:</span> <span class="s">http://thewhip.com</span>
+  <span class="s">email</span><span class="pi">:</span> <span class="s">billy@rick.com</span>
+  <span class="s">bio</span><span class="pi">:</span> <span class="s2">"</span><span class="s">What</span><span class="nv"> </span><span class="s">do</span><span class="nv"> </span><span class="s">you</span><span class="nv"> </span><span class="s">want,</span><span class="nv"> </span><span class="s">jewels?</span><span class="nv"> </span><span class="s">I</span><span class="nv"> </span><span class="s">am</span><span class="nv"> </span><span class="s">a</span><span class="nv"> </span><span class="s">very</span><span class="nv"> </span><span class="s">extravagant</span><span class="nv"> </span><span class="s">man."</span>
+  <span class="s">avatar</span><span class="pi">:</span> <span class="s">bio-photo-2.jpg</span>
+  <span class="s">twitter</span><span class="pi">:</span> <span class="s">extravagantman</span>
+  <span class="s">google</span><span class="pi">:</span>
+    <span class="s">plus</span><span class="pi">:</span> <span class="s">+BillyRick</span>
 
-<span class="l-Scalar-Plain">cornelius_fiddlebone</span><span class="p-Indicator">:</span>
-  <span class="l-Scalar-Plain">name</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">Cornelius Fiddlebone</span>
-  <span class="l-Scalar-Plain">email</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">cornelius@thewhip.com</span>
-  <span class="l-Scalar-Plain">bio</span><span class="p-Indicator">:</span> <span class="s">&quot;I</span><span class="nv"> </span><span class="s">ordered</span><span class="nv"> </span><span class="s">what?&quot;</span>
-  <span class="l-Scalar-Plain">avatar</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">bio-photo.jpg</span>
-  <span class="l-Scalar-Plain">twitter</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">rhymeswithsackit</span>
-  <span class="l-Scalar-Plain">google</span><span class="p-Indicator">:</span>
-    <span class="l-Scalar-Plain">plus</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">+CorneliusFiddlebone</span></code></pre></div>
+<span class="s">cornelius_fiddlebone</span><span class="pi">:</span>
+  <span class="s">name</span><span class="pi">:</span> <span class="s">Cornelius Fiddlebone</span>
+  <span class="s">email</span><span class="pi">:</span> <span class="s">cornelius@thewhip.com</span>
+  <span class="s">bio</span><span class="pi">:</span> <span class="s2">"</span><span class="s">I</span><span class="nv"> </span><span class="s">ordered</span><span class="nv"> </span><span class="s">what?"</span>
+  <span class="s">avatar</span><span class="pi">:</span> <span class="s">bio-photo.jpg</span>
+  <span class="s">twitter</span><span class="pi">:</span> <span class="s">rhymeswithsackit</span>
+  <span class="s">google</span><span class="pi">:</span>
+    <span class="s">plus</span><span class="pi">:</span> <span class="s">+CorneliusFiddlebone</span></code></pre></figure>
 
 <p>To assign Billy Rick as an author for our post. We’d add the following YAML front matter to a post:</p>
 
-<div class="highlight"><pre><code class="language-yaml" data-lang="yaml"><span class="l-Scalar-Plain">author</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">billy_rick</span></code></pre></div>
+<figure class="highlight"><pre><code class="language-yaml" data-lang="yaml"><span class="s">author</span><span class="pi">:</span> <span class="s">billy_rick</span></code></pre></figure>
 
 <h3 id="kramdown-table-of-contents">Kramdown Table of Contents</h3>
 
-<p>To include an auto-generated <strong>table of contents</strong> for posts and pages, add the following <code>_include</code> before the actual content. <a href="http://kramdown.rubyforge.org/converter/html.html#toc">Kramdown will take care of the rest</a> and convert all headlines into list of links.</p>
+<p>To include an auto-generated <strong>table of contents</strong> for posts and pages, add the following <code class="highlighter-rouge">_include</code> before the actual content. <a href="http://kramdown.rubyforge.org/converter/html.html#toc">Kramdown will take care of the rest</a> and convert all headlines into list of links.</p>
 
-<div class="highlight"><pre><code class="language-html" data-lang="html">{% include _toc.html %}</code></pre></div>
+<figure class="highlight"><pre><code class="language-html" data-lang="html">{% include _toc.html %}</code></pre></figure>
 
 <h3 id="paragraph-indentation">Paragraph Indentation</h3>
 
@@ -289,9 +289,9 @@ bundle exec jekyll serve</code></pre></div>
   <figcaption>Example of the default paragraph style (indented first line and bottom margin removed).</figcaption>
 </figure>
 
-<p>To disable the indents and add spacing between paragraphs change the following line in <code>_sass/variables.scss</code> from <code>true !default</code> to <code>false</code> like so.</p>
+<p>To disable the indents and add spacing between paragraphs change the following line in <code class="highlighter-rouge">_sass/variables.scss</code> from <code class="highlighter-rouge">true !default</code> to <code class="highlighter-rouge">false</code> like so.</p>
 
-<div class="highlight"><pre><code class="language-css" data-lang="css"><span class="o">$</span><span class="nt">paragraph-indent</span><span class="o">:</span> <span class="nt">false</span><span class="o">;</span></code></pre></div>
+<figure class="highlight"><pre><code class="language-css" data-lang="css"><span class="err">$</span><span class="nt">paragraph-indent</span><span class="o">:</span> <span class="nt">false</span><span class="o">;</span></code></pre></figure>
 
 <figure>
   <img src="/images/paragraph-no-indent.png" alt="screen shot of paragraphs with indent style disabled" />
@@ -302,27 +302,27 @@ bundle exec jekyll serve</code></pre></div>
 
 <p>Video embeds are responsive and scale with the width of the main content block with the help of <a href="http://fitvidsjs.com/">FitVids</a>.</p>
 
-<p>Not sure if this only effects Kramdown or if it’s an issue with Markdown in general. But adding YouTube video embeds causes errors when building your Jekyll site. To fix add a space between the <code>&lt;iframe&gt;</code> tags and remove <code>allowfullscreen</code>. Example below:</p>
+<p>Not sure if this only effects Kramdown or if it’s an issue with Markdown in general. But adding YouTube video embeds causes errors when building your Jekyll site. To fix add a space between the <code class="highlighter-rouge">&lt;iframe&gt;</code> tags and remove <code class="highlighter-rouge">allowfullscreen</code>. Example below:</p>
 
-<div class="highlight"><pre><code class="language-html" data-lang="html"><span class="nt">&lt;iframe</span> <span class="na">width=</span><span class="s">&quot;560&quot;</span> <span class="na">height=</span><span class="s">&quot;315&quot;</span> <span class="na">src=</span><span class="s">&quot;http://www.youtube.com/embed/PWf4WUoMXwg&quot;</span> <span class="na">frameborder=</span><span class="s">&quot;0&quot;</span><span class="nt">&gt;</span> <span class="nt">&lt;/iframe&gt;</span></code></pre></div>
+<figure class="highlight"><pre><code class="language-html" data-lang="html"><span class="nt">&lt;iframe</span> <span class="na">width=</span><span class="s">"560"</span> <span class="na">height=</span><span class="s">"315"</span> <span class="na">src=</span><span class="s">"http://www.youtube.com/embed/PWf4WUoMXwg"</span> <span class="na">frameborder=</span><span class="s">"0"</span><span class="nt">&gt;</span> <span class="nt">&lt;/iframe&gt;</span></code></pre></figure>
 
 <h3 id="social-sharing-links">Social Sharing Links</h3>
 
-<p>Social sharing links for Twitter, Facebook, and Google+ are included on posts/pages by default. To hide them on specific posts or pages add <code>share: false</code> to the YAML Front Matter. If you’d like to use different social networks modify <code>_includes/_social-share.html</code> to your liking. Icons are set using <a href="http://fontawesome.io">Font Awesome</a>.</p>
+<p>Social sharing links for Twitter, Facebook, and Google+ are included on posts/pages by default. To hide them on specific posts or pages add <code class="highlighter-rouge">share: false</code> to the YAML Front Matter. If you’d like to use different social networks modify <code class="highlighter-rouge">_includes/_social-share.html</code> to your liking. Icons are set using <a href="http://fontawesome.io">Font Awesome</a>.</p>
 
 <hr />
 
 <h2 id="further-customization">Further Customization</h2>
 
-<p>Jekyll 2.x added support for Sass files making it much easier to modify a theme’s fonts and colors. By editing values found in <code>_sass/variables.scss</code> you can fine tune the site’s colors and typography.</p>
+<p>Jekyll 2.x added support for Sass files making it much easier to modify a theme’s fonts and colors. By editing values found in <code class="highlighter-rouge">_sass/variables.scss</code> you can fine tune the site’s colors and typography.</p>
 
-<p>For example if you wanted a red background instead of white you’d change <code>$bodycolor: #fff;</code> to <code>$bodycolor: $cc0033;</code>.</p>
+<p>For example if you wanted a red background instead of white you’d change <code class="highlighter-rouge">$bodycolor: #fff;</code> to <code class="highlighter-rouge">$bodycolor: $cc0033;</code>.</p>
 
-<p>To modify the site’s JavaScript files I setup a Grunt build script to lint/concatenate/minify all scripts into <code>scripts.min.js</code>. <a href="http://nodejs.org/">Install Node.js</a>, then <a href="http://gruntjs.com/getting-started">install Grunt</a>, and then finally install the dependencies for the theme contained in <code>package.json</code>:</p>
+<p>To modify the site’s JavaScript files I setup a Grunt build script to lint/concatenate/minify all scripts into <code class="highlighter-rouge">scripts.min.js</code>. <a href="http://nodejs.org/">Install Node.js</a>, then <a href="http://gruntjs.com/getting-started">install Grunt</a>, and then finally install the dependencies for the theme contained in <code class="highlighter-rouge">package.json</code>:</p>
 
-<div class="highlight"><pre><code class="language-bash" data-lang="bash">npm install</code></pre></div>
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash">npm install</code></pre></figure>
 
-<p>From the theme’s root, use <code>grunt</code> concatenate JavaScript files, and optimize .jpg, .png, and .svg files in the <code>images/</code> folder. You can also use <code>grunt dev</code> in combination with <code>jekyll build --watch</code> to watch for updates JS files that Grunt will then automatically re-build as you write your code which will in turn auto-generate your Jekyll site when developing locally.</p>
+<p>From the theme’s root, use <code class="highlighter-rouge">grunt</code> concatenate JavaScript files, and optimize .jpg, .png, and .svg files in the <code class="highlighter-rouge">images/</code> folder. You can also use <code class="highlighter-rouge">grunt dev</code> in combination with <code class="highlighter-rouge">jekyll build --watch</code> to watch for updates JS files that Grunt will then automatically re-build as you write your code which will in turn auto-generate your Jekyll site when developing locally.</p>
 
 <hr />
 
@@ -334,7 +334,7 @@ bundle exec jekyll serve</code></pre></div>
 
 <h2 id="license">License</h2>
 
-<p>This theme is free and open source software, distributed under the MIT License. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer. </p>
+<p>This theme is free and open source software, distributed under the MIT License. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer.</p>
 <div class="footnotes">
   <ol>
     <li id="fn:plugins">

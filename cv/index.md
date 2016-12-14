@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  
+title: Curriculum Vitae
 excerpt: "curriculum vitae"
 tags: [cv, Jekyll, theme, responsive, blog, template]
 modified: 2014-08-08T20:53:07.573882-04:00
@@ -43,7 +43,7 @@ image:
 
 </style>
 
-# Work Experience
+## Work Experience
 <hr>
 
 <div id="columns">
@@ -76,7 +76,7 @@ image:
     </div>
 </div>
 
-# Teaching
+## Teaching
 <hr>
 I have been teaching assistant in the following courses:
 
@@ -125,7 +125,7 @@ I have been teaching assistant in the following courses:
 </div>
 
 
-# Education
+## Education
 <hr>
 
 <div id="columns">
@@ -153,7 +153,7 @@ I have been teaching assistant in the following courses:
 </div>
 
 
-# Languages
+## Languages
 <hr>
 
 <div id="columns">
@@ -189,7 +189,7 @@ I have been teaching assistant in the following courses:
     </div>
 </div>
 
-# Technical Skills
+## Technical Skills
 <hr>
 
 <div id="columns">
