@@ -27,7 +27,7 @@ I am interested in many different aspects of natural language, a selection:
 
 Currently I am investigating how recurrent neural networks can process hierarchical compositionality. 
 In [<font color="brown">this paper</font>](nips2016.pdf){:target="_blank"}, some preliminary findings for this project are described, as well as an extensive account of how a task involving hierarchical compositionality can be implemented in a recursive neural network (work of my colleague Sara Veldhoen).
-The source code of this project is not publically available yet, but will be available at [<font color="brown">https://github.com/dieuwkehupkes/processing_arithmetics</font>](https://github.com/dieuwkehupkes/processing_arithmetics){:target="_blank"}.
+The source code of this project is available at [<font color="brown">https://github.com/dieuwkehupkes/processing_arithmetics</font>](https://github.com/dieuwkehupkes/processing_arithmetics){:target="_blank"}.
 
 ## Previous Projects
 
