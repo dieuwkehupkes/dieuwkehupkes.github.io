@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Finding Recurrent Weights in Keras Models
-excerpt_separator: <train my networks,>
-date: 2017-05-18
+comments: true
+date: 2017-05-21
 ---
 
 As a researcher who is trying to gain a better understanding of the internal dynamics of recurrent neural networks, sometimes I want to look at the trained weights of my networks.
@@ -16,7 +16,7 @@ As I feel that accessing and the weight matrices of networks should be easy (and
 
 ### Finding weights of a GRU layer
 
-Thus, following the example on the keras website, if we create a network with one GRU layer:
+Thus, following the example on the Keras website, we create a network with one GRU layer:
 
 {% highlight python %}
 from keras.models import Sequential
