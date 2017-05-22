@@ -19,4 +19,4 @@ Currently, in my PhD work, I focus on (artificial) neural network models for (se
 Although artificial neural networks are of course nothing like the real brain, I hope that understanding the principles by which they can encode processes can still teach us something that will lead to a better understanding of how language could be implemented in the brain.   
 
 In my free time, I still spend quite a substantial amount of my time thinking about language and learning new ones.
-I am also a pretty fanatic sports girl (playing, not watching) and I like playing the piano.
+I am also a pretty fanatic pole dancer (participating in competitions with my duo partner) and I like playing the piano.
