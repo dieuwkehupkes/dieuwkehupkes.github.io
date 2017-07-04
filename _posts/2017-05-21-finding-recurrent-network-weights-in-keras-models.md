@@ -48,7 +48,7 @@ np.array_equal(GRU_layer.get_weights()[1][:,10:20], recurrent_weights)
 
 I conclude that for the `get_weights()` function returns 
 {% highlight python %}
-GRU.get_weights() = [[W_z; W_r, W_h], [U_z, U_r, U_h], [bias_z, bias_r, bias_h]]
+GRU.get_weights() = [[W_z; W_r; W_h], [U_z; U_r; U_h], [bias_z; bias_r; bias_h]]
 {% endhighlight %}
 
 Well, that was it for now, hope this was useful for anyone (and if not, it will probably be for future me :)).
