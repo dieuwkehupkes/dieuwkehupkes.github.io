@@ -124,6 +124,23 @@ I have been teaching assistant in the following courses:
     </div>
 </div>
 
+I have (co)supervised the following projects:
+
+<div id="columns">
+    <div class="date column">
+        <b>
+        Spring 2017
+        <br><br>
+        </b>
+    </div>
+    <div class="description column">
+        <b><font color="brown">Bachelor Artificial Intelligence Thesis</font></b> of Philip Bouman 
+        <br> <i>Modelling fonts with convolutional neural networks.</i> 
+        <br> Co-supervision with Jelle Zuidema
+        <br><br>
+    </div>
+</div>
+
 
 ## Education
 <hr>
