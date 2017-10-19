@@ -63,7 +63,7 @@ image:
 
     PhD Student, <b>ILLC, University of Amsterdam</b>
     <br><i>Supervisor</i>: <a href="http://wzuidema.humanities.uva.nl/" target="_blank"><font color="brown">Willem Zuidema</font></a>
-    <br><font size="2"> Working on: neurally inspired models of natural language processing </font>
+    <br><font size="2"> Working on: neurally inspired models of hierarchical compositionality </font>
 
     <br><br>Research Assistant, <b>ILLC, University of Amsterdam</b>
     <br><i>Supervisor</i>: <a href="http://wzuidema.humanities.uva.nl/" target="_blank"><font color="brown">Willem Zuidema</font></a>
@@ -214,12 +214,14 @@ I have (co)supervised the following projects:
         Competent with
         <br> Familiar with
         <br> Libraries
+        <br> Version control
         <br><br>
     </div>
     <div class="description column">
-        Python, Java, Matlab, Processing, Bash, R
-        <br> Prolog, C
-        <br> Theano, Keras
+        Python, Bash, Matlab, Processing, R
+        <br> Java, Prolog, C
+        <br> Theano, Keras, Pytorch
+        <br> Git
         <br><br>
     </div>
 
