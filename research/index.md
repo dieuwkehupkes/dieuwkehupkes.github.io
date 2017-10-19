@@ -16,11 +16,13 @@ image:
 I am interested in many different aspects of natural language, a selection:
 
 - Computational and cognitive models of natural language processing
+- Neurocomputational models of language (processing)
+- Hierarchical compositionality and recursion
+- Learning biases
 - Semantic parsing
+- Recurrent neural networks
 - Statistical parsing
-- Natural language understanding
-- Evolution of language and iterated learning
-- Language acquisition and human learning biases
+- Language acquisition.
 
 
 ## Current Project
