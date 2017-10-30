@@ -13,7 +13,9 @@ image:
 
 ## In preparation/under review
 
-* Zuidema W., Hupkes, D., Wiggins G., Scharf C. and Rohrmeier M. (under review). Formal models of Structure Building in Music, Language and Animal Song. for: Musical Animals book.
+* Hupkes, D., Veldhoen, S., and Zuidema, W. (under review for [JAIR](../research/JAIR.pdf){:target="blank"}).
+
+* Zuidema W., Hupkes, D., Wiggins G., Scharf C. and Rohrmeier M. Formal models of Structure Building in Music, Language and Animal Song. To appear in: Musical Animals book.
 
 * Nielsen A., Hupkes D., Kirby S. and Smith K. (in prep). The arbitrariness of the sign revisited: An examination of the roles of phonological similarity and task construction in an artificial language learning paradigm.
 
