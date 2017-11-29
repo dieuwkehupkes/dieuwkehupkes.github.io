@@ -22,7 +22,7 @@ image:
 
 ## 2017
 
-* Hupkes, D. and Zuidema, W. (2017). Diagnostic classification and symbolic guidance to understand and improve recurrent neural networks. Interpreting, Explaining and Visualizing Deep Learning, NIPS2017.\\
+* Hupkes, D. and Zuidema, W. (2017). Diagnostic classification and symbolic guidance to understand and improve recurrent neural networks. Interpreting, Explaining and Visualizing Deep Learning, NIPS2017.
 
 ## 2016
 
