@@ -13,7 +13,7 @@ image:
 
 ## In preparation/under review
 
-* Hupkes, D., Veldhoen, S., and Zuidema, W. (under review for [JAIR](../research/JAIR.pdf){:target="blank"}).
+* Hupkes, D., Veldhoen, S., and Zuidema, W. (under review for [JAIR](https://arxiv.org/abs/1711.10203){:target="blank"}).
 
 * Zuidema W., Hupkes, D., Wiggins G., Scharf C. and Rohrmeier M. Formal models of Structure Building in Music, Language and Animal Song. To appear in: Musical Animals book.
 
