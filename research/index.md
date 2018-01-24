@@ -5,8 +5,7 @@ excerpt: "A page describing my research (interests)"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
 
-
-  feature: piano-header-own2.jpg
+  feature: amsterdam-header2.jpg
 ---
 
 {% include _toc.html %}

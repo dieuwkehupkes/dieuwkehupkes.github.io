@@ -9,6 +9,7 @@ image:
 
 My name is Dieuwke, I am a PhD student at the <a href="http://illc.uva.nl" target="_blank"><font color="brown">Institute for Logic, Language and Computation</font></a>, under supervision of <a href="https://staff.fnwi.uva.nl/w.zuidema/" target="_blank"><font color="brown">Willem Zuidema</font></a>. 
 I am employed within the the <a href="https://www.languageininteraction.nl/" target="_blank"><font color="brown">Language in Interaction</font></a> project since July 2015.   
+  
 
 I started my journey in academia studying physics, but at some point I had to admit that although I think physics is very interesting and I love abstract systems, my true passion is really the beautifully complex system that is natural language.
 While doing a master in Logic at the University of Amsterdam I was very lucky to discover the field of computational linguistics (and in particular syntactic parsing).
