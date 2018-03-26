@@ -13,7 +13,7 @@ image:
 
 ## In preparation/under review
 
-* Hupkes, D., Veldhoen, S., and Zuidema, W.  Visualisation and 'diagnostic classifiers' reveal how recurrent and recursive neural networks process hierarchical structure.\\
+* Hupkes, D., Veldhoen, S., and Zuidema, W.  Visualisation and 'diagnostic classifiers' reveal how recurrent and recursive neural networks process hierarchical structure, Journal of Artificial Intelligence Research, accepted.\\
 \[[<font color="brown">paper</font>](https://arxiv.org/abs/1711.10203){:target="blank"}\].
 
 
@@ -21,7 +21,7 @@ image:
 
 ## 2018
 
-* Zuidema W., Hupkes, D., Wiggins G., Scharf C. and Rohrmeier M (2018). Formal models of Structure Building in Music, Language and Animal Song, The Origins of Musicality, MIT Press.
+* Zuidema W., Hupkes, D., Wiggins G., Scharf C. and Rohrmeier M (2018). In: Formal models of Structure Building in Music, Language and Animal Song, The Origins of Musicality, MIT Press.
 
 ## 2017
 
