@@ -13,21 +13,21 @@ image:
 
 ## In preparation/under review
 
-* Hupkes, D., Singh, A.K., Korrel, K., Kruszewski, G. and, Bruni E (submitted). Learning compositionally through attentive guidance.
+* Hupkes D., Kumar Singh A., Korrel K., Kruszewski G. and, Bruni E (submitted). Learning compositionally through attentive guidance.
 
-* Nielsen, A., Hupkes, D., Kirby, S. and Smith, K. (in prep). The arbitrariness of the sign revisited: An examination of the roles of phonological similarity and task construction in an artificial language learning paradigm.
+* Nielsen A., Hupkes D., Kirby S. and Smith K. (in prep). The arbitrariness of the sign revisited: An examination of the roles of phonological similarity and task construction in an artificial language learning paradigm.
 
 ## 2018
 
-* Hupkes, D., Veldhoen, S., and Zuidema, W.  Visualisation and 'diagnostic classifiers' reveal how recurrent and recursive neural networks process hierarchical structure, *Journal of Artificial Intelligence Research*, 61, 907-926.\\
+* Hupkes D., Veldhoen S., and Zuidema W.  Visualisation and 'diagnostic classifiers' reveal how recurrent and recursive neural networks process hierarchical structure, *Journal of Artificial Intelligence Research*, 61, 907-926.\\
 \[[<font color="brown">paper</font>](https://arxiv.org/abs/1711.10203){:target="blank"}\].
 
 
-* Zuidema W., Hupkes, D., Wiggins G., Scharf C. and Rohrmeier M (2018). In: Formal models of Structure Building in Music, Language and Animal Song, The Origins of Musicality, MIT Press.
+* Zuidema W., Hupkes D., Wiggins G., Scharf C. and Rohrmeier M (2018). In: Formal models of Structure Building in Music, Language and Animal Song, The Origins of Musicality, MIT Press.
 
 ## 2017
 
-* Hupkes, D. and Zuidema, W. (2017). Diagnostic classification and symbolic guidance to understand and improve recurrent neural networks. Interpreting, Explaining and Visualizing Deep Learning, NIPS2017.\\
+* Hupkes D. and Zuidema W. (2017). Diagnostic classification and symbolic guidance to understand and improve recurrent neural networks. Interpreting, Explaining and Visualizing Deep Learning, NIPS2017.\\
 \[[<font color="brown">paper</font>](http://www.interpretable-ml.org/nips2017workshop/papers/12.pdf){:target="blank"}\] \[[<font color="brown">poster</font>](../research/nips2017_poster.pdf){:target="_blank"}\] \[[<font color="brown">source code</font>](https://github.com/dieuwkehupkes/processing_arithmetics){:target="_blank"}\]
 
 ## 2016
