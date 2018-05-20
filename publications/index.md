@@ -13,7 +13,7 @@ image:
 
 ## In preparation/under review
 
-* Hupkes D., Kumar Singh A., Korrel K., Kruszewski G. and, Bruni E (submitted). Learning compositionally through attentive guidance.
+* Hupkes D., Singh A.K., Korrel K., Kruszewski G. and, Bruni E (submitted). Learning compositionally through attentive guidance.
 
 * Nielsen A., Hupkes D., Kirby S. and Smith K. (in prep). The arbitrariness of the sign revisited: An examination of the roles of phonological similarity and task construction in an artificial language learning paradigm.
 
