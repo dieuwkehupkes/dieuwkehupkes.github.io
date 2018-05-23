@@ -5,7 +5,7 @@ excerpt: "A page describing my research (interests)"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
 
-  feature: icy_amsterdam1.jpeg
+  feature: sunny_amsterdam.jpg
 ---
 
 {% include _toc.html %}

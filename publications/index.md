@@ -6,7 +6,7 @@ tags: [Jekyll, theme, responsive, blog, template]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 image: 
-    feature: icy_amsterdam1.jpeg
+    feature: sunny_amsterdam.jpg
 ---
 
 {% include _toc.html %}

@@ -4,7 +4,7 @@ title: About me
 excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: icy_amsterdam1.jpeg
+  feature: sunny_amsterdam.jpg
 ---
 
 My name is Dieuwke, I am a PhD student at the <a href="http://illc.uva.nl" target="_blank"><font color="brown">Institute for Logic, Language and Computation</font></a>, under supervision of <a href="https://staff.fnwi.uva.nl/w.zuidema/" target="_blank"><font color="brown">Willem Zuidema</font></a>. 
