@@ -24,7 +24,7 @@ I am interested in many different aspects of natural language, a selection:
 - Language acquisition.
 
 
-## Current Project
+## Diagnostic Classifiers
 
 Currently I am investigating how recurrent neural networks can process hierarchical compositionality. 
 In [<font color="brown">this paper</font>](nips2016.pdf){:target="_blank"}, some preliminary findings for this project are described, as well as an extensive account of how a task involving hierarchical compositionality can be implemented in a recursive neural network (work of my colleague Sara Veldhoen).
@@ -39,10 +39,6 @@ Before I started my PhD I was employed in the digital humanities project [<font 
 This project taught me several interesting things about my own language and how it is to work in the field of digital humanities, but also got me interested in semi supervised learning.
 [<font color="brown">This paper</font>](LREC2016.pdf){:target="_blank"}, that I presented at LREC in 2016, describes the main findings of the project.
 It always felt like this project wasn't quite finished when I left it, so if you are interested in POStagging historical languages, drop me a line!
-
-### Lexical learning
-
-Following soon.
 
 ### Compositionality of translation
 
