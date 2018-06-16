@@ -20,4 +20,5 @@ Recently, a large body of my work has been centered around developing techniques
 If you are interested, check my publications on diagnostic classification!
 <br /><br />
 In my free time, I spend a lot of time training for pole dancing competitions with my fantastic duo partner Suzy. 
+In fact, this year (2018), we won the national championships!
 If you are not convinced yet that it is a serious sport, have a look at our <a href="https://www.instagram.com/duo_polenotti/" target="_blank">Instagram</a> :).
