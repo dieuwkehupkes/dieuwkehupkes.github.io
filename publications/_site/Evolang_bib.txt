@@ -1,7 +1,0 @@
-@inproceedings{evolang11_126,
-	Author = {Nielsen, Alan and Hupkes, Dieuwke and Kirby, Simon and Smith, Kenny},
-	Booktitle = {The Evolution of Language: Proceedings of the 11th International Conference (EVOLANGX11)},
-	Editor = {S.G. Roberts and C. Cuskley and L. McCrohon and L. Barcel\'{o}-Coblijn and O. Feh\'{e}r and T. Verhoef},
-	Publisher = {Online at \url{http://evolang.org/neworleans/papers/126.html}},
-	Title = {The Arbitrariness Of The Sign Revisited: The Role Of Phonological Similarity},
-	Year = {2016}}
