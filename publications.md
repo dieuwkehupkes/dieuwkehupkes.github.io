@@ -12,16 +12,17 @@ image:
 
 ## In preparation/under review
 
-* Hupkes D., Singh A.K., Korrel K., Kruszewski G. and, Bruni E (submitted). Learning compositionally through attentive guidance.\\
-\[[<font color="brown">paper</font>](../research/attentive_guidance.pdf){:target="blank"}\] \[[<font color="brown">source code</font>](https://github.com/i-machine-think/machine/tree/master){:target="_blank"}\]
-.
-
 * Nielsen A., Hupkes D., Kirby S. and Smith K. (in prep). The arbitrariness of the sign revisited: An examination of the roles of phonological similarity and task construction in an artificial language learning paradigm.
 
 ## 2018
 
+* Hupkes D., Singh A.K., Korrel K., Kruszewski G. and, Bruni E (submitted). Learning compositionally through attentive guidance.\\
+\[[<font color="brown">paper</font>](../research/attentive_guidance.pdf){:target="blank"}\] \[[<font color="brown">source code</font>](https://github.com/i-machine-think/machine/tree/master){:target="_blank"}\]
+.
+
 * Hupkes D., Veldhoen S., and Zuidema W.  Visualisation and 'diagnostic classifiers' reveal how recurrent and recursive neural networks process hierarchical structure, *Journal of Artificial Intelligence Research*, 61, 907-926.\\
 \[[<font color="brown">paper</font>](https://arxiv.org/abs/1711.10203){:target="blank"}\].
+\[[<font color="brown">bibtex</font>](https://arxiv.org/abs/1711.10203){:target="blank"}\].
 
 
 * Zuidema W., Hupkes D., Wiggins G., Scharf C. and Rohrmeier M (2018). In: Formal models of Structure Building in Music, Language and Animal Song, The Origins of Musicality, MIT Press.
