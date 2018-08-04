@@ -16,7 +16,7 @@ image:
 
 ## 2018
 
-* Hupkes D., Singh A.K., Korrel K., Kruszewski G. and, Bruni E (submitted). Learning compositionally through attentive guidance.\\
+* Hupkes D., Singh A.K., Korrel K., Kruszewski G. and, Bruni E. Learning compositionally through attentive guidance.\\
 \[[<font color="brown">paper</font>](../research/attentive_guidance.pdf){:target="blank"}\] \[[<font color="brown">source code</font>](https://github.com/i-machine-think/machine/tree/master){:target="_blank"}\]
 .
 
