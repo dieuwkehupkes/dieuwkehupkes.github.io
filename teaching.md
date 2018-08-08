@@ -58,19 +58,12 @@ Currently, I am co-supervising the following students:
         Jan 2018 - now
         <br><br><br><br>
         Jan 2018 - now
-        <br><br><br><br>
-        Jan 2018 - now
         <br><br>
         </b>
     </div>
     <div class="description column">
         <b>Anand Kumar Singh</b>, <font color="brown">Master Computational Intelligence</font>
         <br><i> Inducing compositionality in neural networks </i>
-        <br> Co-supervision with Elia Bruni and Germ&#x00E1;n Kruszewski
-        <br><br>
-
-        <b>Rezka Aufar Leonandya</b>, <font color="brown">Master Artificial Intelligence</font>
-        <br><i> Learning how to learn to follow instructions </i>
         <br> Co-supervision with Elia Bruni and Germ&#x00E1;n Kruszewski
         <br><br>
 
@@ -103,11 +96,18 @@ Previously, I have (co)supervised the following students:
 <div id="columns">
     <div class="date column">
         <b>
+        Jan - Aug 2018
+        <br><br><br><br>
         Spring 2017
         <br><br>
         </b>
     </div>
     <div class="description column">
+        <b>Rezka Aufar Leonandya</b>, <font color="brown">Master Artificial Intelligence</font>
+        <br><i> Learning to follow instructions </i>
+        <br> Co-supervision with Elia Bruni and Germ&#x00E1;n Kruszewski
+        <br><br>
+
         <b>Philip Bouman</b>, <font color="brown">Bachelor Artificial Intelligence Thesis</font>
         <br> <i>Modelling fonts with convolutional neural networks.</i> 
         <br> Co-supervision with Jelle Zuidema
