@@ -41,6 +41,15 @@ Process Hierarchical Structure. [<font color="brown">Cognitive Computation: Inte
 * Hupkes D. and Bod R. (2016). POS-tagging of Historical Dutch. In N. Calzolari, K. Choukri, T. Declerck, S. Goggi, M. Grobelnik, B. Maegaard, J. Mariani, H. Mazo, A. Moreno, J. Odijk and S. Piperidis (eds) Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC 2016).   
 \[[<font color="brown">bibtex</font>](LREC_bib.txt){:target="_blank"}\] \[[<font color="brown">paper</font>](../research/LREC2016.pdf){:target="_blank"}\] \[[<font color="brown">source code</font>](https://github.com/dieuwkehupkes/POStagging){:target="_blank"}\]
 
-* Nielsen A., Hupkes D., Kirby S. and Smith K. (2016). The Arbitrariness Of The Sign Revisited: The Role Of Phonological Similarity. In S.G. Roberts, C. Cuskley, L. McCrohon, L. Barceló-Coblijn, O. Fehér & T. Verhoef (eds.) The Evolution of Language: Proceedings of the 11th International Conference (EVOLANG11). Available online: [<font color="brown">http://evolang.org/neworleans/papers/126.html</font>](http://evolang.org/neworleans/papers/126.html){:target="_blank"}   
+## Abstracts
+
+* Lakretz, Y., Kruszewski, G., Hupkes, D., Desbordes, T., Marti, S., Dehaene, S.and Baroni, M., (2018). The representation of syntactic structures in Long-Short Term Memory networks and humans. [<font color="brown">L2HM</font>](https://l2hm2018.sciencesconf.org/){:target="_blank"}.
+
+* Zuidema, W., Hupkes, D., Abnar, S. (2018). Interpretable Machine Learning for Predicting Brain Activation in Language Processing. [<font color="brown">L2HM</font>](https://l2hm2018.sciencesconf.org/){:target="_blank"}.
+
+* Leonandya, R., Kruszewski, G., Hupkes, D., Bruni, E. (2018). The Fast and the Flexible: pretraining neural networks to learn from small data. [<font color="brown">L2HM</font>](https://l2hm2018.sciencesconf.org/){:target="_blank"}.
+
+* Nielsen A., Hupkes D., Kirby S. and Smith K. (2016). The Arbitrariness Of The Sign Revisited: The Role Of Phonological Similarity. In S.G. Roberts, C. Cuskley, L. McCrohon, L. Barceló-Coblijn, O. Fehér & T. Verhoef (eds.) The Evolution of Language: Proceedings of the 11th International Conference (EVOLANG11).   
+\[[<font color="brown">abstract</font>](http://evolang.org/neworleans/papers/126.html){:target="_blank"}\]
 \[[<font color="brown">bibtex</font>](Evolang_bib.txt){:target="_blank"}\]
 
