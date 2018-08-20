@@ -54,24 +54,10 @@ Currently, I am co-supervising the following students:
         Jan 2018 - now
         <br><br><br><br>
         Jan 2018 - now
-        <br><br><br><br>
-        Jan 2018 - now
-        <br><br><br><br>
-        Jan 2018 - now
         <br><br>
         </b>
     </div>
     <div class="description column">
-        <b>Anand Kumar Singh</b>, <font color="brown">Master Computational Intelligence</font>
-        <br><i> Inducing compositionality in neural networks </i>
-        <br> Co-supervision with Elia Bruni and Germ&#x00E1;n Kruszewski
-        <br><br>
-
-        <b>Ujjwal Sharma</b>, <font color="brown">Master Artificial Intelligence</font>
-        <br><i>Understanding and influencing visual dialogue models</i>
-        <br> Co-supervision with Elia Bruni
-        <br><br>
-
         <b>Sanne Bouwmeester</b>, <font color="brown">Master Artificial Intelligence</font>
         <br> <i>Incremental dialogue modelling with recurrent neural networks</i>
         <br> Co-supervision with Raquel Fernandez
@@ -91,11 +77,15 @@ Currently, I am co-supervising the following students:
 </div>
 
 <hr>
-Previously, I have (co)supervised the following students:
+In the past, I have (co)supervised the following students:
 
 <div id="columns">
     <div class="date column">
         <b>
+        Jan 2018 - now
+        <br><br><br><br>
+        Jan 2018 - now
+        <br><br><br><br>
         Jan - Aug 2018
         <br><br><br><br>
         Spring 2017
@@ -103,6 +93,16 @@ Previously, I have (co)supervised the following students:
         </b>
     </div>
     <div class="description column">
+        <b>Anand Kumar Singh</b>, <font color="brown">Master Computational Intelligence</font>
+        <br><i> Pondering in Artificial Neural Networks </i>
+        <br> Co-supervision with Elia Bruni and Germ&#x00E1;n Kruszewski
+        <br><br>
+
+        <b>Ujjwal Sharma</b>, <font color="brown">Master Artificial Intelligence</font>
+        <br><i> Interpreting Decision-Making in Interactive Visual Dialogue </i>
+        <br> Co-supervision with Elia Bruni
+        <br><br>
+
         <b>Rezka Aufar Leonandya</b>, <font color="brown">Master Artificial Intelligence</font>
         <br><i> Learning to follow instructions </i>
         <br> Co-supervision with Elia Bruni and Germ&#x00E1;n Kruszewski
