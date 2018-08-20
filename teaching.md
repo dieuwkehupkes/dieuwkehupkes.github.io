@@ -45,7 +45,7 @@ image:
 ## Individual supervision
 <hr>
 
-Currently, I am co-supervising the following students:
+Currently, I am supervising the following students:
 <div id="columns">
     <div class="date column">
         <b>
@@ -77,7 +77,7 @@ Currently, I am co-supervising the following students:
 </div>
 
 <hr>
-In the past, I have (co)supervised the following students:
+In the past, I have supervised the following students:
 
 <div id="columns">
     <div class="date column">
