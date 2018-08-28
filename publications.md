@@ -17,6 +17,7 @@ image:
 * Hupkes, D., Bouwmeester, S. and Fern&#x00E1;ndez, R. (2018). Analysing the potential of seq2seq models for incremental interpretation in task-oriented dialogue. To appear at the *EMNLP* workshop *Analyzing and interpreting neural networks for NLP*.
 
 * Giulianelli, M., Harding, J., Mohnert, F., Hupkes, D. and Zuidema, W. (2018). Under the hood: using diagnostic classifiers to investigate and improve how language models track agreement information.  To appear at the *EMNLP* workshop *Analyzing and interpreting neural networks for NLP*.
+\[[<font color="brown">paper</font>](https://arxiv.org/abs/1808.08079){:target="blank"}\].
 
 * Nielsen A., Hupkes D., Kirby S. and Smith K. (in prep). The arbitrariness of the sign revisited: An examination of the roles of phonological similarity and task construction in an artificial language learning paradigm.
 
