@@ -15,6 +15,7 @@ image:
 * Jumelet, J. and Hupkes, D. (2018). Do language models understand anything? On the ability of LSTMs to understand negative polarity items. To appear at the *EMNLP* workshop *Analyzing and interpreting neural networks for NLP*.
 
 * Hupkes, D., Bouwmeester, S. and Fern&#x00E1;ndez, R. (2018). Analysing the potential of seq2seq models for incremental interpretation in task-oriented dialogue. To appear at the *EMNLP* workshop *Analyzing and interpreting neural networks for NLP*.
+\[[<font color="brown">paper</font>](https://arxiv.org/abs/1808.09178){:target="blank"}\].
 
 * Giulianelli, M., Harding, J., Mohnert, F., Hupkes, D. and Zuidema, W. (2018). Under the hood: using diagnostic classifiers to investigate and improve how language models track agreement information.  To appear at the *EMNLP* workshop *Analyzing and interpreting neural networks for NLP*.
 \[[<font color="brown">paper</font>](https://arxiv.org/abs/1808.08079){:target="blank"}\].
