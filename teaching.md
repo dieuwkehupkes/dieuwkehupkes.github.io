@@ -45,31 +45,17 @@ image:
 ## Individual supervision
 <hr>
 
-Currently, I am supervising the following students:
+Currently, I am supervising:
 <div id="columns">
     <div class="date column">
         <b>
-        Jan 2018 - now
-        <br><br><br><br>
-        Jan 2018 - now
-        <br><br><br><br>
         Jan 2018 - now
         <br><br>
         </b>
     </div>
     <div class="description column">
-        <b>Sanne Bouwmeester</b>, <font color="brown">Master Artificial Intelligence</font>
-        <br> <i>Incremental dialogue modelling with recurrent neural networks</i>
-        <br> Co-supervision with Raquel Fernandez
-        <br><br>
-
         <b>Kris Korrel</b>, <font color="brown">Master Artificial Intelligence</font>
-        <br><i> Designing new compositional neural architectures</i>
-        <br> Co-supervision with Elia Bruni and Germ&#x00E1;n Kruszewski
-        <br><br>
-
-        <b>Krsto Prorokovi&#x00107;</b>, <font color="brown">Master of Logic</font>
-        <br><i> Learning how to learn a new language</i>
+        <br><i> From sequence to attention</i>
         <br> Co-supervision with Elia Bruni and Germ&#x00E1;n Kruszewski
         <br><br>
 
@@ -77,14 +63,18 @@ Currently, I am supervising the following students:
 </div>
 
 <hr>
-In the past, I have supervised the following students:
+In the past, I have supervised:
 
 <div id="columns">
     <div class="date column">
         <b>
-        Jan 2018 - now
+        Jan - Oct 2018
+        <br><br><br><br><br>
+        Jan - Aug 2018
         <br><br><br><br>
-        Jan 2018 - now
+        Jan - Aug 2018
+        <br><br><br><br>
+        Jan -- July 2018
         <br><br><br><br>
         Jan - Aug 2018
         <br><br><br><br>
@@ -93,13 +83,23 @@ In the past, I have supervised the following students:
         </b>
     </div>
     <div class="description column">
+        <b>Sanne Bouwmeester</b>, <font color="brown">Master Artificial Intelligence</font>
+        <br> <i>Analysing seq-to-seq models in goal-oriented dialogue: 
+        generalising to disfluencies</i>
+        <br> Co-supervision with Raquel Fernandez
+        <br><br>
+
+        <b>Krsto Prorokovi&#x00107;</b>, <font color="brown">Master of Logic</font>
+        <br><i> Learning to decide a formal language: a recurrent neural network approach</i>
+        <br> Co-supervision with Elia Bruni and Germ&#x00E1;n Kruszewski
+        <br><br>
         <b>Anand Kumar Singh</b>, <font color="brown">Master Computational Intelligence</font>
-        <br><i> Pondering in Artificial Neural Networks </i>
+        <br><i> Pondering in artificial neural networks </i>
         <br> Co-supervision with Elia Bruni and Germ&#x00E1;n Kruszewski
         <br><br>
 
         <b>Ujjwal Sharma</b>, <font color="brown">Master Artificial Intelligence</font>
-        <br><i> Interpreting Decision-Making in Interactive Visual Dialogue </i>
+        <br><i> Interpreting decision-making in interactive visual dialogue </i>
         <br> Co-supervision with Elia Bruni
         <br><br>
 
