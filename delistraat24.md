@@ -14,8 +14,9 @@ tags: [Jekyll, theme, responsive, blog, template]
 <img src="/house_images/roof_terrace_small.jpg" width="600">
 <img src="/house_images/street_small.jpg" width="600">
 
-## Master Bedroom
+## Master Bedroom and bathroom
 <img src="/house_images/bedroom_small.jpg" width="600">
+<img src="/house_images/bathroom_small.jpg" width="600">
 
 ## Floor plan
 <img src="/house_images/floorplan_small.jpg" width="600">
