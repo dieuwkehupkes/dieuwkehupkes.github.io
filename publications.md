@@ -18,24 +18,28 @@ image:
 
 * Hupkes D., Singh A.K., Korrel K., Kruszewski G. and, Bruni E. (2018) Learning compositionally through attentive guidance.\\
 \[[<font color="brown">paper</font>](https://arxiv.org/abs/1805.09657){:target="blank"}\] 
-\[[<font color="brown">source code</font>](https://github.com/i-machine-think/machine/tree/master){:target="_blank"}\]
+\[[<font color="brown">source code</font>](https://github.com/i-machine-think/attentive_guidance){:target="_blank"}\]
 .
 
-* Giulianelli, M., Harding, J., Mohnert, F., Hupkes, D. and Zuidema, W. (2018). Under the hood: using diagnostic classifiers to investigate and improve how language models track agreement information.  To appear at the *EMNLP* workshop *Analyzing and interpreting neural networks for NLP*.
-\[[<font color="brown">paper</font>](https://arxiv.org/abs/1808.08079){:target="blank"}\].
+* Giulianelli, M., Harding, J., Mohnert, F., Hupkes, D. and Zuidema, W. (2018). Under the hood: using diagnostic classifiers to investigate and improve how language models track agreement information.  Proceedings of the 2018 EMNLP Workshop BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP. **Best paper award** 
+\[[<font color="brown">paper</font>](http://aclweb.org/anthology/W18-5426){:target="blank"}\].
+\[[<font color="brown">bibtex</font>](../research/guglianelli2018under.bib){:target="blank"}\].
 
-* Jumelet, J. and Hupkes, D. (2018). Do language models understand anything? On the ability of LSTMs to understand negative polarity items. To appear at the *EMNLP* workshop *Analyzing and interpreting neural networks for NLP*.
-\[[<font color="brown">paper</font>](https://arxiv.org/abs/1808.10627){:target="blank"}\].
+* Jumelet, J. and Hupkes, D. (2018). Do language models understand anything? On the ability of LSTMs to understand negative polarity items. Proceedings of the 2018 EMNLP Workshop BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP.
+\[[<font color="brown">paper</font>](http://aclweb.org/anthology/W18-5424){:target="blank"}\].
+\[[<font color="brown">bibtex</font>](../research/jumelet2018language.bib){:target="blank"}\].
 
-* Hupkes, D., Bouwmeester, S. and Fern&#x00E1;ndez, R. (2018). Analysing the potential of seq2seq models for incremental interpretation in task-oriented dialogue. To appear at the *EMNLP* workshop *Analyzing and interpreting neural networks for NLP*.  
-\[[<font color="brown">paper</font>](https://arxiv.org/abs/1808.09178){:target="blank"}\].
+* Hupkes, D., Bouwmeester, S. and Fern&#x00E1;ndez, R. (2018). Analysing the potential of seq2seq models for incremental interpretation in task-oriented dialogue. Proceedings of the 2018 EMNLP Workshop BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP.  
+\[[<font color="brown">paper</font>](http://aclweb.org/anthology/W18-5419){:target="blank"}\].
+\[[<font color="brown">bibtex</font>](../research/hupkes2018analysing.bib){:target="blank"}\].
 
 * Hupkes D., Veldhoen S., and Zuidema W. (2018). Visualisation and 'diagnostic classifiers' reveal how recurrent and recursive neural networks process hierarchical structure. *Journal of Artificial Intelligence Research* 61, 907-926.\\
 \[[<font color="brown">paper</font>](https://arxiv.org/abs/1711.10203){:target="blank"}\] 
-\[[<font color="brown">bibtex</font>](../research/jair.bib){:target="blank"}\].
+\[[<font color="brown">bibtex</font>](../research/hupkes2018visualisation.bib){:target="blank"}\].
 
 
 * Zuidema W., Hupkes D., Wiggins G., Scharf C. and Rohrmeier M. (2018). Formal models of Structure Building in Music, Language and Animal Song. In Honing, H (Ed.), *The Origins of Musicality* (pp. 253-286). Cambdrige, Mass.: The MIT Press.
+\[[<font color="brown">chapter</font>](https://arxiv.org/abs/1901.05180){:target="blank"}\] 
 
 ## 2017
 
