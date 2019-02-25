@@ -12,14 +12,22 @@ image:
 
 ## In preparation/under review
 
+* Hupkes D., Singh A.K., Korrel K., Kruszewski G. and, Bruni E. (2019) Learning compositionally through attentive guidance. 
+To appear at the *20th International Conference on Computational Linguistics and Intelligent Text Processing (CICLing) 2019*.\\
+\[[<font color="brown">paper</font>](https://arxiv.org/abs/1805.09657){:target="blank"}\] 
+\[[<font color="brown">source code</font>](https://github.com/i-machine-think/attentive_guidance){:target="_blank"}\]
+
+* Lakretz Y., Kruszewski G., Desbordes T., Hupkes D., Dehaene S. and Baroni M. (2019)
+The emergence of number and syntax units in LSTM language models.
+To appear at the *Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL) 2019*.
+
 * Nielsen A., Hupkes D., Kirby S. and Smith K. (in prep). The arbitrariness of the sign revisited: An examination of the roles of phonological similarity and task construction in an artificial language learning paradigm.
 
 ## 2018
 
-* Hupkes D., Singh A.K., Korrel K., Kruszewski G. and, Bruni E. (2018) Learning compositionally through attentive guidance.\\
-\[[<font color="brown">paper</font>](https://arxiv.org/abs/1805.09657){:target="blank"}\] 
-\[[<font color="brown">source code</font>](https://github.com/i-machine-think/attentive_guidance){:target="_blank"}\]
-.
+* Hupkes D., Veldhoen S., and Zuidema W. (2018). Visualisation and 'diagnostic classifiers' reveal how recurrent and recursive neural networks process hierarchical structure. *Journal of Artificial Intelligence Research* 61, 907-926.\\
+\[[<font color="brown">paper</font>](https://arxiv.org/abs/1711.10203){:target="blank"}\] 
+\[[<font color="brown">bibtex</font>](../research/hupkes2018visualisation.bib){:target="blank"}\].
 
 * Giulianelli, M., Harding, J., Mohnert, F., Hupkes, D. and Zuidema, W. (2018). Under the hood: using diagnostic classifiers to investigate and improve how language models track agreement information.  *Proceedings of the 2018 EMNLP Workshop BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP*, pages 240-248. **Best paper award**.\\
 \[[<font color="brown">paper</font>](http://aclweb.org/anthology/W18-5426){:target="blank"}\]
@@ -32,11 +40,6 @@ image:
 * Hupkes, D., Bouwmeester, S. and Fern&#x00E1;ndez, R. (2018). Analysing the potential of seq2seq models for incremental interpretation in task-oriented dialogue. *Proceedings of the 2018 EMNLP Workshop BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP*, pages 165-174.\\
 \[[<font color="brown">paper</font>](http://aclweb.org/anthology/W18-5419){:target="blank"}\]
 \[[<font color="brown">bibtex</font>](../research/hupkes2018analysing.bib){:target="blank"}\].
-
-* Hupkes D., Veldhoen S., and Zuidema W. (2018). Visualisation and 'diagnostic classifiers' reveal how recurrent and recursive neural networks process hierarchical structure. *Journal of Artificial Intelligence Research* 61, 907-926.\\
-\[[<font color="brown">paper</font>](https://arxiv.org/abs/1711.10203){:target="blank"}\] 
-\[[<font color="brown">bibtex</font>](../research/hupkes2018visualisation.bib){:target="blank"}\].
-
 
 * Zuidema W., Hupkes D., Wiggins G., Scharf C. and Rohrmeier M. (2018). Formal models of Structure Building in Music, Language and Animal Song. In Honing, H (Ed.), *The Origins of Musicality* (pp. 253-286). Cambdrige, Mass.: The MIT Press.\\
 \[[<font color="brown">chapter</font>](https://arxiv.org/abs/1901.05180){:target="blank"}\] 
@@ -63,6 +66,9 @@ Process Hierarchical Structure. [<font color="brown">Cognitive Computation: Inte
 
 ## Abstracts
 
+* Ulmer D., Hupkes D. and Bruni E. (2019) An incremental encoder for sequence-to-sequence modelling. *CLIN29*. \\
+\[[<font color="brown">abstract</font>](https://www.let.rug.nl/clin29/Dennis_Ulmer_Dieuwke_Hupkes_Elia_Bruni.php){:target="_blank"}\] 
+
 * Lakretz, Y., Kruszewski, G., Hupkes, D., Desbordes, T., Marti, S., Dehaene, S.and Baroni, M., (2018). The representation of syntactic structures in Long-Short Term Memory networks and humans. [<font color="black">L2HM</font>](https://l2hm2018.sciencesconf.org/){:target="_blank"}.  
 \[[<font color="brown">poster</font>](../research/l2hm_lakretz.pdf){:target="_blank"}\] 
 
@@ -72,6 +78,6 @@ Process Hierarchical Structure. [<font color="brown">Cognitive Computation: Inte
 * Leonandya, R., Kruszewski, G., Hupkes, D., Bruni, E. (2018). The Fast and the Flexible: pretraining neural networks to learn from small data. [<font color="black">L2HM</font>](https://l2hm2018.sciencesconf.org/){:target="_blank"}.
 \[[<font color="brown">poster</font>](../research/l2hm_leonandya.pdf){:target="_blank"}\] 
 
-* Nielsen A., Hupkes D., Kirby S. and Smith K. (2016). The Arbitrariness Of The Sign Revisited: The Role Of Phonological Similarity. In *The Evolution of Language: Proceedings of the 11th International Conference (EVOLANG11)*.   
+* Nielsen A., Hupkes D., Kirby S. and Smith K. (2016). The Arbitrariness Of The Sign Revisited: The Role Of Phonological Similarity. *EVOLANG11*.   
 \[[<font color="brown">abstract</font>](http://evolang.org/neworleans/papers/126.html){:target="_blank"}\]
 
