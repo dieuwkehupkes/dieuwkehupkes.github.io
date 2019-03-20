@@ -13,7 +13,7 @@ image:
 ## In preparation
 
 * Hupkes D., Singh A.K., Korrel K., Kruszewski G. and, Bruni E. (2019) Learning compositionally through attentive guidance. 
-To appear at the *20th International Conference on Computational Linguistics and Intelligent Text Processing (CICLing) 2019*.\\
+To appear at the *20th International Conference on Computational Linguistics and Intelligent Text Processing (CICLing 2019*).\\
 \[[<font color="brown">paper</font>](https://arxiv.org/abs/1805.09657){:target="blank"}\] 
 \[[<font color="brown">source code</font>](https://github.com/i-machine-think/attentive_guidance){:target="_blank"}\]
 
@@ -21,6 +21,8 @@ To appear at the *20th International Conference on Computational Linguistics and
 The emergence of number and syntax units in LSTM language models.
 To appear at the *Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL) 2019*.\\
 \[[<font color="brown">paper</font>](https://arxiv.org/pdf/1903.07435.pdf){:target="blank"}\] 
+
+* Leonandya, R., Bruni, E., Hupkes, D. and Kruszewski, G. (2019) The Fast and the Flexible: training neural networks to learn to follow instructions from small data. To appear at the *13th International Conference on Computational Semantics (IWCS 2019)*. 
 
 ## 2018
 
