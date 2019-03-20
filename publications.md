@@ -10,7 +10,7 @@ image:
 
 {% include _toc.html %}
 
-## In preparation/under review
+## In preparation
 
 * Hupkes D., Singh A.K., Korrel K., Kruszewski G. and, Bruni E. (2019) Learning compositionally through attentive guidance. 
 To appear at the *20th International Conference on Computational Linguistics and Intelligent Text Processing (CICLing) 2019*.\\
@@ -19,9 +19,8 @@ To appear at the *20th International Conference on Computational Linguistics and
 
 * Lakretz Y., Kruszewski G., Desbordes T., Hupkes D., Dehaene S. and Baroni M. (2019)
 The emergence of number and syntax units in LSTM language models.
-To appear at the *Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL) 2019*.
-
-* Nielsen A., Hupkes D., Kirby S. and Smith K. (in prep). The arbitrariness of the sign revisited: An examination of the roles of phonological similarity and task construction in an artificial language learning paradigm.
+To appear at the *Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL) 2019*.\\
+\[[<font color="brown">paper</font>](https://arxiv.org/pdf/1903.07435.pdf){:target="blank"}\] 
 
 ## 2018
 
