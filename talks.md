@@ -10,6 +10,12 @@ image:
 
 {% include _toc.html %}
 
+### 2019
+
+* *April 18*. The compositionality of neural networks: integrating symbolism and connectionism. Internal talk at Saarland University, Saarbrücken.
+
+* *March 14*. On neural networks and compositionality. Internal seminar at École normale supérieure, Paris.
+
 ### 2018
 
 * *July 18, 2018*. Visualisation and 'diagnostic classifiers' reveal how recurrent and recursive neural networks process hierarchical structure. Presentation in the journal track of [IJCAI](http://static.ijcai.org/2018-Program.html).
