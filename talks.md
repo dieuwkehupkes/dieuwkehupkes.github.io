@@ -12,6 +12,8 @@ image:
 
 ### 2019
 
+* *May 6 *. The compositionality of neural networks: integrating symbolism and connectionism. CS&AI / SIKS workshop on analyzing and interpreting neural networks for NLP, 's-Hertogenbosch.
+
 * *April 18*. The compositionality of neural networks: integrating symbolism and connectionism. Internal talk at Saarland University, Saarbrücken.
 
 * *March 14*. On neural networks and compositionality. Internal seminar at École normale supérieure, Paris.
