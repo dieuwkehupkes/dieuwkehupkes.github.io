@@ -49,14 +49,32 @@ Currently, I am supervising:
 <div id="columns">
     <div class="date column">
         <b>
-        Jan 2018 - now
-        <br><br>
+        Jan 2019 - now
+        <br><br><br>
+        Oct 2018 - now
+        <br><br><br>
+        Jan 2019 - now
+        <br><br><br>
+        Oct 2018 - now
+        <br><br><br>
+        Sept 2018 - now
+        <br><br><br>
         </b>
     </div>
     <div class="description column">
-        <b>Kris Korrel</b>, <font color="brown">Master Artificial Intelligence</font>
-        <br><i> From sequence to attention</i>
-        <br> Co-supervision with Elia Bruni and Germ&#x00E1;n Kruszewski
+        <b>Diana Rodriguez Luna</b>, <font color="brown">Master Artificial Intelligence</font>
+        <br> Co-supervision with Elia Bruni
+        <br><br>
+        <b>Dennis Ulmer</b>, <font color="brown">Master Artificial Intelligence</font>
+        <br> Co-supervision with Elia Bruni
+        <br><br>
+        <b>Gautier Dagan</b>, <font color="brown">Master Artificial Intelligence</font>
+        <br> Co-supervision with Elia Bruni
+        <br><br>
+        <b>David Rau</b>, <font color="brown">Master Artificial Intelligence</font>
+        <br> Co-supervision with Elia Bruni
+        <br><br>
+        <b>Jaap Jumelet</b>, <font color="brown">Master Artificial Intelligence</font>
         <br><br>
 
     </div>
@@ -68,6 +86,8 @@ In the past, I have supervised:
 <div id="columns">
     <div class="date column">
         <b>
+        Jan - Nov 2018
+        <br><br><br><br><br>
         Jan - Oct 2018
         <br><br><br><br><br>
         Jan - Aug 2018
@@ -83,6 +103,10 @@ In the past, I have supervised:
         </b>
     </div>
     <div class="description column">
+        <b>Kris Korrel</b>, <font color="brown">Master Artificial Intelligence</font>
+        <br><i> From sequence to attention</i>
+        <br> Co-supervision with Elia Bruni and Germ&#x00E1;n Kruszewski
+        <br><br>
         <b>Sanne Bouwmeester</b>, <font color="brown">Master Artificial Intelligence</font>
         <br> <i>Analysing seq-to-seq models in goal-oriented dialogue: 
         generalising to disfluencies</i>
