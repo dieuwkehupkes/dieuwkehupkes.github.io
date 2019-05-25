@@ -12,17 +12,30 @@ image:
 
 ## In preparation
 
-* Hupkes D., Singh A.K., Korrel K., Kruszewski G. and, Bruni E. (2019) Learning compositionally through attentive guidance. 
-To appear at the *20th International Conference on Computational Linguistics and Intelligent Text Processing (CICLing 2019*).\\
-\[[<font color="brown">paper</font>](https://arxiv.org/abs/1805.09657){:target="blank"}\] 
-\[[<font color="brown">source code</font>](https://github.com/i-machine-think/attentive_guidance){:target="_blank"}\]
-
 * Lakretz Y., Kruszewski G., Desbordes T., Hupkes D., Dehaene S. and Baroni M. (2019)
 The emergence of number and syntax units in LSTM language models.
 To appear at the *Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL) 2019*.\\
 \[[<font color="brown">paper</font>](https://arxiv.org/pdf/1903.07435.pdf){:target="blank"}\] 
 
-* Leonandya R., Bruni E., Hupkes D. and Kruszewski G. (2019) The Fast and the Flexible: training neural networks to learn to follow instructions from small data. To appear at the *13th International Conference on Computational Semantics (IWCS 2019)*. 
+* Korrel K., Hupkes D., Dankers V., and Bruni E. (2019)
+Transcoding compositionally: using attention to find more generalizable solutions.
+To appear at the ACL Workshop *BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP*.
+
+* Baan J., Leible J., Nikolaus M., Rau D., Ulmer D., Baumgärtner T., Hupkes D. and Bruni E. (2019)
+On the Realization of Compositionality in Neural Networks. 
+*To appear at the ACL Workshop BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP*.
+
+## 2019
+
+* Hupkes D., Singh A.K., Korrel K., Kruszewski G. and, Bruni E. (2019) Learning compositionally through attentive guidance. 
+Proceedings of the *20th International Conference on Computational Linguistics and Intelligent Text Processing (CICLing 2019*).\\
+\[[<font color="brown">paper</font>](https://arxiv.org/abs/1805.09657){:target="blank"}\] 
+\[[<font color="brown">source code</font>](https://github.com/i-machine-think/attentive_guidance){:target="_blank"}\]
+
+* Leonandya R., Bruni E., Hupkes D. and Kruszewski G. (2019) The Fast and the Flexible: training neural networks to learn to follow instructions from small data. Proceedings of the *13th International Conference on Computational Semantics (IWCS 2019)*. \\
+\[[<font color="brown">paper</font>](https://arxiv.org/pdf/1809.06194.pdf){:target="_blank"}\]
+
+
 
 ## 2018
 
@@ -66,6 +79,10 @@ Process Hierarchical Structure. [<font color="brown">Cognitive Computation: Inte
 \[[<font color="brown">paper</font>](../research/LREC2016.pdf){:target="_blank"}\] \[[<font color="brown">source code</font>](https://github.com/dieuwkehupkes/POStagging){:target="_blank"}\]
 
 ## Abstracts
+
+* Ponti E., Hupkes D. and Bruni E. (2019) The typology of emergent languages. 
+[*Interaction and the Evolution of Linguistic Complexity*](http://www.lel.ed.ac.uk/cle/index.php/ielc2019/){:target="_blank"} \\
+\[[<font color="brown">abstract</font>](http://www.lel.ed.ac.uk/~kenny/ielc2019Abstracts/Ponti.pdf){:target="_blank"}\]
 
 * Ulmer D., Hupkes D. and Bruni E. (2019) An incremental encoder for sequence-to-sequence modelling. *CLIN29*. \\
 \[[<font color="brown">abstract</font>](https://www.let.rug.nl/clin29/Dennis_Ulmer_Dieuwke_Hupkes_Elia_Bruni.php){:target="_blank"}\] 
