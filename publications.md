@@ -12,17 +12,17 @@ image:
 
 ## In preparation
 
-* Korrel K., Hupkes D., Dankers V., and Bruni E. (2019)
+* Korrel K., Hupkes D., Dankers V., and Bruni E.
 Transcoding compositionally: using attention to find more generalizable solutions.
-To appear at the ACL Workshop *BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP*.
+*flackboxNLP, ACL 2019*.
 
-* Baan J., Leible J., Nikolaus M., Rau D., Ulmer D., Baumgärtner T., Hupkes D. and Bruni E. (2019)
+* Baan J., Leible J., Nikolaus M., Rau D., Ulmer D., Baumgärtner T., Hupkes D. and Bruni E. 
 On the Realization of Compositionality in Neural Networks. 
-*To appear at the ACL Workshop BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP*.
+*BlackboxNLP, ACL 2019*. 
 
-* Ulmer D., Hupkes, D. and Bruni, E.  (2019)
+* Ulmer D., Hupkes, D. and Bruni, E. 
 Assessing incrementality in sequence-to-sequence models. 
-*To appear at the ACL Workshop Repl4NLP*. 
+*Repl4NLP, ACL 2019*. 
 
 ## 2019
 
@@ -32,12 +32,12 @@ The emergence of number and syntax units in LSTM language models.
 \[[<font color="brown">paper</font>](https://www.aclweb.org/anthology/N19-1002){:target="blank"}\] 
 
 
-* Hupkes D., Singh A.K., Korrel K., Kruszewski G. and, Bruni E. (2019) Learning compositionally through attentive guidance. 
+* Hupkes D., Singh A.K., Korrel K., Kruszewski G. and, Bruni E. Learning compositionally through attentive guidance. 
 *CICLing 2019*.\\
 \[[<font color="brown">paper</font>](https://arxiv.org/abs/1805.09657){:target="blank"}\] 
 \[[<font color="brown">source code</font>](https://github.com/i-machine-think/attentive_guidance){:target="_blank"}\]
 
-* Leonandya R., Bruni E., Hupkes D. and Kruszewski G. (2019) The Fast and the Flexible: training neural networks to learn to follow instructions from small data. 
+* Leonandya R., Bruni E., Hupkes D. and Kruszewski G. The Fast and the Flexible: training neural networks to learn to follow instructions from small data. 
 *IWCS 2019*. \\
 \[[<font color="brown">paper</font>](https://arxiv.org/pdf/1809.06194.pdf){:target="_blank"}\]
 
