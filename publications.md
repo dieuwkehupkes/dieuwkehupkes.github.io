@@ -12,11 +12,6 @@ image:
 
 ## In preparation
 
-* Lakretz Y., Kruszewski G., Desbordes T., Hupkes D., Dehaene S. and Baroni M. (2019)
-The emergence of number and syntax units in LSTM language models.
-To appear at the *Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL) 2019*.\\
-\[[<font color="brown">paper</font>](https://arxiv.org/pdf/1903.07435.pdf){:target="blank"}\] 
-
 * Korrel K., Hupkes D., Dankers V., and Bruni E. (2019)
 Transcoding compositionally: using attention to find more generalizable solutions.
 To appear at the ACL Workshop *BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP*.
@@ -30,6 +25,12 @@ Assessing incrementality in sequence-to-sequence models.
 *To appear at the ACL Workshop Repl4NLP*. 
 
 ## 2019
+
+* Lakretz Y., Kruszewski G., Desbordes T., Hupkes D., Dehaene S. and Baroni M. (2019)
+The emergence of number and syntax units in LSTM language models.
+Proceedings of the *Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL) 2019*.\\
+\[[<font color="brown">paper</font>](https://www.aclweb.org/anthology/N19-1002){:target="blank"}\] 
+
 
 * Hupkes D., Singh A.K., Korrel K., Kruszewski G. and, Bruni E. (2019) Learning compositionally through attentive guidance. 
 Proceedings of the *20th International Conference on Computational Linguistics and Intelligent Text Processing (CICLing 2019*).\\
