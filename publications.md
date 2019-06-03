@@ -26,46 +26,49 @@ Assessing incrementality in sequence-to-sequence models.
 
 ## 2019
 
-* Lakretz Y., Kruszewski G., Desbordes T., Hupkes D., Dehaene S. and Baroni M. (2019)
+* Lakretz Y., Kruszewski G., Desbordes T., Hupkes D., Dehaene S. and Baroni M. 
 The emergence of number and syntax units in LSTM language models.
-Proceedings of the *Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL) 2019*.\\
+*NAACL 2019*.\\
 \[[<font color="brown">paper</font>](https://www.aclweb.org/anthology/N19-1002){:target="blank"}\] 
 
 
 * Hupkes D., Singh A.K., Korrel K., Kruszewski G. and, Bruni E. (2019) Learning compositionally through attentive guidance. 
-Proceedings of the *20th International Conference on Computational Linguistics and Intelligent Text Processing (CICLing 2019*).\\
+*CICLing 2019*.\\
 \[[<font color="brown">paper</font>](https://arxiv.org/abs/1805.09657){:target="blank"}\] 
 \[[<font color="brown">source code</font>](https://github.com/i-machine-think/attentive_guidance){:target="_blank"}\]
 
-* Leonandya R., Bruni E., Hupkes D. and Kruszewski G. (2019) The Fast and the Flexible: training neural networks to learn to follow instructions from small data. Proceedings of the *13th International Conference on Computational Semantics (IWCS 2019)*. \\
+* Leonandya R., Bruni E., Hupkes D. and Kruszewski G. (2019) The Fast and the Flexible: training neural networks to learn to follow instructions from small data. 
+*IWCS 2019*. \\
 \[[<font color="brown">paper</font>](https://arxiv.org/pdf/1809.06194.pdf){:target="_blank"}\]
-
-
 
 ## 2018
 
-* Hupkes D., Veldhoen S., and Zuidema W. (2018). Visualisation and 'diagnostic classifiers' reveal how recurrent and recursive neural networks process hierarchical structure. *Journal of Artificial Intelligence Research* 61, 907-926.\\
+* Hupkes D., Veldhoen S., and Zuidema W. (2018). Visualisation and 'diagnostic classifiers' reveal how recurrent and recursive neural networks process hierarchical structure.
+*Journal of Artificial Intelligence Research*\\
 \[[<font color="brown">paper</font>](https://arxiv.org/abs/1711.10203){:target="blank"}\] 
 \[[<font color="brown">bibtex</font>](../research/hupkes2018visualisation.bib){:target="blank"}\].
 
-* Giulianelli, M., Harding, J., Mohnert, F., Hupkes, D. and Zuidema, W. (2018). Under the hood: using diagnostic classifiers to investigate and improve how language models track agreement information.  *Proceedings of the 2018 EMNLP Workshop BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP*, pages 240-248. **Best paper award**.\\
+* Giulianelli, M., Harding, J., Mohnert, F., Hupkes, D. and Zuidema, W. (2018). Under the hood: using diagnostic classifiers to investigate and improve how language models track agreement information.  
+*BlackboxNLP 2018, ACL*. **Best paper award**.\\
 \[[<font color="brown">paper</font>](http://aclweb.org/anthology/W18-5426){:target="blank"}\]
 \[[<font color="brown">bibtex</font>](../research/guglianelli2018under.bib){:target="blank"}\].
 
-* Zuidema W., Hupkes D., Wiggins G., Scharf C. and Rohrmeier M. (2018). Formal models of Structure Building in Music, Language and Animal Song. In Honing, H (Ed.), *The Origins of Musicality* (pp. 253-286). Cambdrige, Mass.: The MIT Press.\\
+* Zuidema W., Hupkes D., Wiggins G., Scharf C. and Rohrmeier M. (2018). Formal models of Structure Building in Music, Language and Animal Song. In *The Origins of Musicality* \\
 \[[<font color="brown">chapter</font>](https://arxiv.org/abs/1901.05180){:target="blank"}\] 
 
-* Jumelet, J. and Hupkes, D. (2018). Do language models understand anything? On the ability of LSTMs to understand negative polarity items. *Proceedings of the 2018 EMNLP Workshop BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP*, pages 222-231.\\
+* Jumelet, J. and Hupkes, D. (2018). Do language models understand anything? On the ability of LSTMs to understand negative polarity items. 
+*BlackboxNLP 2018, ACL*.\\
 \[[<font color="brown">paper</font>](http://aclweb.org/anthology/W18-5424){:target="blank"}\]
 \[[<font color="brown">bibtex</font>](../research/jumelet2018language.bib){:target="blank"}\].
 
-* Hupkes, D., Bouwmeester, S. and Fern&#x00E1;ndez, R. (2018). Analysing the potential of seq2seq models for incremental interpretation in task-oriented dialogue. *Proceedings of the 2018 EMNLP Workshop BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP*, pages 165-174.\\
+* Hupkes, D., Bouwmeester, S. and Fern&#x00E1;ndez, R. (2018). Analysing the potential of seq2seq models for incremental interpretation in task-oriented dialogue. 
+*BlackboxNLP 2018, ACL*.\\
 \[[<font color="brown">paper</font>](http://aclweb.org/anthology/W18-5419){:target="blank"}\]
 \[[<font color="brown">bibtex</font>](../research/hupkes2018analysing.bib){:target="blank"}\].
 
 ## 2017
 
-* Hupkes D. and Zuidema W. (2017). Diagnostic classification and symbolic guidance to understand and improve recurrent neural networks. 
+* Hupkes D. and Zuidema W. Diagnostic classification and symbolic guidance to understand and improve recurrent neural networks. 
 *Interpreting, Explaining and Visualizing Deep Learning, NIPS2017.*\\
 \[[<font color="brown">paper</font>](http://www.interpretable-ml.org/nips2017workshop/papers/12.pdf){:target="blank"}\] 
 \[[<font color="brown">poster</font>](../research/nips2017_poster.pdf){:target="_blank"}\] 
@@ -73,14 +76,15 @@ Proceedings of the *20th International Conference on Computational Linguistics a
 
 ## 2016
 
-* Veldhoen S., Hupkes D. and Zuidema W. (2016). Diagnostic classifiers: revealing how neural networks
-Process Hierarchical Structure. [<font color="brown">Cognitive Computation: Integrating Neural and Symbolic Approaches</font>](http://daselab.cs.wright.edu/nesy/CoCo2016/){:target="_blank"}, NIPS 2016.   
+* Veldhoen S., Hupkes D. and Zuidema W. (2016). Diagnostic classifiers: revealing how neural networks process hierarchical structure. 
+*CoCo, NIPS 2016.*\\
 \[[<font color="brown">paper</font>](../research/nips2016.pdf){:target="_blank"}\]
 \[[<font color="brown">bibtex</font>](../research/nips.bib){:target="_blank"}\]
 \[[<font color="brown">poster</font>](../research/nips2016_poster.pdf){:target="_blank"}\]
 \[[<font color="brown">source code</font>](https://github.com/dieuwkehupkes/processing_arithmetics){:target="_blank"}\]
 
-* Hupkes D. and Bod R. (2016). POS-tagging of Historical Dutch. In *Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC 2016)*.   
+* Hupkes D. and Bod R. POS-tagging of Historical Dutch. 
+*LREC 2016*.\\
 \[[<font color="brown">bibtex</font>](../research/LREC_bib.txt){:target="_blank"}\] 
 \[[<font color="brown">paper</font>](../research/LREC2016.pdf){:target="_blank"}\] \[[<font color="brown">source code</font>](https://github.com/dieuwkehupkes/POStagging){:target="_blank"}\]
 
