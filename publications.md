@@ -65,7 +65,8 @@ Proceedings of the *20th International Conference on Computational Linguistics a
 
 ## 2017
 
-* Hupkes D. and Zuidema W. (2017). Diagnostic classification and symbolic guidance to understand and improve recurrent neural networks. Interpreting, Explaining and Visualizing Deep Learning, NIPS2017.\\
+* Hupkes D. and Zuidema W. (2017). Diagnostic classification and symbolic guidance to understand and improve recurrent neural networks. 
+*Interpreting, Explaining and Visualizing Deep Learning, NIPS2017.*\\
 \[[<font color="brown">paper</font>](http://www.interpretable-ml.org/nips2017workshop/papers/12.pdf){:target="blank"}\] 
 \[[<font color="brown">poster</font>](../research/nips2017_poster.pdf){:target="_blank"}\] 
 \[[<font color="brown">source code</font>](https://github.com/dieuwkehupkes/processing_arithmetics){:target="_blank"}\]
