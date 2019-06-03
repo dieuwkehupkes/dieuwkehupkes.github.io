@@ -25,6 +25,10 @@ To appear at the ACL Workshop *BlackboxNLP: Analyzing and Interpreting Neural Ne
 On the Realization of Compositionality in Neural Networks. 
 *To appear at the ACL Workshop BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP*.
 
+* Ulmer D., Hupkes, D. and Bruni, E.  (2019)
+Assessing incrementality in sequence-to-sequence models. 
+*To appear at the ACL Workshop Repl4NLP*. 
+
 ## 2019
 
 * Hupkes D., Singh A.K., Korrel K., Kruszewski G. and, Bruni E. (2019) Learning compositionally through attentive guidance. 
