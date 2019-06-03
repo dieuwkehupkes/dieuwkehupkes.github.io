@@ -52,6 +52,9 @@ Proceedings of the *20th International Conference on Computational Linguistics a
 \[[<font color="brown">paper</font>](http://aclweb.org/anthology/W18-5426){:target="blank"}\]
 \[[<font color="brown">bibtex</font>](../research/guglianelli2018under.bib){:target="blank"}\].
 
+* Zuidema W., Hupkes D., Wiggins G., Scharf C. and Rohrmeier M. (2018). Formal models of Structure Building in Music, Language and Animal Song. In Honing, H (Ed.), *The Origins of Musicality* (pp. 253-286). Cambdrige, Mass.: The MIT Press.\\
+\[[<font color="brown">chapter</font>](https://arxiv.org/abs/1901.05180){:target="blank"}\] 
+
 * Jumelet, J. and Hupkes, D. (2018). Do language models understand anything? On the ability of LSTMs to understand negative polarity items. *Proceedings of the 2018 EMNLP Workshop BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP*, pages 222-231.\\
 \[[<font color="brown">paper</font>](http://aclweb.org/anthology/W18-5424){:target="blank"}\]
 \[[<font color="brown">bibtex</font>](../research/jumelet2018language.bib){:target="blank"}\].
@@ -59,9 +62,6 @@ Proceedings of the *20th International Conference on Computational Linguistics a
 * Hupkes, D., Bouwmeester, S. and Fern&#x00E1;ndez, R. (2018). Analysing the potential of seq2seq models for incremental interpretation in task-oriented dialogue. *Proceedings of the 2018 EMNLP Workshop BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP*, pages 165-174.\\
 \[[<font color="brown">paper</font>](http://aclweb.org/anthology/W18-5419){:target="blank"}\]
 \[[<font color="brown">bibtex</font>](../research/hupkes2018analysing.bib){:target="blank"}\].
-
-* Zuidema W., Hupkes D., Wiggins G., Scharf C. and Rohrmeier M. (2018). Formal models of Structure Building in Music, Language and Animal Song. In Honing, H (Ed.), *The Origins of Musicality* (pp. 253-286). Cambdrige, Mass.: The MIT Press.\\
-\[[<font color="brown">chapter</font>](https://arxiv.org/abs/1901.05180){:target="blank"}\] 
 
 ## 2017
 
