@@ -12,7 +12,7 @@ image:
 
 ### 2019
 
-* *June 18* The typology of emergent languages.  *Interaction and the Evolution of Linguistic Complexity*, Edinburgh
+* *June 18*. The typology of emergent languages.  [*Interaction and the Evolution of Linguistic Complexity*](http://www.lel.ed.ac.uk/cle/index.php/ielc2019), Edinburgh
 
 * *May 6 *. The compositionality of neural networks: integrating symbolism and connectionism. CS&AI / SIKS workshop on analyzing and interpreting neural networks for NLP, 's-Hertogenbosch.
 
