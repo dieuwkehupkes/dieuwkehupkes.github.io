@@ -14,11 +14,14 @@ image:
 
 * *June 18*. The typology of emergent languages.  [*Interaction and the Evolution of Linguistic Complexity*](http://www.lel.ed.ac.uk/cle/index.php/ielc2019), Edinburgh
 
-* *May 6 *. The compositionality of neural networks: integrating symbolism and connectionism. CS&AI / SIKS workshop on analyzing and interpreting neural networks for NLP, 's-Hertogenbosch.
+* *May 6*. The compositionality of neural networks: integrating symbolism and connectionism. 
+*CS&AI / SIKS workshop on analyzing and interpreting neural networks for NLP, 's-Hertogenbosch.*
 
-* *April 18*. The compositionality of neural networks: integrating symbolism and connectionism. Internal talk at Saarland University, Saarbrücken.
+* *April 18*. The compositionality of neural networks: integrating symbolism and connectionism. 
+*Internal talk at Saarland University, Saarbrücken.*
 
-* *March 14*. On neural networks and compositionality. Internal seminar at École normale supérieure, Paris.
+* *March 14*. On neural networks and compositionality. 
+*Internal seminar at École normale supérieure, Paris.*
 
 ### 2018
 
