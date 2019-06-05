@@ -30,6 +30,7 @@ Assessing incrementality in sequence-to-sequence models.
 The emergence of number and syntax units in LSTM language models.
 *NAACL 2019*.\\
 \[[<font color="brown">paper</font>](https://www.aclweb.org/anthology/N19-1002){:target="blank"}\] 
+\[[<font color="brown">bibtex</font>](../bibfiles/lakretz2019emergence)\].
 
 
 * Hupkes D., Singh A.K., Korrel K., Kruszewski G. and, Bruni E. Learning compositionally through attentive guidance. 
@@ -46,7 +47,7 @@ The emergence of number and syntax units in LSTM language models.
 * Hupkes D., Veldhoen S., and Zuidema W. (2018). Visualisation and 'diagnostic classifiers' reveal how recurrent and recursive neural networks process hierarchical structure.
 *Journal of Artificial Intelligence Research*\\
 \[[<font color="brown">paper</font>](https://arxiv.org/abs/1711.10203){:target="blank"}\] 
-\[[<font color="brown">bibtex</font>](../research/hupkes2018visualisation.bib){:target="blank"}\].
+\[[<font color="brown">bibtex</font>](../bibfiles/hupkes2018visualisation){:target="blank"}\].
 
 * Giulianelli, M., Harding, J., Mohnert, F., Hupkes, D. and Zuidema, W. (2018). Under the hood: using diagnostic classifiers to investigate and improve how language models track agreement information.  
 *BlackboxNLP 2018, ACL*. **Best paper award**.\\

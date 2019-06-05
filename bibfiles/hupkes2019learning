@@ -1,0 +1,8 @@
+@inproceedings{hupkes2019learning,
+    title = {{Learning compositionally through attentive guidance}},
+* Hupkes D., Singh A.K., Korrel K., Kruszewski G. and, Bruni E. 
+*CICLing 2019*.\\
+    author = {Hupkes, Dieuwke and Singh, Anand Kumar and Korrel, Kris and Kruszewski, Germ\"an and Bruni, Elia},
+    year = {2019},
+    booktitle = {Proceedings of CICLing 2019},
+}

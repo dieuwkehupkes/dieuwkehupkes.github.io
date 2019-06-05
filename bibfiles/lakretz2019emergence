@@ -1,0 +1,8 @@
+@inproceedings{lakretz2019emergence,
+    title = {{The emergence of number and syntax units in LSTM language models}},
+    author = {Lakretz, Yair and Kruszewski, German and Desbordes, Theo and Hupkes, Dieuwke and Dehaene, Stanislas and Baroni, Marco},
+    year = {2019},
+    booktitle = {Proceedings of NAACL-HTL 2019},
+    pages={11-20},
+    publisher = {Association for Computational Linguistics}
+}
