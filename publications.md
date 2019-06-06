@@ -14,11 +14,13 @@ image:
 
 * Korrel K., Hupkes D., Dankers V., and Bruni E.
 Transcoding compositionally: using attention to find more generalizable solutions.
-*BlackboxNLP, ACL 2019*.
+*BlackboxNLP, ACL 2019*.\\
+\[[<font color="brown">preprint</font>](https://arxiv.org/abs/1906.01234){:target="blank"}\] 
 
 * Baan J., Leible J., Nikolaus M., Rau D., Ulmer D., Baumgärtner T., Hupkes D. and Bruni E. 
 On the Realization of Compositionality in Neural Networks. 
-*BlackboxNLP, ACL 2019*. 
+*BlackboxNLP, ACL 2019*. \\
+\[[<font color="brown">preprint</font>](https://arxiv.org/abs/1906.01634){:target="blank"}\] 
 
 * Ulmer D., Hupkes, D. and Bruni, E. 
 Assessing incrementality in sequence-to-sequence models. 
