@@ -19,6 +19,6 @@ Although artificial neural networks are of course nothing like the real brain, I
 Recently, a large body of my work has been centered around developing techniques to understand better what is going on inside recurrent neural networks and trying to interpret their behaviour in the light of the vast (symbolic) knowledge of language that we have.
 If you are interested, check my publications on diagnostic classification!
 <br /><br />
-In my free time, I spend a lot of time training for pole dancing competitions with my fantastic duo partner Suzy. 
-In fact, this year (2018), we won the national championships!
+In my free time, I spend a lot of time training for pole dancing competitions with my duo partner Suzy. 
+In fact, last year (2018), we won the national championships!
 If you are not convinced yet that it is a serious sport, have a look at our <a href="https://www.instagram.com/duo_polenotti/" target="_blank">Instagram</a> :).
