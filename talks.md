@@ -14,6 +14,9 @@ image:
 
 *  *October 1*. TBA. [*Computational Cognition workshop*](http://www.comco2019.com/), Osnabruek.
 
+
+
+
 ### 2019
 
 * *June 18*. The typology of emergent languages.  [*Interaction and the Evolution of Linguistic Complexity*](http://www.lel.ed.ac.uk/cle/index.php/ielc2019), Edinburgh.
