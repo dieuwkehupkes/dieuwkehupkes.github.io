@@ -10,7 +10,7 @@ image:
 
 {% include _toc.html %}
 
-### Upcoming
+## Upcoming
 
 *  *October 1*. TBA. [*Computational Cognition workshop*](http://www.comco2019.com/), Osnabruek.
 
