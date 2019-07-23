@@ -48,8 +48,8 @@ The emergence of number and syntax units in LSTM language models.
 ## 2018
 
 * Hupkes D., Veldhoen S., and Zuidema W. (2018). Visualisation and 'diagnostic classifiers' reveal how recurrent and recursive neural networks process hierarchical structure.
-*Journal of Artificial Intelligence Research*\\
-\[[<font color="brown">paper</font>](https://arxiv.org/pdf/1711.10203.pdf){:target="blank"}\] 
+*JAIR*\\
+\[[<font color="brown">paper</font>](https://jair.org/index.php/jair/article/view/11196/26408){:target="blank"}\] 
 \[[<font color="brown">bibtex</font>](../bibfiles/hupkes2018visualisation){:target="blank"}\].
 
 * Giulianelli, M., Harding, J., Mohnert, F., Hupkes, D. and Zuidema, W. (2018). Under the hood: using diagnostic classifiers to investigate and improve how language models track agreement information.  
