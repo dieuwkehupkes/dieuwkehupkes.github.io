@@ -15,17 +15,17 @@ image:
 * Baan J., Leible J., Nikolaus M., Rau D., Ulmer D., Baumgärtner T., Hupkes D. and Bruni E. 
 On the Realization of Compositionality in Neural Networks. 
 *BlackboxNLP, ACL 2019*. \\
-\[[<font color="brown">preprint</font>](https://www.aclweb.org/anthology/W19-4814){:target="blank"}\] 
+\[[<font color="brown">paper</font>](https://www.aclweb.org/anthology/W19-4814){:target="blank"}\] 
 
 * Ulmer D., Hupkes, D. and Bruni, E. 
 Assessing incrementality in sequence-to-sequence models. 
 *Repl4NLP, ACL 2019*. \\
-\[[<font color="brown">preprint</font>](https://www.aclweb.org/anthology/W19-4324){:target="blank"}\] 
+\[[<font color="brown">paper</font>](https://www.aclweb.org/anthology/W19-4324){:target="blank"}\] 
 
 * Korrel K., Hupkes D., Dankers V., and Bruni E.
 Transcoding compositionally: using attention to find more generalizable solutions.
 *BlackboxNLP, ACL 2019*.\\
-\[[<font color="brown">preprint</font>](https://www.aclweb.org/anthology/W19-4801){:target="blank"}\] 
+\[[<font color="brown">paper</font>](https://www.aclweb.org/anthology/W19-4801){:target="blank"}\] 
 
 * Lakretz Y., Kruszewski G., Desbordes T., Hupkes D., Dehaene S. and Baroni M. 
 The emergence of number and syntax units in LSTM language models.
