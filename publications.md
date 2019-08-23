@@ -14,7 +14,7 @@ image:
 
 * Hupkes D., Dankers V., Mul M. and Bruni E.
 The compositionality of neural networks: integrating symbolism and connectionism.\\
-\[[<font color="brown">preprints</font>](https://arxiv.org/pdf/1908.08351.pdf){:target="blank"}\] 
+\[[<font color="brown">preprint</font>](https://arxiv.org/pdf/1908.08351.pdf){:target="blank"}\] 
 
 ## 2019
 
