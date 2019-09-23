@@ -90,7 +90,7 @@ The emergence of number and syntax units in LSTM language models.
 * Hupkes D. and Bod R. POS-tagging of Historical Dutch. 
 *LREC 2016*.\\
 \[[<font color="brown">bibtex</font>](../research/LREC_bib.txt){:target="_blank"}\] 
-\[[<font color="brown">paper</font>](../research/LREC2016.pdf){:target="_blank"}\] \[[<font color="brown">source code</font>](https://github.com/dieuwkehupkes/POStagging){:target="_blank"}\]
+\[[<font color="brown">paper</font>](https://www.aclweb.org/anthology/L16-1012){:target="_blank"}\] \[[<font color="brown">source code</font>](https://github.com/dieuwkehupkes/POStagging){:target="_blank"}\]
 
 ## Abstracts
 
