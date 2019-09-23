@@ -21,4 +21,18 @@ If you are interested, check my publications on diagnostic classification!
 <br /><br />
 In my free time, I spend a lot of time training for pole dancing competitions with my duo partner Suzy. 
 In fact, last year (2018), we won the national championships!
-If you are not convinced yet that it is a serious sport, have a look at our <a href="https://www.instagram.com/duo_polenotti/" target="_blank">Instagram</a> :).
+If you are not convinced yet that it is a serious sport, have a look at our <a href="https://www.instagram.com/duo_polenotti/" target="_blank">Instagram</a> :).  
+
+
+### Highlighted publications 
+
+* Hupkes D., Dankers V., Mul M. and Bruni E. (2019)
+[The compositionality of neural networks: integrating symbolism and connectionism.](https://arxiv.org/pdf/1908.08351.pdf){:target="blank"}.
+Submitted.
+
+* Giulianelli, M., Harding, J., Mohnert, F., Hupkes, D. and Zuidema, W. (2018). 
+[Under the hood: using diagnostic classifiers to investigate and improve how language models track agreement information](http://aclweb.org/anthology/W18-5426){:target="blank"}.
+*BlackboxNLP 2018, ACL*.
+
+* Hupkes D., Veldhoen S., and Zuidema W. (2018). [Visualisation and 'diagnostic classifiers' reveal how recurrent and recursive neural networks process hierarchical structure](https://jair.org/index.php/jair/article/view/11196/26408){:target="blank"}.
+*JAIR*.

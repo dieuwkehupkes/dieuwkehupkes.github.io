@@ -12,10 +12,9 @@ image:
 
 ## Upcoming
 
-*  *October 1*. TBA. [*Computational Cognition workshop*](http://www.comco2019.com/), Osnabruek.
+* *September 3*. Guest speaker and panelist at the public event [*When fake looks all too real: the technology behind Deep Fake*](https://www.spui25.nl/spui25-en/events/events/2019/09/the-technology-behind-deep-fake.html), SPUI25, Amsterdam.
 
-
-
+*  *October 1*. What do they learn? Neural networks, compositionality and interpretability. [*Computational Cognition workshop*](http://www.comco2019.com/), Osnabruek.
 
 ### 2019
 
