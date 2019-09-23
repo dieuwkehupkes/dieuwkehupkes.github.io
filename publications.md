@@ -46,7 +46,7 @@ The emergence of number and syntax units in LSTM language models.
 
 * Leonandya R., Bruni E., Hupkes D. and Kruszewski G. The Fast and the Flexible: training neural networks to learn to follow instructions from small data. 
 *IWCS 2019*. \\
-\[[<font color="brown">paper</font>](https://arxiv.org/pdf/1809.06194.pdf){:target="_blank"}\]
+\[[<font color="brown">paper</font>](https://www.aclweb.org/anthology/W19-0419/){:target="_blank"}\]
 
 ## 2018
 
