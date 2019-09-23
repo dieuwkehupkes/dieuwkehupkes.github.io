@@ -16,7 +16,7 @@ image:
 The compositionality of neural networks: integrating symbolism and connectionism.\\
 \[[<font color="brown">preprint</font>](https://arxiv.org/pdf/1908.08351.pdf){:target="blank"}\] 
 
-* Jumelet J., Zuidema W. and Hupkes D. (2019). Analysing Neural Language Models: Contextual Decomposition Reveals Default Reasoning in Number and Gender Assignment}. *CONLL 2019*.\\
+* Jumelet J., Zuidema W. and Hupkes D. Analysing Neural Language Models: Contextual Decomposition Reveals Default Reasoning in Number and Gender Assignment. *CONLL 2019*.\\
 \[[<font color="brown">preprint</font>](https://arxiv.org/pdf/1908.08351.pdf){:target="blank"}\] 
 
 ## 2019
