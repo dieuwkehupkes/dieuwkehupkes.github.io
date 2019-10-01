@@ -22,7 +22,9 @@ If you are interested, check my publications on diagnostic classification!
 In my free time, I spend a lot of time training for pole dancing competitions with my duo partner Suzy. 
 In fact, last year (2018), we won the national championships!
 If you are not convinced yet that it is a serious sport, have a look at our <a href="https://www.instagram.com/duo_polenotti/" target="_blank">Instagram</a> :).  
+## News
 
+- October 1, 2019 -- I decided to make a news section on my homepage! First piece of news: Today I'm speaking at the <a href="http://www.comco2019.com/" target="_blank">Computational Cognition workshop</a> in Instabruck!
 
 ### Highlighted publications 
 
