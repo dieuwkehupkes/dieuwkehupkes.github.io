@@ -16,6 +16,9 @@ image:
 The compositionality of neural networks: integrating symbolism and connectionism.\\
 \[[<font color="brown">preprint</font>](https://arxiv.org/pdf/1908.08351.pdf){:target="blank"}\] 
 
+* Jumelet J., Zuidema W. and Hupkes D. Analysing Neural Language Models: Contextual Decomposition Reveals Default Reasoning in Number and Gender Assignment. *CONLL 2019*.\\
+\[[<font color="brown">preprint</font>](https://arxiv.org/pdf/1908.08351.pdf){:target="blank"}\] 
+
 ## 2019
 
 * Baan J., Leible J., Nikolaus M., Rau D., Ulmer D., Baumgärtner T., Hupkes D. and Bruni E. 
@@ -46,7 +49,7 @@ The emergence of number and syntax units in LSTM language models.
 
 * Leonandya R., Bruni E., Hupkes D. and Kruszewski G. The Fast and the Flexible: training neural networks to learn to follow instructions from small data. 
 *IWCS 2019*. \\
-\[[<font color="brown">paper</font>](https://arxiv.org/pdf/1809.06194.pdf){:target="_blank"}\]
+\[[<font color="brown">paper</font>](https://www.aclweb.org/anthology/W19-0419/){:target="_blank"}\]
 
 ## 2018
 
@@ -93,7 +96,7 @@ The emergence of number and syntax units in LSTM language models.
 * Hupkes D. and Bod R. POS-tagging of Historical Dutch. 
 *LREC 2016*.\\
 \[[<font color="brown">bibtex</font>](../research/LREC_bib.txt){:target="_blank"}\] 
-\[[<font color="brown">paper</font>](../research/LREC2016.pdf){:target="_blank"}\] \[[<font color="brown">source code</font>](https://github.com/dieuwkehupkes/POStagging){:target="_blank"}\]
+\[[<font color="brown">paper</font>](https://www.aclweb.org/anthology/L16-1012){:target="_blank"}\] \[[<font color="brown">source code</font>](https://github.com/dieuwkehupkes/POStagging){:target="_blank"}\]
 
 ## Abstracts
 
