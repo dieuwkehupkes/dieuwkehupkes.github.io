@@ -49,6 +49,8 @@ Currently, I am supervising:
 <div id="columns">
     <div class="date column">
         <b>
+        June 2019 - now
+        <br><br><br>
         June 2018 - now
         <br><br><br>
         June 2019 - now
@@ -60,6 +62,9 @@ Currently, I am supervising:
         </b>
     </div>
     <div class="description column">
+        <b>Lewis O'Sullivan</b>, <font color="brown">Master Brain and Cognitive Science</font>
+        <br> Co-supervision with Willem Zuidema
+        <br><br>
         <b>Jaap Jumelet</b>, <font color="brown">Master Artificial Intelligence</font>
         <br> Co-supervision with Willem Zuidema
         <br><br>
@@ -95,16 +100,18 @@ In the past, I have supervised:
         <br><br><br><br>
         Jan - Aug 2018
         <br><br><br><br>
-        Jan -- July 2018
-        <br><br><br><br>
+        Jan - July 2018
+        <br><br><br><br><br>
         Jan - Aug 2018
+        <br><br><br><br>
+        Jan - Jun 2018
         <br><br><br><br>
         Spring 2017
         <br><br>
         </b>
     </div>
     <div class="description column">
-        <b>Gautier Dagn</b>, <font color="brown">Master Artificial Intelligence</font>
+        <b>Gautier Dagan</b>, <font color="brown">Master Artificial Intelligence</font>
         <br><i> Co-evolution of language and agent in referential games </i>
         <br> Co-supervision with Elia Bruni
         <br><br>
@@ -143,6 +150,11 @@ In the past, I have supervised:
         <b>Rezka Aufar Leonandya</b>, <font color="brown">Master Artificial Intelligence</font>
         <br><i> Learning to follow instructions </i>
         <br> Co-supervision with Elia Bruni and Germ&#x00E1;n Kruszewski
+        <br><br>
+
+        <b>Lucas Weber</b>, <font color="brown">Master Brain and Cognitive Science</font>
+        <br> <i> Continual learning in humans and neuroscience-inspired AI</i> 
+        <br> Co-supervision with Elia Bruni
         <br><br>
 
         <b>Philip Bouman</b>, <font color="brown">Bachelor Artificial Intelligence Thesis</font>
