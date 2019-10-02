@@ -42,41 +42,36 @@ image:
 
 </style>
 
-## Individual supervision
+## Thesis supervision
 <hr>
 
 Currently, I am supervising:
 <div id="columns">
     <div class="date column">
         <b>
-        Jan 2019 - now
+        June 2018 - now
         <br><br><br>
-        Oct 2018 - now
+        June 2019 - now
         <br><br><br>
-        Jan 2019 - now
+        June 2019 - now
         <br><br><br>
-        Oct 2018 - now
-        <br><br><br>
-        Sept 2018 - now
+        June 2018 - now
         <br><br><br>
         </b>
     </div>
     <div class="description column">
-        <b>Diana Rodriguez Luna</b>, <font color="brown">Master Artificial Intelligence</font>
+        <b>Jaap Jumelet</b>, <font color="brown">Master Artificial Intelligence</font>
+        <br> Co-supervision with Willem Zuidema
+        <br><br>
+        <b>Silvan de Boer</b>, <font color="brown">Master Artificial Intelligence</font>
         <br> Co-supervision with Elia Bruni
         <br><br>
-        <b>Dennis Ulmer</b>, <font color="brown">Master Artificial Intelligence</font>
-        <br> Co-supervision with Elia Bruni
-        <br><br>
-        <b>Gautier Dagan</b>, <font color="brown">Master Artificial Intelligence</font>
+        <b>Oskar van der Wal</b>, <font color="brown">Master Artificial Intelligence</font>
         <br> Co-supervision with Elia Bruni
         <br><br>
         <b>David Rau</b>, <font color="brown">Master Artificial Intelligence</font>
         <br> Co-supervision with Elia Bruni
         <br><br>
-        <b>Jaap Jumelet</b>, <font color="brown">Master Artificial Intelligence</font>
-        <br><br>
-
     </div>
 </div>
 
@@ -86,10 +81,16 @@ In the past, I have supervised:
 <div id="columns">
     <div class="date column">
         <b>
+        Jan - Aug 2019
+        <br><br><br><br>
+        Jan - Aug 2019
+        <br><br><br><br>
+        Jan - July 2019
+        <br><br><br><br>
         Jan - Nov 2018
-        <br><br><br><br><br>
+        <br><br><br><br>
         Jan - Oct 2018
-        <br><br><br><br><br>
+        <br><br><br><br>
         Jan - Aug 2018
         <br><br><br><br>
         Jan - Aug 2018
@@ -103,6 +104,18 @@ In the past, I have supervised:
         </b>
     </div>
     <div class="description column">
+        <b>Gautier Dagn</b>, <font color="brown">Master Artificial Intelligence</font>
+        <br><i> Co-evolution of language and agent in referential games </i>
+        <br> Co-supervision with Elia Bruni
+        <br><br>
+        <b>Dennis Ulmer</b>, <font color="brown">Master Artificial Intelligence</font>
+        <br><i> Recoding latent sentence representations </i>
+        <br> Co-supervision with Elia Bruni
+        <br><br>
+        <b>Diana Rodriguez Luna</b>, <font color="brown">Master Artificial Intelligence</font>
+        <br><i> Language emregence in multi-agent referential games</i>
+        <br> Co-supervision with Elia Bruni
+        <br><br>
         <b>Kris Korrel</b>, <font color="brown">Master Artificial Intelligence</font>
         <br><i> From sequence to attention</i>
         <br> Co-supervision with Elia Bruni and Germ&#x00E1;n Kruszewski
@@ -139,7 +152,70 @@ In the past, I have supervised:
     </div>
 </div>
 
+## Individual/group projects
 
+<div id="columns">
+    <div class="date column">
+        <b>
+        June 2019
+        <br><br><br><br> June 2019
+        <br><br><br> June 2018
+        <br><br><br><br> June 2018
+        <br><br><br> June 2018
+        <br><br><br> January 2018
+        <br><br>
+        </b>
+    </div>
+    <div class="description column">
+        <b> Syntactic awareness in language models: recurrence vs self-Attention </b> 
+        <br><i> Msc AI students Sander Bos, Lorian Colthof, Bryan Guevara and Vivian van Oijen</i>
+
+        <br><br>
+        <b> Unsupervised grammar induction in emergent languages</b> 
+        <br><i> Msc AI students Silvan de Boer and Oskar van der Wal</i>
+
+        <br><br>
+        <b> On the realisation of compositionality in neural networks</b> 
+        <br><i> Msc AI students Joris Baan, Jana Leible, Mitja Nikolaus, David Rau, Verna Dankers, Snthosh Rajamanickam and Dennis Ulmer</i>
+
+        <br><br>
+        <b>Analysing subject-verb agreement with diagnostic classification</b>
+        <br><i> Msc AI and Logic students Mario Giulianelli, Jack Harding and Florian Mohnert</i> 
+
+        <br><br>
+        <b>What do language models encode?</b>
+        <br><i> Msc AI student Jaap Jumelet </i>
+
+        <br><br>
+        <b> Learning compositionality in neural networks</b> 
+        <br><i> Master of Logic students Federico Schiaffino, Haukur P&#x00E1;l Jonnson, Max Rapp, Flavio Tisi and Yuan-Ho Yao</i>
+
+        <br><br>
+    </div>
+</div>
+
+## (Guest) lectures
+
+I've (guest)lectured in the following courses:
+
+<div id="columns">
+    <div class="date column">
+        <b>
+        May 2019
+        <br> Nov 2018
+        <br> Dec 2017
+        <br> Mar 2017
+        <br><br>
+        </b>
+    </div>
+    <div class="description column">
+        <i> Statistical Methods for Natural Language Semantics </i> 
+        <br><i> Foundations of Neural and Cognitive Modelling </i> 
+        <br><i> Natural Language Processing 1 </i> 
+        <br><i> Cognitive Models of Language and Music </i> 
+        <br><br>
+    </div>
+</div>
 
 ## Courses
 <hr>
