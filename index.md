@@ -24,6 +24,8 @@ In fact, last year (2018), we won the national championships!
 If you are not convinced yet that it is a serious sport, have a look at our <a href="https://www.instagram.com/duo_polenotti/" target="_blank">Instagram</a> :).  
 # News
 
+- October 4, 2019 -- Together with Willem Zuidema, I'm interviewing Alexandru Baltag today at the <a href="https://www.illc.uva.nl/AbouttheILLC/Activities/ILLC-Open-Day/ILLC-Open-Day-2019/" target="_blank">ILLC open Day</a>!
+
 - October 1, 2019 -- I decided to make a news section on my homepage! First piece of news: Today I'm speaking at the <a href="http://www.comco2019.com/" target="_blank">Computational Cognition workshop</a> in Instabruck!  
   
 
