@@ -56,7 +56,8 @@ The emergence of number and syntax units in LSTM language models.
 * Hupkes D., Veldhoen S., and Zuidema W. (2018). Visualisation and 'diagnostic classifiers' reveal how recurrent and recursive neural networks process hierarchical structure.
 *JAIR*\\
 \[[<font color="brown">paper</font>](https://jair.org/index.php/jair/article/view/11196/26408){:target="blank"}\] 
-\[[<font color="brown">bibtex</font>](../bibfiles/hupkes2018visualisation){:target="blank"}\].
+\[[<font color="brown">bibtex</font>](../bibfiles/hupkes2018visualisation){:target="blank"}\]
+\[[<font color="brown">demo</font>](https://lang.science.uva.nl/arithmetic/){:target="blank"}\]
 
 * Giulianelli, M., Harding, J., Mohnert, F., Hupkes, D. and Zuidema, W. (2018). Under the hood: using diagnostic classifiers to investigate and improve how language models track agreement information.  
 *BlackboxNLP 2018, ACL*. **Best paper award**.\\
@@ -92,6 +93,7 @@ The emergence of number and syntax units in LSTM language models.
 \[[<font color="brown">bibtex</font>](../research/nips.bib){:target="_blank"}\]
 \[[<font color="brown">poster</font>](../research/nips2016_poster.pdf){:target="_blank"}\]
 \[[<font color="brown">source code</font>](https://github.com/dieuwkehupkes/processing_arithmetics){:target="_blank"}\]
+\[[<font color="brown">demo</font>](https://lang.science.uva.nl/arithmetic/){:target="blank"}\]
 
 * Hupkes D. and Bod R. POS-tagging of Historical Dutch. 
 *LREC 2016*.\\
