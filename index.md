@@ -16,12 +16,11 @@ I am still very glad that I got the chance to have a job that allows me to try t
 
 Currently, in my PhD, I focus on understanding how recurrent neural networks can understand and learn the structures that occur in natural language, for me a problem that touches on the core of understanding natural language.
 Although artificial neural networks are of course nothing like the real brain, I hope that understanding the principles by which they can encode processes can still teach us something that will lead to a better understanding of language. 
-Recently, a large body of my work has been centered around developing techniques to understand better what is going on inside recurrent neural networks and trying to interpret their behaviour in the light of the vast (symbolic) knowledge of language that we have.
-If you are interested, check my publications on diagnostic classification!
 <br /><br />
 In my free time, I spend a lot of time training for pole dancing competitions with my duo partner Suzy. 
 In fact, last year (2018), we won the national championships!
-If you are not convinced yet that it is a serious sport, have a look at our <a href="https://www.instagram.com/duo_polenotti/" target="_blank">Instagram</a> :).  
+If you are not convinced yet that it is a serious sport, have a look at our <a href="https://www.instagram.com/duo_polenotti/" target="_blank">Instagram</a>, or check our <a href="https://www.youtube.com/watch?v=ylr0YnVzjOg&t=158s" target="_blank">performance at the World's</a> in 2018!
+
 # News
 
 - October 8, 2019 -- On my way to Baltimore for a visit to John's Hopkins! Thanks to Tal Linzen and Chris Honey for inviting me :).
