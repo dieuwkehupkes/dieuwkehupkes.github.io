@@ -28,7 +28,7 @@ kramdown:
 owner:
   name: Dieuwke Hupkes
   avatar: dieuwk.jpg
-  # bio: "Describe your self."
+  bio: "PhD student at the University of Amsterdam, interested in structures in language"
   email: d.hupkes@uva.nl
   disqus-shortname: 
   google:
@@ -42,6 +42,7 @@ owner:
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: dieuwke-hupkes/84/656/707
   instagram: duo_polenotti
+  twitter: _dieuwke_
   xing: #username
   lastfm: #username
   tumblr: #username
