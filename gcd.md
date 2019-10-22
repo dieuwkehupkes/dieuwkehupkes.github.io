@@ -3,7 +3,7 @@ layout: page
 title: Generalised Contextual Decomposition
 tags: [Jekyll, theme, responsive, blog, template]
 image: 
-  feature: sunny_amsterdam.jpg
+  feature: gcd_header.png
 ---
 
 In the 2019 CONLL paper *Analysing neural language models: Contextual Decomposition Reveals Default Reasoning in Number and Gender Assignment*, we propose <b>Generalised Contextual Decomposition</b>. 
