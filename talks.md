@@ -23,9 +23,11 @@ image:
 
 *  *October 1*. What do they learn? Neural networks, compositionality and interpretability. [*Computational Cognition workshop*](http://www.comco2019.com/), Osnabruek.  
 [[<font color='blue'>slides</font>](talks/Osnabruek01-10-2019.pdf)]
+[[<font color='blue'>recording</font>](https://www.youtube.com/watch?time_continue=1&v=qspEr33ql3o)]
 
-* *September 3*. Guest speaker and panelist at the public event [*When fake looks all too real: the technology behind Deep Fake*](https://www.spui25.nl/spui25-en/events/events/2019/09/the-technology-behind-deep-fake.html), SPUI25, Amsterdam. 
+* *September 3*. Guest speaker and panelist at the public event [*When fake looks all too real: the technology behind Deep Fake*](https://www.spui25.nl/spui25-en/events/events/2019/09/the-technology-behind-deep-fake.html), SPUI25, Amsterdam.  
 [[<font color='blue'>slides</font>](talks/DeepFake03-09-2019.pdf)]
+[[<font color='blue'>recording</font>](https://www.facebook.com/spui25/videos/vb.603406399729064/742682212852885/?type=2&theater)]
 
 * *June 18*. The typology of emergent languages.  [*Interaction and the Evolution of Linguistic Complexity*](http://www.lel.ed.ac.uk/cle/index.php/ielc2019), Edinburgh.  
 [[<font color='blue'>slides</font>](talks/IELC18-06-2019.pdf)]
