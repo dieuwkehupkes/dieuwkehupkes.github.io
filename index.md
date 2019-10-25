@@ -23,6 +23,8 @@ If you are not convinced yet that it is a serious sport, have a look at our <a h
 
 # News
 
+- October 25, 2019 -- There will be a next edition of BlackboxNLP next year at EMNLP'2020!
+
 - October 8, 2019 -- On my way to Baltimore for a visit to John's Hopkins! Thanks to Tal Linzen and Chris Honey for inviting me :).
 
 - October 4, 2019 -- Together with Willem Zuidema, I'm interviewing Alexandru Baltag today at the <a href="https://www.illc.uva.nl/AbouttheILLC/Activities/ILLC-Open-Day/ILLC-Open-Day-2019/" target="_blank">ILLC open Day</a>!
