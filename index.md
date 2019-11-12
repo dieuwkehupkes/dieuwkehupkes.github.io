@@ -23,6 +23,8 @@ If you are not convinced yet that it is a serious sport, have a look at our <a h
 
 # News
 
+- November 4, 2019 -- My <a href="https://arxiv.org/pdf/1909.08975.pdf">paper</a> with Jaap Jumelet and Willem Zuidema got an honourable mention at CoNLL2019!
+
 - October 25, 2019 -- There will be a next edition of BlackboxNLP next year at EMNLP'2020!
 
 - October 8, 2019 -- On my way to Baltimore for a visit to John's Hopkins! Thanks to Tal Linzen and Chris Honey for inviting me :).

@@ -10,7 +10,7 @@ image:
 
 {% include _toc.html %}
 
-You can also find me on <a href="https://scholar.google.nl/citations?user=tAtSMTcAAAAJ&hl=en&oi=ao" target="_blank"><font color="brown">Google Scholar</font></a>.
+You can also find me on <a href="https://scholar.google.com/citations?user=tAtSMTcAAAAJ&hl=en&oi=ao" target="_blank"><font color="brown">Google Scholar</font></a>.
 
 ## Preprints
 
@@ -20,10 +20,9 @@ The compositionality of neural networks: integrating symbolism and connectionism
 
 ## 2019
 
-* Jumelet J., Zuidema W. and Hupkes D. Analysing Neural Language Models: Contextual Decomposition Reveals Default Reasoning in Number and Gender Assignment. *CONLL 2019*. **Honourable mention** \\
-\[[<font color="brown">preprint</font>](https://www.aclweb.org/anthology/K19-1001.pdf){:target="blank"}\] 
+* Jumelet J., Zuidema W. and Hupkes D. Analysing Neural Language Models: Contextual Decomposition Reveals Default Reasoning in Number and Gender Assignment. *CONLL 2019*. **Honourable mention**. \\
+\[[<font color="brown">paper</font>](https://www.aclweb.org/anthology/K19-1001.pdf){:target="blank"}\] 
 \[[<font color="brown">source code</font>]( https://github.com/i-machine-think/gcd4lm){:target="_blank"}\]
-
 
 * Baan J., Leible J., Nikolaus M., Rau D., Ulmer D., Baumgärtner T., Hupkes D. and Bruni E. 
 On the Realization of Compositionality in Neural Networks. 
