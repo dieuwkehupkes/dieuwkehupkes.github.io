@@ -23,6 +23,8 @@ If you are not convinced yet that it is a serious sport, have a look at our <a h
 
 # News
 
+- November 15, 2019 -- Today I gave a presentation at the University of Utrecht. Thanks Denis Paperno for inviting me, and thanks to the audience for asking so many interesting questions!
+
 - November 4, 2019 -- My <a href="https://arxiv.org/pdf/1909.08975.pdf">paper</a> with Jaap Jumelet and Willem Zuidema got an honourable mention at CoNLL2019!
 
 - October 25, 2019 -- There will be a next edition of BlackboxNLP next year at EMNLP'2020!

@@ -12,11 +12,12 @@ image:
 
 ## Upcoming
 
-* *November 4*, TBA, *Universiteit Utrecht*, Utrecht.
-
-* *November 11*, TBA, *Vrije Universiteit*, Amsterdam.
+* TBA, TBA, *Vrije Universiteit*, Amsterdam.
 
 ### 2019
+
+* *November 4*, Syntax in neural language models: a case study, *Universiteit Utrecht*, Utrecht.
+[[<font color='blue'>slides</font>](talks/UU15-11-2019.pdf)]
 
 * *October 9* Subject verb agreement in neural language models -- how, when and where? *Johns Hopkins University*, Baltimore.  
 [[<font color='blue'>slides</font>](talks/JHU09-10-2019.pdf)]
