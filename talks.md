@@ -12,7 +12,9 @@ image:
 
 ## Upcoming
 
-* TBA, TBA, *Vrije Universiteit*, Amsterdam.
+* *February 24*, TBA, *Vrije Universiteit*, Amsterdam.
+* *March 6*, TBA, *[ILCC Seminar](http://web.inf.ed.ac.uk/ilcc/news-events) at the University of Edinburgh*, Edinburgh
+* *March 24*, TBA, *Internal talk at Pompeu Fabra University*, Barcelona
 
 ### 2019
 
