@@ -15,12 +15,12 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 ## Preprints
 
 * Hupkes D., Dankers V., Mul M. and Bruni E.
-The compositionality of neural networks: integrating symbolism and connectionism.\\
+The compositionality of neural networks: integrating symbolism and connectionism. *Accepted for publication in JAIR*.\\
 \[[<font color="brown">preprint</font>](https://arxiv.org/pdf/1908.08351.pdf){:target="blank"}\] 
 
 ## 2019
 
-* Jumelet J., Zuidema W. and Hupkes D. Analysing Neural Language Models: Contextual Decomposition Reveals Default Reasoning in Number and Gender Assignment. *CONLL 2019*.\\
+* Jumelet J., Zuidema W. and Hupkes D. Analysing Neural Language Models: Contextual Decomposition Reveals Default Reasoning in Number and Gender Assignment. *CONLL 2019*. **Honourable mention**. \\
 \[[<font color="brown">paper</font>](https://www.aclweb.org/anthology/K19-1001.pdf){:target="blank"}\] 
 \[[<font color="brown">source code</font>]( https://github.com/i-machine-think/gcd4lm){:target="_blank"}\]
 
