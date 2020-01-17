@@ -13,8 +13,12 @@ image:
 ## Upcoming
 
 * *February 24*, TBA, *Vrije Universiteit*, Amsterdam.
-* *March 6*, TBA, *[ILCC Seminar](http://web.inf.ed.ac.uk/ilcc/news-events) at the University of Edinburgh*, Edinburgh
-* *March 24*, TBA, *Internal talk at Pompeu Fabra University*, Barcelona
+
+* *March 6*, TBA, <a href="http://web.inf.ed.ac.uk/ilcc/news-events" target="_blank">*ILCC Seminar*</a> *at the University of Edinburgh*, Edinburgh.
+
+* *March 24*, TBA, *Internal talk at Pompeu Fabra University*, Barcelona.
+
+* *August*, TBA, *Keynote speaker at the workshop* [*Computational and experimental explanations in semantics and pragmatics*](https://www.jakubszymanik.com/CoSaQ/events/explanations-semantics), Utrecht.
 
 ### 2019
 
@@ -24,7 +28,7 @@ image:
 * *October 9* Subject verb agreement in neural language models -- how, when and where? *Johns Hopkins University*, Baltimore.  
 [[<font color='blue'>slides</font>](talks/JHU09-10-2019.pdf)]
 
-*  *October 1*. What do they learn? Neural networks, compositionality and interpretability. [*Computational Cognition workshop*](http://www.comco2019.com/), Osnabruek.  
+*  *October 1*, What do they learn? Neural networks, compositionality and interpretability, [*Computational Cognition workshop*](http://www.comco2019.com), Osnabruek.  
 [[<font color='blue'>slides</font>](talks/Osnabruek01-10-2019.pdf)]
 [[<font color='blue'>recording</font>](https://www.youtube.com/watch?time_continue=1&v=qspEr33ql3o)]
 
