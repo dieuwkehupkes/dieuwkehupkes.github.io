@@ -7,21 +7,26 @@ image:
   feature: sunny_amsterdam.jpg
 ---
 
-My name is Dieuwke, I am a PhD student at the <a href="http://illc.uva.nl" target="_blank"><font color="brown">Institute for Logic, Language and Computation</font></a>, under supervision of <a href="https://staff.fnwi.uva.nl/w.zuidema/" target="_blank"><font color="brown">Willem Zuidema</font></a>. 
-I am employed within the <a href="https://www.languageininteraction.nl/" target="_blank"><font color="brown">Language in Interaction</font></a> project since July 2015.
+My name is Dieuwke.
+I am currently appointed at the <a href="http:/illc.uva.nl"> target="_blank"><font color="brown">Institute for Logic, Language and Computation (ILLC)</font></a>, as a temporary lecturer at the University of Amsterdam.
+At this institute, under supervision of <a href="https://staff.fnwi.uva.nl/w.zuidema/" target="_blank"><font color="brown">Willem Zuidema</font></a>, I wrote also my doctorate dissertation -- titled <i>Hierarchy and interpretability in neural models of language processing</i>.
+I will defend this work the end of May.
 <br /><br />
+
 I started my journey in academia studying physics, but at some point I had to admit that although I think physics is very interesting and I love abstract systems, my true passion is really the beautifully complex system that is natural language.
 While doing a master in Logic at the University of Amsterdam I was very lucky to discover the field of computational linguistics (and in particular syntactic parsing).
 I am still very glad that I got the chance to have a job that allows me to try to find answers to the questions that intrigue me most.
 
-Currently, in my PhD, I focus on understanding how recurrent neural networks can understand and learn the structures that occur in natural language, for me a problem that touches on the core of understanding natural language.
-Although artificial neural networks are of course nothing like the real brain, I hope that understanding the principles by which they can encode processes can still teach us something that will lead to a better understanding of language. 
+In my current research, I focus on understanding what recurrent neural networks can teach us about processing of structure. 
+Although such networks are of course nothing like the real brain, I hope that understanding the principles by which they can encode processes can still teach us something that will lead to a better understanding of language. 
 <br /><br />
 In my free time, I spend a lot of time training for pole dancing competitions with my duo partner Suzy. 
 In fact, last year (2018), we won the national championships!
 If you are not convinced yet that it is a serious sport, have a look at our <a href="https://www.instagram.com/duo_polenotti/" target="_blank">Instagram</a>, or check our <a href="https://www.youtube.com/watch?v=ylr0YnVzjOg&t=158s" target="_blank">performance at the World's</a> in 2018!
 
 # News
+
+- January 24, 2020 -- I submitted my doctorate dissertation! I'm very much looking forward to the next steps.
 
 - November 15, 2019 -- Today I gave a presentation at the University of Utrecht. Thanks Denis Paperno for inviting me, and thanks to the audience for asking so many interesting questions!
 
