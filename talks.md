@@ -12,9 +12,9 @@ image:
 
 ## Upcoming
 
-* *February 24*, TBA, *Vrije Universiteit*, Amsterdam.
-* *March 6*, TBA, *[ILCC Seminar](http://web.inf.ed.ac.uk/ilcc/news-events) at the University of Edinburgh*, Edinburgh
+* *February 24*, Neural networks and the limits of diagnostic classifcation, *Vrije Universiteit*, Amsterdam.
 * *March 24*, TBA, *Internal talk at Pompeu Fabra University*, Barcelona
+* *June 5*, TBA, *[ILCC Seminar](http://web.inf.ed.ac.uk/ilcc/news-events) at the University of Edinburgh*, Edinburgh
 
 ### 2019
 
