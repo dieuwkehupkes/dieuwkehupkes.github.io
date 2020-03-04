@@ -15,7 +15,7 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 ## Preprints
 
 * Hupkes D., Dankers V., Mul M. and Bruni E.
-The compositionality of neural networks: integrating symbolism and connectionism. *Accepted for publication in JAIR*.\\
+Compositionality decomposed: how do neural networks generalise? *To appear in JAIR*.\\
 \[[<font color="brown">preprint</font>](https://arxiv.org/pdf/1908.08351.pdf){:target="blank"}\] 
 
 ## 2019
