@@ -18,6 +18,13 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 Compositionality decomposed: how do neural networks generalise? *To appear in JAIR*.\\
 \[[<font color="brown">preprint</font>](https://arxiv.org/pdf/1908.08351.pdf){:target="blank"}\] 
 
+* Dubois Y., Dagan G., Hupkes D., and Bruni E.
+Location Attention for Extrapolation to Longer Sequences. *To appear at ACL2020*
+
+* Luna R.D., Ponti E.M., Hupkes D., and Bruni E.
+Internal and External Pressures on Language Emergence: Least Effort, Object Constancy and Frequency.\\
+\[[<font color="brown">preprint</font>](https://arxiv.org/pdf/2004.03868.pdf){:target="blank"}\] 
+
 ## 2019
 
 * Jumelet J., Zuidema W. and Hupkes D. Analysing Neural Language Models: Contextual Decomposition Reveals Default Reasoning in Number and Gender Assignment. *CONLL 2019*. **Honourable mention**. \\
