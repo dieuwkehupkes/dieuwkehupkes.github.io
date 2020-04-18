@@ -42,6 +42,37 @@ image:
 
 </style>
 
+## Courses
+
+Currently, I am teaching:
+<div id="columns">
+    <div class="date column">
+        <b>
+        March 2020 - now
+        </b>
+    </div>
+    <div class="description column">
+        <b><a href="https://studiegids.uva.nl/xmlpages/page/2019-2020/zoek-vak/vak/72626" target="_blank"><font color="brown">Taaltheorie en Taalverwerking</font></a></b> (Universiteit van Amsterdam)
+        <br><i> First year Bsc AI course that introduces key topic in natural language processing at an introductory level. </i>
+        <br><br>
+    </div>
+</div>
+
+I am the course coordinator of:
+
+<div id="columns">
+    <div class="date column">
+        <b>
+        March 2020 - now
+        </b>
+    </div>
+    <div class="description column">
+        <b><a href="First year Bsc AI course that introduces key topic in natural language processing at an introductory level." target="_blank"><font color="brown">Human(e) AI</font></a></b> (Universiteit van Amsterdam)
+        <br><i> Elective Bsc coure about the role of AI in society.</i>
+        <br><br>
+    </div>
+</div>
+
 ## Thesis supervision
 <hr>
 
@@ -49,9 +80,11 @@ Currently, I am supervising:
 <div id="columns">
     <div class="date column">
         <b>
+        April 2020 - now
+        <br><br>
+        April 2020 - now
+        <br><br>
         June 2019 - now
-        <br><br><br>
-        June 2018 - now
         <br><br><br>
         June 2019 - now
         <br><br><br>
@@ -62,16 +95,17 @@ Currently, I am supervising:
         </b>
     </div>
     <div class="description column">
+        <b>Hugh Mee Wong</b>, <font color="brown">Bachelor Artificial Intelligence</font>
+        <br><br>
+        <b>Jeroen Taal</b>, <font color="brown">Bachelor Artificial Intelligence</font>
+        <br><br>
         <b>Lewis O'Sullivan</b>, <font color="brown">Master Brain and Cognitive Science</font>
         <br> Co-supervision with Willem Zuidema
         <br><br>
-        <b>Jaap Jumelet</b>, <font color="brown">Master Artificial Intelligence</font>
-        <br> Co-supervision with Willem Zuidema
-        <br><br>
-        <b>Silvan de Boer</b>, <font color="brown">Master Artificial Intelligence</font>
+        <b>Oskar van der Wal</b>, <font color="brown">Master Artificial Intelligence</font>
         <br> Co-supervision with Elia Bruni
         <br><br>
-        <b>Oskar van der Wal</b>, <font color="brown">Master Artificial Intelligence</font>
+        <b>Oscar Ligthart</b>, <font color="brown">Master Artificial Intelligence</font>
         <br> Co-supervision with Elia Bruni
         <br><br>
         <b>David Rau</b>, <font color="brown">Master Artificial Intelligence</font>
@@ -86,6 +120,8 @@ In the past, I have supervised:
 <div id="columns">
     <div class="date column">
         <b>
+        June 2018 - Feb 2020
+        <br><br><br>
         Jan - Aug 2019
         <br><br><br><br>
         Jan - Aug 2019
@@ -95,13 +131,13 @@ In the past, I have supervised:
         Jan - Nov 2018
         <br><br><br><br>
         Jan - Oct 2018
-        <br><br><br><br>
+        <br><br><br><br><br>
         Jan - Aug 2018
         <br><br><br><br>
         Jan - Aug 2018
         <br><br><br><br>
         Jan - July 2018
-        <br><br><br><br><br>
+        <br><br><br><br>
         Jan - Aug 2018
         <br><br><br><br>
         Jan - Jun 2018
@@ -111,6 +147,9 @@ In the past, I have supervised:
         </b>
     </div>
     <div class="description column">
+        <b>Jaap Jumelet</b>, <font color="brown">Master Artificial Intelligence</font>
+        <br> Co-supervision with Willem Zuidema
+        <br><br>
         <b>Gautier Dagan</b>, <font color="brown">Master Artificial Intelligence</font>
         <br><i> Co-evolution of language and agent in referential games </i>
         <br> Co-supervision with Elia Bruni
@@ -169,7 +208,9 @@ In the past, I have supervised:
 <div id="columns">
     <div class="date column">
         <b>
-        June 2019
+        Feb 2020 - now
+        <br><br><br> Feb 2020 - now
+        <br><br><br> June 2019
         <br><br><br><br> June 2019
         <br><br><br> June 2018
         <br><br><br><br> June 2018
@@ -179,7 +220,15 @@ In the past, I have supervised:
         </b>
     </div>
     <div class="description column">
-        <b> Syntactic awareness in language models: recurrence vs self-Attention </b> 
+        <b> Contextual decomposition for attention-based models </b> 
+        <br><i> Msc AI student Tom Kersten </i>
+
+        <br><br>
+        <b> Curriculum learning to improve compositionality </b> 
+        <br><i> Msc AI student Michael Neely </i>
+
+        <br><br>
+        <b> Syntactic awareness in language models: recurrence vs self-attention </b> 
         <br><i> Msc AI students Sander Bos, Lorian Colthof, Bryan Guevara and Vivian van Oijen</i>
 
         <br><br>
@@ -213,7 +262,8 @@ I've (guest)lectured in the following courses:
 <div id="columns">
     <div class="date column">
         <b>
-        May 2019
+        April 2020
+        <br> May 2019
         <br> Nov 2018
         <br> Dec 2017
         <br> Mar 2017
@@ -221,7 +271,8 @@ I've (guest)lectured in the following courses:
         </b>
     </div>
     <div class="description column">
-        <i> Statistical Methods for Natural Language Semantics </i> 
+        <i> Natural Language Processing 2</i> 
+        <br> <i> Statistical Methods for Natural Language Semantics </i> 
         <br><i> Foundations of Neural and Cognitive Modelling </i> 
         <br><i> Natural Language Processing 1 </i> 
         <br><i> Cognitive Models of Language and Music </i> 
@@ -229,7 +280,7 @@ I've (guest)lectured in the following courses:
     </div>
 </div>
 
-## Courses
+## Teaching assistant
 <hr>
 I have been a teaching assistant in the following courses:
 

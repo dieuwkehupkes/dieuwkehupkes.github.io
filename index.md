@@ -10,7 +10,7 @@ image:
 My name is Dieuwke.
 I am currently appointed at the <a href="http:/illc.uva.nl" target="_blank"><font color="brown">Institute for Logic, Language and Computation (ILLC)</font></a>, as a temporary lecturer at the University of Amsterdam.
 At this institute, under supervision of <a href="https://staff.fnwi.uva.nl/w.zuidema/" target="_blank"><font color="brown">Willem Zuidema</font></a>, I wrote also my doctorate dissertation -- titled <i>Hierarchy and interpretability in neural models of language processing</i>.
-I will defend this work the end of May.
+I will defend this work in June.
 <br /><br />
 
 I started my journey in academia studying physics, but at some point I had to admit that although I think physics is very interesting and I love abstract systems, my true passion is really the beautifully complex system that is natural language.
