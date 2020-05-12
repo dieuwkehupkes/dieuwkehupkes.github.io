@@ -5,7 +5,7 @@ excerpt: "Talks"
 tags: [Jekyll, theme, responsive, blog, template]
 comments: true
 image: 
-    feature: sunny_amsterdam.jpg
+  feature: rooftop_view.jpg
 ---
 
 {% include _toc.html %}
