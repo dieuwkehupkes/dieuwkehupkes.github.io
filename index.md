@@ -7,6 +7,8 @@ image:
   feature: rooftop_view.jpg
 ---
 
+{% include _toc.html %}
+
 My name is Dieuwke.
 I am currently appointed at the <a href="http:/illc.uva.nl" target="_blank"><font color="brown">Institute for Logic, Language and Computation (ILLC)</font></a>, as a temporary lecturer at the University of Amsterdam.
 At this institute, under supervision of <a href="https://staff.fnwi.uva.nl/w.zuidema/" target="_blank"><font color="brown">Willem Zuidema</font></a>, I wrote also my doctorate dissertation -- titled <i>Hierarchy and interpretability in neural models of language processing</i>.
@@ -24,7 +26,9 @@ In my free time, I spend a lot of time training for pole dancing competitions wi
 In fact, last year (2018), we won the national championships!
 If you are not convinced yet that it is a serious sport, have a look at our <a href="https://www.instagram.com/duo_polenotti/" target="_blank">Instagram</a>, or check our <a href="https://www.youtube.com/watch?v=ylr0YnVzjOg&t=158s" target="_blank">performance at the World's</a> in 2018!
 
-# News
+## News
+
+- June 5, 2020 -- In less than two weeks -- on June 17, 13 o'clock, I will defend my dissertation. Due to the stange circumstances, it will be held online. Curious? It will be <a href="https://www.youtube.com/watch?v=aRTXv5MWmb8&feature=youtu.be">streamed on Youtube</a>!
 
 - January 24, 2020 -- I submitted my doctorate dissertation! I'm very much looking forward to the next steps.
 
@@ -43,9 +47,9 @@ If you are not convinced yet that it is a serious sport, have a look at our <a h
 
 ## Highlighted publications 
 
-* Hupkes D., Dankers V., Mul M. and Bruni E. (2019)
-[The compositionality of neural networks: integrating symbolism and connectionism.](https://arxiv.org/pdf/1908.08351.pdf){:target="blank"}.
-Submitted.
+* Hupkes D., Dankers V., Mul M. and Bruni E. (2020)
+[Compositionality decomposed: how do neural networks generalise?](https://jair.org/index.php/jair/article/view/11674/26576){:target="blank"}
+*JAIR*.
 
 * Giulianelli, M., Harding, J., Mohnert, F., Hupkes, D. and Zuidema, W. (2018). 
 [Under the hood: using diagnostic classifiers to investigate and improve how language models track agreement information](http://aclweb.org/anthology/W18-5426){:target="blank"}.
