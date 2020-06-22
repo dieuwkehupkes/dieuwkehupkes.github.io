@@ -14,14 +14,18 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 
 ## Preprints
 
-* Dubois Y., Dagan G., Hupkes D., and Bruni E.
-Location Attention for Extrapolation to Longer Sequences. *To appear at ACL2020*
+* Lakretz, Y., Hupkes, D., Vergallito, A., Marelli, M., Baroni, M. and Dehaene, S. Exploring processing of nested dependencies in neural-network language models and humans.\\
+\[[<font color="brown">preprint</font>](https://arxiv.org/pdf/2006.11098.pdf){:target="blank"}\] 
 
 * Luna R.D., Ponti E.M., Hupkes D., and Bruni E.
 Internal and External Pressures on Language Emergence: Least Effort, Object Constancy and Frequency.\\
 \[[<font color="brown">preprint</font>](https://arxiv.org/pdf/2004.03868.pdf){:target="blank"}\] 
 
 ## 2020
+* Dubois Y., Dagan G., Hupkes D., and Bruni E.
+Location Attention for Extrapolation to Longer Sequences. *ACL2020*.\\
+\[[<font color="brown">preprint</font>](https://arxiv.org/pdf/1911.03872.pdf){:target="blank"}\] 
+
 * Hupkes D., Dankers V., Mul M. and Bruni E.
 Compositionality decomposed: how do neural networks generalise? *JAIR*.\\
 \[[<font color="brown">paper</font>](https://www.jair.org/index.php/jair/article/view/11674/26576){:target="blank"}\] 
