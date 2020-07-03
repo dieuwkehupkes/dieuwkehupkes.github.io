@@ -29,7 +29,7 @@ Have a look at our <a href="https://www.instagram.com/duo_polenotti/" target="_b
 
 ## News
 
-- June 17, 2020 -- In a hybrid virtual - physical setting, I finally got my title! It was an interesting experience, many thanks to those of you that were there, virtually or physically. You can rewatch the ceremony <a href="https://youtu.be/bud3sTAri70">here</a>.
+- June 17, 2020 -- In a hybrid virtual - physical setting, I finally got my title! It was an interesting experience, many thanks to those of you that were there, virtually or physically. You can find my dissertation <a href="http://www.illc.uva.nl/Research/Publications/Dissertations/DS-2020-06.text.pdf">here</a>.
  
 - June 5, 2020 -- In less than two weeks -- on June 17, 13 o'clock, I will defend my dissertation. Due to the stange circumstances, it will be held online. Curious? It will be <a href="https://www.youtube.com/watch?v=aRTXv5MWmb8&feature=youtu.be">streamed on Youtube</a>!
 
