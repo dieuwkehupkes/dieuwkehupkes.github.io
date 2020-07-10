@@ -10,18 +10,19 @@ image:
 {% include _toc.html %}
 
 My name is Dieuwke Hupkes.
-I am currently appointed at the <a href="http:/illc.uva.nl" target="_blank"><font color="brown">Institute for Logic, Language and Computation (ILLC)</font></a>, as a temporary lecturer at the University of Amsterdam.
-At this institute, under supervision of <a href="https://staff.fnwi.uva.nl/w.zuidema/" target="_blank"><font color="brown">Willem Zuidema</font></a>, I wrote also my doctorate dissertation -- titled [<i>Hierarchy and interpretability in neural models of language processing</i>](https://pure.uva.nl/ws/files/48164248/Thesis.pdf){:target="blank"}.
+I am currently a postdoctoral researcher at the University of Amsterdam, and the scientific manager of the Amsterdam unit of <a href="ellis.eu" target="_blank"><font color="brown">ELLIS</font></a>. 
+Before that, I did my PhD at the <a href="http:/illc.uva.nl" target="_blank"><font color="brown">Institute for Logic, Language and Computation (ILLC)</font></a>,under supervision of <a href="https://staff.fnwi.uva.nl/w.zuidema/" target="_blank"><font color="brown">Willem Zuidema</font></a>.
+
+In my dissertation -- titled [<i>Hierarchy and interpretability in neural models of language processing</i>](https://pure.uva.nl/ws/files/48164248/Thesis.pdf){:target="blank"} -- I studied artificial neural networks for natural language processing, with as main aim to understand what they may teach us about processing of structure.
+While artificial neural networks are of course far from the real brain, I hope that understanding the principles by which they can encode and process structure can teach us something that will lead to a better understanding of how language is processed by the human brain. 
 <br /><br />
 
-
-I started my journey in academia studying physics, but at some point I had to admit that although I think physics is very interesting and I love abstract systems, my true passion is really the beautifully complex system that is natural language.
+Already quite a while ago, I started my journey in academia studying physics.
+At some point, I had to admit that although I think physics is very interesting and I love abstract systems, my true passion is really the beautifully complex system that is natural language.
 While doing a master in Logic at the University of Amsterdam I was very lucky to discover the field of computational linguistics.
 I am still very glad that I got the chance to have a job that allows me to try to find answers to the questions that intrigue me most.
-
-In my current research, I focus on understanding what recurrent neural networks can teach us about processing of structure. 
-Although such networks are of course nothing like the real brain, I hope that understanding the principles by which they can encode processes can still teach us something that will lead to a better understanding of language. 
 <br /><br />
+
 In my free time, I spend a lot of time training for pole dancing competitions. 
 In 2018, my duo-partner Suzy and I won the national championships!
 Curious what it looks like?
