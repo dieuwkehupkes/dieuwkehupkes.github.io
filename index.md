@@ -10,7 +10,7 @@ image:
 {% include _toc.html %}
 
 My name is Dieuwke Hupkes.
-I am currently a postdoctoral researcher at the University of Amsterdam, and the scientific manager of the Amsterdam unit of <a href="ellis.eu" target="_blank"><font color="brown">ELLIS</font></a>. 
+I am currently a postdoctoral researcher at the University of Amsterdam, and the scientific manager of the Amsterdam unit of <a href="https://ellis.eu/" target="_blank"><font color="brown">ELLIS</font></a>. 
 Before that, I did my PhD at the <a href="http:/illc.uva.nl" target="_blank"><font color="brown">Institute for Logic, Language and Computation (ILLC)</font></a>,under supervision of <a href="https://staff.fnwi.uva.nl/w.zuidema/" target="_blank"><font color="brown">Willem Zuidema</font></a>.
 
 In my dissertation -- titled [<i>Hierarchy and interpretability in neural models of language processing</i>](https://pure.uva.nl/ws/files/48164248/Thesis.pdf){:target="blank"} -- I studied artificial neural networks for natural language processing, with as main aim to understand what they may teach us about processing of structure.
