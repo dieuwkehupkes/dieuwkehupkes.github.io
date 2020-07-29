@@ -22,14 +22,15 @@ Internal and External Pressures on Language Emergence: Least Effort, Object Cons
 \[[<font color="brown">preprint</font>](https://arxiv.org/pdf/2004.03868.pdf){:target="blank"}\] 
 
 ## 2020
-* Dubois Y., Dagan G., Hupkes D., and Bruni E.
-Location Attention for Extrapolation to Longer Sequences. *ACL2020*.\\
-\[[<font color="brown">preprint</font>](https://arxiv.org/pdf/1911.03872.pdf){:target="blank"}\] 
-
 * Hupkes D., Dankers V., Mul M. and Bruni E.
 Compositionality decomposed: how do neural networks generalise? *JAIR*.\\
 \[[<font color="brown">paper</font>](https://www.jair.org/index.php/jair/article/view/11674/26576){:target="blank"}\] 
 \[[<font color="brown">source code</font>](https://github.com/i-machine-think/am-i-compositional){:target="_blank"}\]
+\[[<font color="brown">extended abstract (IJCAI)</font>](https://www.ijcai.org/Proceedings/2020/0708.pdf){:target="_blank"}\]
+
+* Dubois Y., Dagan G., Hupkes D., and Bruni E.
+Location Attention for Extrapolation to Longer Sequences. *ACL2020*.\\
+\[[<font color="brown">preprint</font>](https://arxiv.org/pdf/1911.03872.pdf){:target="blank"}\] 
 
 
 ## 2019
