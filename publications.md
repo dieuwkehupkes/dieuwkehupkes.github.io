@@ -76,6 +76,7 @@ The emergence of number and syntax units in LSTM language models.
 \[[<font color="brown">paper</font>](https://jair.org/index.php/jair/article/view/11196/26408){:target="blank"}\] 
 \[[<font color="brown">bibtex</font>](../bibfiles/hupkes2018visualisation){:target="blank"}\]
 \[[<font color="brown">demo</font>](https://lang.science.uva.nl/arithmetic/){:target="blank"}\]
+\[[<font color="brown">extended abstract (IJCAI)</font>](https://www.ijcai.org/Proceedings/2018/0796.pdf){:target="_blank"}\]
 
 * Giulianelli, M., Harding, J., Mohnert, F., Hupkes, D. and Zuidema, W. (2018). Under the hood: using diagnostic classifiers to investigate and improve how language models track agreement information.  
 *BlackboxNLP 2018, ACL*. **Best paper award**.\\
