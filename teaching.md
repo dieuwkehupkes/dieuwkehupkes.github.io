@@ -47,7 +47,7 @@ image:
 <div id="columns">
     <div class="date column">
         <b>
-        March 2020 - now
+        March - July 2020
         </b>
     </div>
     <div class="description column">
@@ -58,7 +58,7 @@ image:
 <div id="columns">
     <div class="date column">
         <b>
-        March 2020 - now
+        March - July 2020
         </b>
     </div>
     <div class="description column">
