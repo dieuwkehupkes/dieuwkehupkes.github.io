@@ -44,7 +44,6 @@ image:
 
 ## Courses
 
-Currently, I am teaching:
 <div id="columns">
     <div class="date column">
         <b>
@@ -54,12 +53,8 @@ Currently, I am teaching:
     <div class="description column">
         <b><a href="https://studiegids.uva.nl/xmlpages/page/2019-2020/zoek-vak/vak/72626" target="_blank"><font color="brown">Taaltheorie en Taalverwerking</font></a></b> (Universiteit van Amsterdam)
         <br><i> First year Bsc AI course that introduces key topic in natural language processing at an introductory level. </i>
-        <br><br>
     </div>
 </div>
-
-I am the course coordinator of:
-
 <div id="columns">
     <div class="date column">
         <b>
@@ -76,52 +71,63 @@ I am the course coordinator of:
 ## Thesis supervision
 <hr>
 
-Currently, I am supervising:
 <div id="columns">
     <div class="date column">
-        <b>
-        April 2020 - now
-        <br><br>
-        April 2020 - now
-        <br><br>
-        June 2019 - now
-        <br><br><br>
-        June 2019 - now
-        <br><br><br>
-        June 2019 - now
-        <br><br><br>
-        June 2018 - now
-        <br><br><br>
-        </b>
+        <b> April - June 2020 </b>
     </div>
     <div class="description column">
         <b>Hugh Mee Wong</b>, <font color="brown">Bachelor Artificial Intelligence</font>
-        <br><br>
-        <b>Jeroen Taal</b>, <font color="brown">Bachelor Artificial Intelligence</font>
-        <br><br>
-        <b>Lewis O'Sullivan</b>, <font color="brown">Master Brain and Cognitive Science</font>
-        <br> Co-supervision with Willem Zuidema
-        <br><br>
-        <b>Oskar van der Wal</b>, <font color="brown">Master Artificial Intelligence</font>
-        <br> Co-supervision with Elia Bruni
-        <br><br>
-        <b>Oscar Ligthart</b>, <font color="brown">Master Artificial Intelligence</font>
-        <br> Co-supervision with Elia Bruni
-        <br><br>
-        <b>David Rau</b>, <font color="brown">Master Artificial Intelligence</font>
-        <br> Co-supervision with Elia Bruni
-        <br><br>
+        <br><i>Subject-Verb Number Agreement in a Dutch LSTM Language Model</i>
     </div>
 </div>
 
-<hr>
-In the past, I have supervised:
+<div id="columns">
+    <div class="date column">
+        <b> April - June 2020 </b>
+    </div>
+    <div class="description column">
+        <b>Jeroen Taal</b>, <font color="brown">Bachelor Artificial Intelligence</font>
+        <br><i>Comparing encoding of number information in dense and sparse LSTMs</i>
+    </div>
+</div>
+
+<div id="columns">
+    <div class="date column">
+        <b> April - August 2020 </b>
+    </div>
+    <div class="description column">
+        <b>Oskar van der Wal</b>, <font color="brown">Master Artificial Intelligence</font>
+        <br><i>The Grammar of Emergent Languages</i>
+        <br> Co-supervision with Elia Bruni
+    </div>
+</div>
+
+<div id="columns">
+    <div class="date column">
+        <b> April - Now </b>
+    </div>
+    <div class="description column">
+        <b>Lewis O'Sullivan</b>, <font color="brown">Master Brain and Cognitive Science</font>
+        <br> Co-supervision with Willem Zuidema
+    </div>
+</div>
+
+<div id="columns">
+    <div class="date column">
+    <b> June 2019 - May 2020 </b>
+    </div>
+    <div class="description column">
+        <b>Oscar Ligthart</b>, <font color="brown">Master Artificial Intelligence</font>
+        <br><i>Measuring Compositionality in Agent Emerged Languages</i>
+        <br> Co-supervision with Elia Bruni
+    </div>
+</div>
 
 <div id="columns">
     <div class="date column">
         <b>
         June 2018 - Feb 2020
-        <br><br><br>
+        <br><br><br><br>
         Jan - Aug 2019
         <br><br><br><br>
         Jan - Aug 2019
@@ -148,6 +154,7 @@ In the past, I have supervised:
     </div>
     <div class="description column">
         <b>Jaap Jumelet</b>, <font color="brown">Master Artificial Intelligence</font>
+        <br><i>  Interpreting Language Models</i>
         <br> Co-supervision with Willem Zuidema
         <br><br>
         <b>Gautier Dagan</b>, <font color="brown">Master Artificial Intelligence</font>
