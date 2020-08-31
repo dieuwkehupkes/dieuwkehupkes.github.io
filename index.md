@@ -30,6 +30,8 @@ Have a look at our <a href="https://www.instagram.com/duo_polenotti/" target="_b
 
 ## News
 
+- August 29, 2020 -- Jelle Zuidema and I were interviewed by Trouw, the resulting two page (!) [article](Trouw-29-08-2020-article.pdf) appeared today!
+
 - July 9, 2020 -- Check out this nice <a href="https://resources.illc.uva.nl/illc-blog/lightening-up-the-black-box/">blog post</a> that <a href="https://resources.illc.uva.nl/illc-blog/lightening-up-the-black-box/" target="_blank">Iris Proff</a> wrote about me and my research!
 
 
