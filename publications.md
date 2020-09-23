@@ -12,14 +12,17 @@ image:
 
 You can also find me on <a href="https://scholar.google.com/citations?user=tAtSMTcAAAAJ&hl=en&oi=ao" target="_blank"><font color="brown">Google Scholar</font></a>.
 
-## Preprints
+## In prep
 
 * Lakretz, Y., Hupkes, D., Vergallito, A., Marelli, M., Baroni, M. and Dehaene, S. Exploring processing of nested dependencies in neural-network language models and humans.\\
 \[[<font color="brown">preprint</font>](https://arxiv.org/pdf/2006.11098.pdf){:target="blank"}\] 
 
 * Luna R.D., Ponti E.M., Hupkes D., and Bruni E.
-Internal and External Pressures on Language Emergence: Least Effort, Object Constancy and Frequency.\\
+Internal and External Pressures on Language Emergence: Least Effort, Object Constancy and Frequency. Accepted for *EMNLP-findings* \\
 \[[<font color="brown">preprint</font>](https://arxiv.org/pdf/2004.03868.pdf){:target="blank"}\] 
+
+* van der Wal, O., Bruni, E. and Hupkes, D.
+The grammar of emergent languages. Accepted at *EMNLP 2020*
 
 ## 2020
 * Hupkes D., Dankers V., Mul M. and Bruni E.
