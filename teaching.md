@@ -42,6 +42,8 @@ image:
 
 </style>
 
+I obtained the Dutch Basic Teaching Qualification (UTQ/BKO) at the University of Amsterdam.
+
 ## Courses
 
 <div id="columns">
