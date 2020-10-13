@@ -21,7 +21,7 @@ image:
 
 ### 2020
 
-* *September 17* Neural networks as explanatory models. AllenNLP, Seattle (virtual talk)
+* *September 17*, Neural networks as explanatory models. AllenNLP, Seattle (virtual talk)
 
 ### 2019
 
