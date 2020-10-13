@@ -12,15 +12,20 @@ image:
 
 ## Upcoming
 
-* *June 5*, TBA, *[ILCC Seminar](http://web.inf.ed.ac.uk/ilcc/news-events) at the University of Edinburgh*, Edinburgh
+* *October 30*, Neural networks as explanatory models of language processing, *[ILCC Seminar](http://web.inf.ed.ac.uk/ilcc/news-events) at the University of Edinburgh*, Edinburgh (virtual talk)<br>
+[[<font color='blue'>abstract</font>](talks/ILCC_abstract.txt)]
 
-* *August*, TBA, *Keynote speaker at the workshop* [*Computational and experimental explanations in semantics and pragmatics*](https://www.jakubszymanik.com/CoSaQ/events/explanations-semantics), Utrecht.
+* *August 2021*, TBA, *Keynote speaker at the workshop* [*Computational and experimental explanations in semantics and pragmatics*](https://www.jakubszymanik.com/CoSaQ/events/explanations-semantics), Utrecht.
 
-* *November*, TBA, *Keynote speaker at EurNLP*, Paris.
+* TBA, *Keynote speaker at EurNLP*, Paris.
+
+### 2020
+
+* *September 17* Neural networks as explanatory models. AllenNLP, Seattle (virtual talk)
 
 ### 2019
 
-* *November 4*, Syntax in neural language models: a case study, *Universiteit Utrecht*, Utrecht.
+* *November 4*, Syntax in neural language models: a case study, *Universiteit Utrecht*, Utrecht.<br>
 [[<font color='blue'>slides</font>](talks/UU15-11-2019.pdf)]
 
 * *October 9* Subject verb agreement in neural language models -- how, when and where? *Johns Hopkins University*, Baltimore.  
