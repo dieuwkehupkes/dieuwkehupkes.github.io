@@ -17,16 +17,16 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 * Lakretz, Y., Hupkes, D., Vergallito, A., Marelli, M., Baroni, M. and Dehaene, S. Exploring processing of nested dependencies in neural-network language models and humans.\\
 \[[<font color="brown">preprint</font>](https://arxiv.org/pdf/2006.11098.pdf){:target="blank"}\] 
 
+## 2020
 * Luna R.D., Ponti E.M., Hupkes D., and Bruni E.
 Internal and External Pressures on Language Emergence: Least Effort, Object Constancy and Frequency. Accepted for *EMNLP-findings* \\
 \[[<font color="brown">preprint</font>](https://arxiv.org/pdf/2004.03868.pdf){:target="blank"}\] 
 
 * van der Wal, O., Bruni, E. and Hupkes, D.
 The grammar of emergent languages. Accepted at *EMNLP 2020*\\
-\[[<font color="brown">preprint</font>](https://arxiv.org/pdf/2010.02069.pdf){:target="blank"}\] 
+\[[<font color="brown">paper</font>](https://www.aclweb.org/anthology/2020.emnlp-main.270.pdf){:target="blank"}\] 
 \[[<font color="brown">source code</font>](https://github.com/i-machine-think/emergent_grammar_induction){:target="_blank"}\]
 
-## 2020
 * Hupkes D., Dankers V., Mul M. and Bruni E.
 Compositionality decomposed: how do neural networks generalise? *JAIR*.\\
 \[[<font color="brown">paper</font>](https://www.jair.org/index.php/jair/article/view/11674/26576){:target="blank"}\] 
