@@ -12,14 +12,17 @@ image:
 
 ## Upcoming
 
-* *October 30*, Neural networks as explanatory models of language processing, *[ILCC Seminar](http://web.inf.ed.ac.uk/ilcc/news-events) at the University of Edinburgh*, Edinburgh (virtual talk)<br>
-[[<font color='blue'>abstract</font>](talks/ILCC_abstract.txt)]
+* *December 4*, Compositionality decomposed: how about natural language? *Rijksuniversiteit Groningen*, Groningen (virtual talk)
 
 * *August 2021*, TBA, *Keynote speaker at the workshop* [*Computational and experimental explanations in semantics and pragmatics*](https://www.jakubszymanik.com/CoSaQ/events/explanations-semantics), Utrecht.
 
 * TBA, *Keynote speaker at EurNLP*, Paris.
 
 ### 2020
+
+* *October 30*, Neural networks as explanatory models of language processing, *[ILCC Seminar](http://web.inf.ed.ac.uk/ilcc/news-events) at the University of Edinburgh*, Edinburgh (virtual talk)<br>
+[[<font color='blue'>abstract</font>](talks/ILCC_abstract.txt)]
+
 
 * *September 17*, Neural networks as explanatory models. AllenNLP, Seattle (virtual talk)
 
