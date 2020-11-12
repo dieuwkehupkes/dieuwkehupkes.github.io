@@ -20,7 +20,7 @@ image:
 
 ### 2020
 
-* *October 30*, Neural networks as explanatory models of language processing, *[ILCC Seminar](http://web.inf.ed.ac.uk/ilcc/news-events) at the University of Edinburgh*, Edinburgh (virtual talk)<br>
+* *October 30*, Neural networks as explanatory models of language processing, *[ILCC Seminar](https://web.inf.ed.ac.uk/ilcc/news-events) at the University of Edinburgh*, Edinburgh (virtual talk)<br>
 [[<font color='blue'>abstract</font>](talks/ILCC_abstract.txt)]
 
 
@@ -42,7 +42,7 @@ image:
 [[<font color='blue'>slides</font>](talks/DeepFake03-09-2019.pdf)]
 [[<font color='blue'>recording</font>](https://www.facebook.com/spui25/videos/vb.603406399729064/742682212852885/?type=2&theater)]
 
-* *June 18*. The typology of emergent languages.  [*Interaction and the Evolution of Linguistic Complexity*](http://www.lel.ed.ac.uk/cle/index.php/ielc2019), Edinburgh.  
+* *June 18*. The typology of emergent languages.  [*Interaction and the Evolution of Linguistic Complexity*](https://www.lel.ed.ac.uk/cle/index.php/ielc2019), Edinburgh.  
 [[<font color='blue'>slides</font>](talks/IELC18-06-2019.pdf)]
 
 * *May 6*. The compositionality of neural networks: integrating symbolism and connectionism. 

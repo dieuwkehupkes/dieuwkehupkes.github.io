@@ -85,7 +85,7 @@ The emergence of number and syntax units in LSTM language models.
 
 * Giulianelli, M., Harding, J., Mohnert, F., Hupkes, D. and Zuidema, W. (2018). Under the hood: using diagnostic classifiers to investigate and improve how language models track agreement information.  
 *BlackboxNLP 2018, ACL*. **Best paper award**.\\
-\[[<font color="brown">paper</font>](http://aclweb.org/anthology/W18-5426){:target="blank"}\]
+\[[<font color="brown">paper</font>](https://aclweb.org/anthology/W18-5426){:target="blank"}\]
 \[[<font color="brown">bibtex</font>](../research/guglianelli2018under.bib){:target="blank"}\].
 
 * Zuidema W., Hupkes D., Wiggins G., Scharf C. and Rohrmeier M. (2018). Formal models of Structure Building in Music, Language and Animal Song. In *The Origins of Musicality* \\
@@ -93,19 +93,19 @@ The emergence of number and syntax units in LSTM language models.
 
 * Jumelet, J. and Hupkes, D. (2018). Do language models understand anything? On the ability of LSTMs to understand negative polarity items. 
 *BlackboxNLP 2018, ACL*.\\
-\[[<font color="brown">paper</font>](http://aclweb.org/anthology/W18-5424){:target="blank"}\]
+\[[<font color="brown">paper</font>](https://aclweb.org/anthology/W18-5424){:target="blank"}\]
 \[[<font color="brown">bibtex</font>](../research/jumelet2018language.bib){:target="blank"}\].
 
 * Hupkes, D., Bouwmeester, S. and Fern&#x00E1;ndez, R. (2018). Analysing the potential of seq2seq models for incremental interpretation in task-oriented dialogue. 
 *BlackboxNLP 2018, ACL*.\\
-\[[<font color="brown">paper</font>](http://aclweb.org/anthology/W18-5419){:target="blank"}\]
+\[[<font color="brown">paper</font>](https://aclweb.org/anthology/W18-5419){:target="blank"}\]
 \[[<font color="brown">bibtex</font>](../research/hupkes2018analysing.bib){:target="blank"}\].
 
 ## 2017
 
 * Hupkes D. and Zuidema W. Diagnostic classification and symbolic guidance to understand and improve recurrent neural networks. 
 *Interpreting, Explaining and Visualizing Deep Learning, NIPS2017.*\\
-\[[<font color="brown">paper</font>](http://www.interpretable-ml.org/nips2017workshop/papers/12.pdf){:target="blank"}\] 
+\[[<font color="brown">paper</font>](https://www.interpretable-ml.org/nips2017workshop/papers/12.pdf){:target="blank"}\] 
 \[[<font color="brown">poster</font>](../research/nips2017_poster.pdf){:target="_blank"}\] 
 \[[<font color="brown">source code</font>](https://github.com/dieuwkehupkes/processing_arithmetics){:target="_blank"}\]
 
@@ -127,8 +127,8 @@ The emergence of number and syntax units in LSTM language models.
 ## Abstracts
 
 * Ponti E., Hupkes D. and Bruni E. (2019) The typology of emergent languages. 
-[*Interaction and the Evolution of Linguistic Complexity*](http://www.lel.ed.ac.uk/cle/index.php/ielc2019/){:target="_blank"} \\
-\[[<font color="brown">abstract</font>](http://www.lel.ed.ac.uk/~kenny/ielc2019Abstracts/Ponti.pdf){:target="_blank"}\]
+[*Interaction and the Evolution of Linguistic Complexity*](https://www.lel.ed.ac.uk/cle/index.php/ielc2019/){:target="_blank"} \\
+\[[<font color="brown">abstract</font>](https://www.lel.ed.ac.uk/~kenny/ielc2019Abstracts/Ponti.pdf){:target="_blank"}\]
 
 * Ulmer D., Hupkes D. and Bruni E. (2019) An incremental encoder for sequence-to-sequence modelling. *CLIN29*. \\
 \[[<font color="brown">abstract</font>](https://www.let.rug.nl/clin29/Dennis_Ulmer_Dieuwke_Hupkes_Elia_Bruni.php){:target="_blank"}\] 
@@ -143,5 +143,5 @@ The emergence of number and syntax units in LSTM language models.
 \[[<font color="brown">poster</font>](../research/l2hm_leonandya.pdf){:target="_blank"}\] 
 
 * Nielsen A., Hupkes D., Kirby S. and Smith K. (2016). The Arbitrariness Of The Sign Revisited: The Role Of Phonological Similarity. *EVOLANG11*.   
-\[[<font color="brown">abstract</font>](http://evolang.org/neworleans/papers/126.html){:target="_blank"}\]
+\[[<font color="brown">abstract</font>](https://evolang.org/neworleans/papers/126.html){:target="_blank"}\]
 
