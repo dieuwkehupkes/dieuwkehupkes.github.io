@@ -22,7 +22,7 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 Internal and External Pressures on Language Emergence: Least Effort, Object Constancy and Frequency. Accepted for *EMNLP-findings* \\
 \[[<font color="brown">preprint</font>](https://arxiv.org/pdf/2004.03868.pdf){:target="blank"}\] 
 
-* van der Wal, O., Bruni, E. and Hupkes, D.
+* van der Wal, O., de Boer, S., Bruni, E. and Hupkes, D.
 The grammar of emergent languages. Accepted at *EMNLP 2020*\\
 \[[<font color="brown">paper</font>](https://www.aclweb.org/anthology/2020.emnlp-main.270.pdf){:target="blank"}\] 
 \[[<font color="brown">source code</font>](https://github.com/i-machine-think/emergent_grammar_induction){:target="_blank"}\]
