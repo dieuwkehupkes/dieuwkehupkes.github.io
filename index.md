@@ -10,9 +10,10 @@ image:
 {% include _toc.html %}
 
 My name is Dieuwke Hupkes.
-I am currently a postdoctoral researcher at the University of Amsterdam, and the scientific manager of the Amsterdam unit of <a href="https://ellis.eu/" target="_blank"><font color="brown">ELLIS</font></a>. 
-Before that, I did my PhD at the <a href="https:/illc.uva.nl" target="_blank"><font color="brown">Institute for Logic, Language and Computation (ILLC)</font></a>,under supervision of <a href="https://staff.fnwi.uva.nl/w.zuidema/" target="_blank"><font color="brown">Willem Zuidema</font></a>.
+I am currently a  research scientist at <a href="https://ai.facebook.com/" target="_blank">Facebook AI Research</a>, and the scientific manager of the <a href="https://ivi.fnwi.uva.nl/ellis/" target="_blank">Amsterdam unit</a> of <a href="https://ellis.eu/" target="_blank"><font color="brown">ELLIS</font></a>. 
+<br /><br />
 
+Before that, I did my PhD at the <a href="https:/illc.uva.nl" target="_blank"><font color="brown">Institute for Logic, Language and Computation (ILLC)</font></a>, under supervision of <a href="https://staff.fnwi.uva.nl/w.zuidema/" target="_blank"><font color="brown">Willem Zuidema</font></a>.
 In my dissertation -- titled [<i>Hierarchy and interpretability in neural models of language processing</i>](https://pure.uva.nl/ws/files/48164248/Thesis.pdf){:target="blank"} -- I studied artificial neural networks for natural language processing, with as main aim to understand what they may teach us about processing of structure.
 While artificial neural networks are of course far from the real brain, I hope that understanding the principles by which they can encode and process structure can teach us something that will lead to a better understanding of how language is processed by the human brain. 
 <br /><br />
@@ -29,6 +30,8 @@ Curious what it looks like?
 Have a look at our <a href="https://www.instagram.com/duo_polenotti/" target="_blank">Instagram</a>, or check our <a href="https://www.youtube.com/watch?v=ylr0YnVzjOg&t=158s" target="_blank">performance at the World's</a> in 2018!
 
 ## News
+
+- December 7, 2020 -- Today I started as a research scientist at FAIR Paris! Looking forward to this new adventure :).
 
 - August 29, 2020 -- Jelle Zuidema and I were interviewed by Trouw, the resulting two page (!) [article](Trouw-29-08-2020-article.pdf) appeared today!
 
