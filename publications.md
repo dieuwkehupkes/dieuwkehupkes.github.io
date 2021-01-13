@@ -14,9 +14,10 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 
 ## In prep
 
-* Weber, L., Jumelet, J., Bruni, E. and Hupkes, D. Language modelling as a multi-task problem. *Accepted at EACL 2021*.\\
+* Weber, L., Jumelet, J., Bruni, E. and Hupkes, D. Language modelling as a multi-task problem. *Accepted at EACL 2021*.
 
-* Dagan, G., Hupkes, D. and Bruni, E. Co-evolution of language and agents in referential games. *Accepted at EACL 2021*.\\
+* Dagan, G., Hupkes, D. and Bruni, E. Co-evolution of language and agents in referential games. *Accepted at EACL 2021*.
+\[[<font color="brown">preprint</font>](https://arxiv.org/pdf/2001.03361.pdf){:target="blank"}\] 
 
 * Lakretz, Y., Hupkes, D., Vergallito, A., Marelli, M., Baroni, M. and Dehaene, S. Exploring processing of nested dependencies in neural-network language models and humans.\\
 \[[<font color="brown">preprint</font>](https://arxiv.org/pdf/2006.11098.pdf){:target="blank"}\] 
@@ -24,7 +25,7 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 ## 2020
 * Luna R.D., Ponti E.M., Hupkes D., and Bruni E.
 Internal and External Pressures on Language Emergence: Least Effort, Object Constancy and Frequency. Accepted for *EMNLP-findings* \\
-\[[<font color="brown">preprint</font>](https://arxiv.org/pdf/2004.03868.pdf){:target="blank"}\] 
+\[[<font color="brown">paper</font>](https://www.aclweb.org/anthology/2020.findings-emnlp.397.pdf){:target="blank"}\] 
 
 * van der Wal, O., de Boer, S., Bruni, E. and Hupkes, D.
 The grammar of emergent languages. Accepted at *EMNLP 2020*\\
