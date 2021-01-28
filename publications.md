@@ -15,6 +15,7 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 ## In prep
 
 * Weber, L., Jumelet, J., Bruni, E. and Hupkes, D. Language modelling as a multi-task problem. *Accepted at EACL 2021*.
+\[[<font color="brown">preprint</font>](https://arxiv.org/pdf/2101.11287.pdf){:target="blank"}\] 
 
 * Dagan, G., Hupkes, D. and Bruni, E. Co-evolution of language and agents in referential games. *Accepted at EACL 2021*.
 \[[<font color="brown">preprint</font>](https://arxiv.org/pdf/2001.03361.pdf){:target="blank"}\] 
