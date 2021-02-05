@@ -9,7 +9,7 @@ tags: [Jekyll, theme, responsive, blog, template]
 ## Living room and kitchen
 <img src="/house_images/living_room_small.jpg" width="400">
 <img src="/house_images/living_room2_small.jpg" width="400">
-<img src="/house_images/extension1.jpg" width="400">
+<img src="/house_images/extension1.jpg" width="350">
 
 ## Roof terrace and street
 <img src="/house_images/roof_terrace2.jpeg" width="800">
