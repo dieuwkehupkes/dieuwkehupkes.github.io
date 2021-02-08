@@ -12,11 +12,15 @@ image:
 
 ## Upcoming
 
-* *December 4*, Compositionality decomposed: how about natural language? *Rijksuniversiteit Groningen*, Groningen (virtual talk)
+* *February 11*, Compositionality decomposed: how do neural networks generalise? [*Woman@CL*](https://talks.cam.ac.uk/talk/index/157291), Cambridge (virtual talk).
 
 * *August 2021*, TBA, *Keynote speaker at the workshop* [*Computational and experimental explanations in semantics and pragmatics*](https://www.jakubszymanik.com/CoSaQ/events/explanations-semantics), Utrecht.
 
 * TBA, *Keynote speaker at EurNLP*, Paris.
+
+### 2021
+
+* *February 5*, Compositionality decomposed: how about natural language? *Rijksuniversiteit Groningen*, Groningen (virtual talk).
 
 ### 2020
 
