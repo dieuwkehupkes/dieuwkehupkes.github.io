@@ -12,13 +12,13 @@ image:
 
 ## Upcoming
 
-* *March 17*, Kunnen we kunstmatige intelligentie nog doorgronden? [Studium Generale](https://www.sg.uu.nl/sprekers/dieuwke-hupkes), Utrecht (virtual talk).
-
 * *August 2021*, TBA, *Keynote speaker at the workshop* [*Computational and experimental explanations in semantics and pragmatics*](https://www.jakubszymanik.com/CoSaQ/events/explanations-semantics), Utrecht.
 
 * TBA, *Keynote speaker at EurNLP*, Paris.
 
 ### 2021
+
+* *March 17*, Kunnen we kunstmatige intelligentie nog doorgronden? [Studium Generale](https://www.sg.uu.nl/sprekers/dieuwke-hupkes), Utrecht (virtual talk).
 
 * *February 11*, Compositionality decomposed: how do neural networks generalise? [*Woman@CL*](https://talks.cam.ac.uk/talk/index/157291), Cambridge (virtual talk).
 
