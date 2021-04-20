@@ -20,6 +20,8 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 * K. Sinha, R. Jia, D. Hupkes, J. Pineau, A. Williams, D. Kiela. Masked Language Modeling and the Distributional Hypothesis: Order Word Matters Pre-training for Little.\\
 \[[<font color="brown">preprint</font>](https://arxiv.org/pdf/2104.06644.pdf){:target="blank"}\] 
 
+* T. Kersten, H. Wong, J. Jumelet and D. Hupkes. Attention vs Non-attention for a Shapley-based Explanation Method. *Accepted at the NAACL 2021 workshop DeeLIO*
+
 ## 2021
 
 * L. Weber, J. Jumelet, E. Bruni and D. Hupkes. Language modelling as a multi-task problem. EACL 2021.
