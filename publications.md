@@ -14,26 +14,31 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 
 ## In prep
 
-* Weber, L., Jumelet, J., Bruni, E. and Hupkes, D. Language modelling as a multi-task problem. *Accepted at EACL 2021*.
-\[[<font color="brown">preprint</font>](https://arxiv.org/pdf/2101.11287.pdf){:target="blank"}\] 
-
-* Dagan, G., Hupkes, D. and Bruni, E. Co-evolution of language and agents in referential games. *Accepted at EACL 2021*.
-\[[<font color="brown">preprint</font>](https://arxiv.org/pdf/2001.03361.pdf){:target="blank"}\] 
-
-* Lakretz, Y., Hupkes, D., Vergallito, A., Marelli, M., Baroni, M. and Dehaene, S. Mechanisms for Handling Nested Dependencies in Neural-Network Language Models and Humans. *Accepted at Cognition*\\
+* Y. Lakretz, D. Hupkes, A. Vergallito, M. Marelli, M. Baroni and S. Dehaene. Mechanisms for Handling Nested Dependencies in Neural-Network Language Models and Humans. *Accepted at Cognition*\\
 \[[<font color="brown">preprint</font>](https://arxiv.org/pdf/2006.11098.pdf){:target="blank"}\] 
 
+* K. Sinha, R. Jia, D. Hupkes, J. Pineau, A. Williams, D. Kiela. Masked Language Modeling and the Distributional Hypothesis: Order Word Matters Pre-training for Little.\\
+\[[<font color="brown">preprint</font>](https://arxiv.org/pdf/2104.06644.pdf){:target="blank"}\] 
+
+## 2021
+
+* L. Weber, J. Jumelet, E. Bruni and D. Hupkes. Language modelling as a multi-task problem. EACL 2021.
+\[[<font color="brown">paper</font>](https://www.aclweb.org/anthology/2021.eacl-main.176.pdf){:target="blank"}\] 
+
+* G. Dagan, D. Hupkes and E. Bruni. Co-evolution of language and agents in referential games. *EACL 2021*.
+\[[<font color="brown">paper</font>](https://www.aclweb.org/anthology/2021.eacl-main.260.pdf){:target="blank"}\] 
+
 ## 2020
-* Luna R.D., Ponti E.M., Hupkes D., and Bruni E.
+* R.D. Luna, E.M. Ponti, D. Hupkes, and E. Bruni.
 Internal and External Pressures on Language Emergence: Least Effort, Object Constancy and Frequency. Accepted for *EMNLP-findings* \\
 \[[<font color="brown">paper</font>](https://www.aclweb.org/anthology/2020.findings-emnlp.397.pdf){:target="blank"}\] 
 
-* van der Wal, O., de Boer, S., Bruni, E. and Hupkes, D.
+* O. van der Wal, S. de Boer, E. Bruni and D. Hupkes.
 The grammar of emergent languages. Accepted at *EMNLP 2020*\\
 \[[<font color="brown">paper</font>](https://www.aclweb.org/anthology/2020.emnlp-main.270.pdf){:target="blank"}\] 
 \[[<font color="brown">source code</font>](https://github.com/i-machine-think/emergent_grammar_induction){:target="_blank"}\]
 
-* Hupkes D., Dankers V., Mul M. and Bruni E.
+* D. Hupkes, V. Dankers, M. Mul and E. Bruni.
 Compositionality decomposed: how do neural networks generalise? *JAIR*.\\
 \[[<font color="brown">paper</font>](https://www.jair.org/index.php/jair/article/view/11674/26576){:target="blank"}\] 
 \[[<font color="brown">source code</font>](https://github.com/i-machine-think/am-i-compositional){:target="_blank"}\]
