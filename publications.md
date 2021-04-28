@@ -21,6 +21,7 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 \[[<font color="brown">preprint</font>](https://arxiv.org/pdf/2104.06644.pdf){:target="blank"}\] 
 
 * T. Kersten, H. Wong, J. Jumelet and D. Hupkes. Attention vs Non-attention for a Shapley-based Explanation Method. *Accepted at the NAACL 2021 workshop DeeLIO*
+\[[<font color="brown">preprint</font>](https://arxiv.org/abs/2104.12424){:target="blank"}\] 
 
 ## 2021
 
