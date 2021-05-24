@@ -14,9 +14,6 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 
 ## In prep
 
-* Y. Lakretz, D. Hupkes, A. Vergallito, M. Marelli, M. Baroni and S. Dehaene. Mechanisms for Handling Nested Dependencies in Neural-Network Language Models and Humans. *Accepted at Cognition*\\
-\[[<font color="brown">preprint</font>](https://arxiv.org/pdf/2006.11098.pdf){:target="blank"}\] 
-
 * K. Sinha, R. Jia, D. Hupkes, J. Pineau, A. Williams, D. Kiela. Masked Language Modeling and the Distributional Hypothesis: Order Word Matters Pre-training for Little.\\
 \[[<font color="brown">preprint</font>](https://arxiv.org/pdf/2104.06644.pdf){:target="blank"}\] 
 
@@ -24,6 +21,10 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 \[[<font color="brown">preprint</font>](https://arxiv.org/abs/2104.12424){:target="blank"}\] 
 
 ## 2021
+
+* Y. Lakretz, D. Hupkes, A. Vergallito, M. Marelli, M. Baroni and S. Dehaene. Mechanisms for Handling Nested Dependencies in Neural-Network Language Models and Humans. *Cognition*\\
+\[[<font color="brown">paper</font>](https://www.sciencedirect.com/science/article/abs/pii/S0010027721001189){:target="blank"}\] 
+
 
 * L. Weber, J. Jumelet, E. Bruni and D. Hupkes. Language modelling as a multi-task problem. EACL 2021.
 \[[<font color="brown">paper</font>](https://www.aclweb.org/anthology/2021.eacl-main.176.pdf){:target="blank"}\] 
