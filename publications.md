@@ -34,25 +34,25 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 
 ## 2020
 * R.D. Luna, E.M. Ponti, D. Hupkes, and E. Bruni.
-Internal and External Pressures on Language Emergence: Least Effort, Object Constancy and Frequency. Accepted for *EMNLP-findings* \\
+Internal and External Pressures on Language Emergence: Least Effort, Object Constancy and Frequency. Accepted for *EMNLP-findings*. \\
 \[[<font color="brown">paper</font>](https://www.aclweb.org/anthology/2020.findings-emnlp.397.pdf){:target="blank"}\] 
 
 * O. van der Wal, S. de Boer, E. Bruni and D. Hupkes.
-The grammar of emergent languages. Accepted at *EMNLP 2020*\\
+The grammar of emergent languages. Accepted at *EMNLP 2020*.
 \[[<font color="brown">paper</font>](https://www.aclweb.org/anthology/2020.emnlp-main.270.pdf){:target="blank"}\] 
 \[[<font color="brown">source code</font>](https://github.com/i-machine-think/emergent_grammar_induction){:target="_blank"}\]
 
 * D. Hupkes, V. Dankers, M. Mul and E. Bruni.
-Compositionality decomposed: how do neural networks generalise? *JAIR*.\\
+Compositionality decomposed: how do neural networks generalise? *JAIR*.
 \[[<font color="brown">paper</font>](https://www.jair.org/index.php/jair/article/view/11674/26576){:target="blank"}\] 
 \[[<font color="brown">source code</font>](https://github.com/i-machine-think/am-i-compositional){:target="_blank"}\]
-\[[<font color="brown">extended abstract (IJCAI)</font>](https://www.ijcai.org/Proceedings/2020/0708.pdf){:target="_blank"}\]
-\[[<font color="brown">5 min presentation abstract (IJCAI)</font>](https://drive.google.com/file/d/15DivvB5znPH6afMdbVZrIPev5Huv2uWI/view?usp=sharing){:target="_blank"}\]
+\[[<font color="brown">extended abstract (IJCAI)</font>](https://www.ijcai.org/Proceedings/2020/0708.pdf){:target="_blank"}\] 
+\[[<font color="brown">5 min presentation (IJCAI)</font>](https://drive.google.com/file/d/15DivvB5znPH6afMdbVZrIPev5Huv2uWI/view?usp=sharing){:target="_blank"}\]
 \[[<font color="brown"> 15 min presentation (IJCAI)</font>](https://drive.google.com/file/d/13cy19Ctl9UXqHcQ4QQXFeOrUghIuqwER/view?usp=sharing){:target="_blank"}\]
 
 
 * Dubois Y., Dagan G., Hupkes D., and Bruni E.
-Location Attention for Extrapolation to Longer Sequences. *ACL2020*.\\
+Location Attention for Extrapolation to Longer Sequences. *ACL2020*.
 \[[<font color="brown">paper</font>](https://www.aclweb.org/anthology/2020.acl-main.39.pdf){:target="blank"}\] 
 
 
