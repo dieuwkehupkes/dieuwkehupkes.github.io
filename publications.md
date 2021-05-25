@@ -47,8 +47,7 @@ Compositionality decomposed: how do neural networks generalise? *JAIR*.
 \[[<font color="brown">paper</font>](https://www.jair.org/index.php/jair/article/view/11674/26576){:target="blank"}\] 
 \[[<font color="brown">source code</font>](https://github.com/i-machine-think/am-i-compositional){:target="_blank"}\]
 \[[<font color="brown">extended abstract (IJCAI)</font>](https://www.ijcai.org/Proceedings/2020/0708.pdf){:target="_blank"}\] 
-\[[<font color="brown">5 min presentation (IJCAI)</font>](https://drive.google.com/file/d/15DivvB5znPH6afMdbVZrIPev5Huv2uWI/view?usp=sharing){:target="_blank"}\]
-\[[<font color="brown"> 15 min presentation (IJCAI)</font>](https://drive.google.com/file/d/13cy19Ctl9UXqHcQ4QQXFeOrUghIuqwER/view?usp=sharing){:target="_blank"}\]
+\[[<font color="brown"> 15 min presentation (IJCAI)</font>](https://www.youtube.com/watch?v=r_LegZC8dPU){:target="_blank"}\]
 
 
 * Dubois Y., Dagan G., Hupkes D., and Bruni E.
