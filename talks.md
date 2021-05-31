@@ -20,7 +20,8 @@ image:
 
 * *April 28*, Compositionality Decomposed: how do neural networks generalise? Tel Aviv University (virtual talk).
 
-* *March 17*, Kunnen we kunstmatige intelligentie nog doorgronden? [Studium Generale](https://www.sg.uu.nl/sprekers/dieuwke-hupkes), Utrecht (virtual talk).
+* *March 17*, Kunnen we kunstmatige intelligentie nog doorgronden? [Studium Generale](https://www.sg.uu.nl/sprekers/dieuwke-hupkes), Utrecht (virtual talk).\\
+[[<font color='blue'>recording</font>](https://www.sg.uu.nl/video/2021/03/kunnen-we-kunstmatige-intelligentie-nog-doorgronden)]
 
 * *February 11*, Compositionality decomposed: how do neural networks generalise? [*Woman@CL*](https://talks.cam.ac.uk/talk/index/157291), Cambridge (virtual talk).
 
