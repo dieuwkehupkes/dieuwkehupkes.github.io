@@ -12,7 +12,7 @@ image:
 
 ## Upcoming
 
-* *August 2021*, TBA, *Keynote speaker at the workshop* [*Computational and experimental explanations in semantics and pragmatics*](https://www.jakubszymanik.com/CoSaQ/events/explanations-semantics), Utrecht.
+* *August 9, 2021*, TBA, *Keynote speaker at the workshop* [*Computational and experimental explanations in semantics and pragmatics*](https://www.jakubszymanik.com/CoSaQ/events/explanations-semantics), Utrecht.
 
 * TBA, *Keynote speaker at EurNLP*, Paris.
 
