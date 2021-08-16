@@ -14,22 +14,22 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 
 ## In prep
 
-* Verna Dankers, Elia Bruni and Dieuwke Hupkes. The paradox of the compositionality of natural language: a neural machine translation case study
+* Verna Dankers, Elia Bruni and Dieuwke Hupkes. The paradox of the compositionality of natural language: a neural machine translation case study. \\
 \[[<font color="brown">preprint</font>](https://arxiv.org/pdf/2108.05885.pdf){:target="blank"}\] 
 
-* Koustuv Sinha, Robin Jia, Dieuwke Hupkes, Joelle Pineau, Adina Williams, Douwe Kiela. Masked language modeling and the distributional hypothesis: Order word matters pre-training for little. 
+* Koustuv Sinha, Robin Jia, Dieuwke Hupkes, Joelle Pineau, Adina Williams, Douwe Kiela. Masked language modeling and the distributional hypothesis: Order word matters pre-training for little. \\
 \[[<font color="brown">preprint</font>](https://arxiv.org/pdf/2104.06644){:target="blank"}\] 
 
 
 ## 2021
 
-* Yair Lakretz, Dieuwke Hupkes, Alessandra Vergallito, Marco Marelli, Marco Baroni and Stanislas Dehaene. Mechanisms for Handling Nested Dependencies in Neural-Network Language Models and Humans. *Cognition*\\
+* Yair Lakretz, Dieuwke Hupkes, Alessandra Vergallito, Marco Marelli, Marco Baroni and Stanislas Dehaene. Mechanisms for Handling Nested Dependencies in Neural-Network Language Models and Humans. *Cognition*.\\
 \[[<font color="brown">paper</font>](https://www.sciencedirect.com/science/article/abs/pii/S0010027721001189){:target="blank"}\] 
 
 * Lucas Weber, Jaap Jumelet, Elia Bruni and Dieuwke Hupkes. Language modelling as a multi-task problem. EACL 2021.
 \[[<font color="brown">paper</font>](https://www.aclweb.org/anthology/2021.eacl-main.176.pdf){:target="blank"}\] 
 
-* Gautier Dagan, Dieuwke Hupkes and Elia Bruni. Co-evolution of language and agents in referential games. *EACL 2021*.
+* Gautier Dagan, Dieuwke Hupkes and Elia Bruni. Co-evolution of language and agents in referential games. *EACL 2021*.\\
 \[[<font color="brown">paper</font>](https://www.aclweb.org/anthology/2021.eacl-main.260.pdf){:target="blank"}\] 
 
 * Tom Kersten, Hugh Mee Wong, Jumelet Jumelet and Dieuwke Hupkes. Attention vs Non-attention for a Shapley-based Explanation Method. *Accepted at the NAACL 2021 workshop DeeLIO*\\
@@ -41,19 +41,19 @@ Internal and External Pressures on Language Emergence: Least Effort, Object Cons
 \[[<font color="brown">paper</font>](https://www.aclweb.org/anthology/2020.findings-emnlp.397.pdf){:target="blank"}\] 
 
 * Oskar van der Wal, Silvan de Boer, Elia Bruni and Dieuwke Hupkes.
-The grammar of emergent languages. Accepted at *EMNLP 2020*.
+The grammar of emergent languages. Accepted at *EMNLP 2020*. \\
 \[[<font color="brown">paper</font>](https://www.aclweb.org/anthology/2020.emnlp-main.270.pdf){:target="blank"}\] 
 \[[<font color="brown">source code</font>](https://github.com/i-machine-think/emergent_grammar_induction){:target="_blank"}\]
 
 * Dieuwke Hupkes, Verna Dankers, Mathijs Mul and Elia Bruni.
-Compositionality decomposed: how do neural networks generalise? *JAIR*.
+Compositionality decomposed: how do neural networks generalise? *JAIR*. \\
 \[[<font color="brown">paper</font>](https://www.jair.org/index.php/jair/article/view/11674/26576){:target="blank"}\] 
 \[[<font color="brown">source code</font>](https://github.com/i-machine-think/am-i-compositional){:target="_blank"}\]
 \[[<font color="brown">extended abstract (IJCAI)</font>](https://www.ijcai.org/Proceedings/2020/0708.pdf){:target="_blank"}\] 
 \[[<font color="brown"> 15 min presentation (IJCAI)</font>](https://www.youtube.com/watch?v=r_LegZC8dPU){:target="_blank"}\]
 
 * Yann Dubois, Gautier Dagan, Dieuwke Hupkes, and Elia Bruni. 
-Location Attention for Extrapolation to Longer Sequences. *ACL2020*.
+Location Attention for Extrapolation to Longer Sequences. *ACL2020*. \\
 \[[<font color="brown">paper</font>](https://www.aclweb.org/anthology/2020.acl-main.39.pdf){:target="blank"}\] 
 
 
