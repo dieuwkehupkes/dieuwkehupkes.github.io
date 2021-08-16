@@ -17,77 +17,81 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 * Verna Dankers, Elia Bruni and Dieuwke Hupkes. The paradox of the compositionality of natural language: a neural machine translation case study
 \[[<font color="brown">preprint</font>](https://arxiv.org/pdf/2108.05885.pdf){:target="blank"}\] 
 
-* T. Kersten, H. Wong, J. Jumelet and D. Hupkes. Attention vs Non-attention for a Shapley-based Explanation Method. *Accepted at the NAACL 2021 workshop DeeLIO*
-\[[<font color="brown">preprint</font>](https://arxiv.org/abs/2104.12424){:target="blank"}\] 
+* Koustuv Sinha, Robin Jia, Dieuwke Hupkes, Joelle Pineau, Adina Williams, Douwe Kiela. Masked language modeling and the distributional hypothesis: Order word matters pre-training for little. 
+\[[<font color="brown">preprint</font>](https://arxiv.org/pdf/2104.06644){:target="blank"}\] 
+
 
 ## 2021
 
-* Y. Lakretz, D. Hupkes, A. Vergallito, M. Marelli, M. Baroni and S. Dehaene. Mechanisms for Handling Nested Dependencies in Neural-Network Language Models and Humans. *Cognition*\\
+* Yair Lakretz, Dieuwke Hupkes, Alessandra Vergallito, Marco Marelli, Marco Baroni and Stanislas Dehaene. Mechanisms for Handling Nested Dependencies in Neural-Network Language Models and Humans. *Cognition*\\
 \[[<font color="brown">paper</font>](https://www.sciencedirect.com/science/article/abs/pii/S0010027721001189){:target="blank"}\] 
 
-
-* L. Weber, J. Jumelet, E. Bruni and D. Hupkes. Language modelling as a multi-task problem. EACL 2021.
+* Lucas Weber, Jaap Jumelet, Elia Bruni and Dieuwke Hupkes. Language modelling as a multi-task problem. EACL 2021.
 \[[<font color="brown">paper</font>](https://www.aclweb.org/anthology/2021.eacl-main.176.pdf){:target="blank"}\] 
 
-* G. Dagan, D. Hupkes and E. Bruni. Co-evolution of language and agents in referential games. *EACL 2021*.
+* Gautier Dagan, Dieuwke Hupkes and Elia Bruni. Co-evolution of language and agents in referential games. *EACL 2021*.
 \[[<font color="brown">paper</font>](https://www.aclweb.org/anthology/2021.eacl-main.260.pdf){:target="blank"}\] 
 
+* Tom Kersten, Hugh Mee Wong, Jumelet Jumelet and Dieuwke Hupkes. Attention vs Non-attention for a Shapley-based Explanation Method. *Accepted at the NAACL 2021 workshop DeeLIO*\\
+\[[<font color="brown">paper</font>](https://aclanthology.org/2021.deelio-1.13.pdf){:target="blank"}\] 
+
 ## 2020
-* R.D. Luna, E.M. Ponti, D. Hupkes, and E. Bruni.
+* Diana Rodriguez Luna, Edoardo Maria Ponti, Dieuwke Hupkes, and Elia Bruni.
 Internal and External Pressures on Language Emergence: Least Effort, Object Constancy and Frequency. Accepted for *EMNLP-findings*. \\
 \[[<font color="brown">paper</font>](https://www.aclweb.org/anthology/2020.findings-emnlp.397.pdf){:target="blank"}\] 
 
-* O. van der Wal, S. de Boer, E. Bruni and D. Hupkes.
+* Oskar van der Wal, Silvan de Boer, Elia Bruni and Dieuwke Hupkes.
 The grammar of emergent languages. Accepted at *EMNLP 2020*.
 \[[<font color="brown">paper</font>](https://www.aclweb.org/anthology/2020.emnlp-main.270.pdf){:target="blank"}\] 
 \[[<font color="brown">source code</font>](https://github.com/i-machine-think/emergent_grammar_induction){:target="_blank"}\]
 
-* D. Hupkes, V. Dankers, M. Mul and E. Bruni.
+* Dieuwke Hupkes, Verna Dankers, Mathijs Mul and Elia Bruni.
 Compositionality decomposed: how do neural networks generalise? *JAIR*.
 \[[<font color="brown">paper</font>](https://www.jair.org/index.php/jair/article/view/11674/26576){:target="blank"}\] 
 \[[<font color="brown">source code</font>](https://github.com/i-machine-think/am-i-compositional){:target="_blank"}\]
 \[[<font color="brown">extended abstract (IJCAI)</font>](https://www.ijcai.org/Proceedings/2020/0708.pdf){:target="_blank"}\] 
 \[[<font color="brown"> 15 min presentation (IJCAI)</font>](https://www.youtube.com/watch?v=r_LegZC8dPU){:target="_blank"}\]
 
-
-* Dubois Y., Dagan G., Hupkes D., and Bruni E.
+* Yann Dubois, Gautier Dagan, Dieuwke Hupkes, and Elia Bruni. 
 Location Attention for Extrapolation to Longer Sequences. *ACL2020*.
 \[[<font color="brown">paper</font>](https://www.aclweb.org/anthology/2020.acl-main.39.pdf){:target="blank"}\] 
 
 
 ## 2019
 
-* Jumelet J., Zuidema W. and Hupkes D. Analysing Neural Language Models: Contextual Decomposition Reveals Default Reasoning in Number and Gender Assignment. *CONLL 2019*. **Honourable mention**. \\
+* Jaap Jumelet, Willem Zuidema and Dieuwke Hupkes. Analysing Neural Language Models: Contextual Decomposition Reveals Default Reasoning in Number and Gender Assignment. *CONLL 2019*. **Honourable mention**. \\
 \[[<font color="brown">paper</font>](https://www.aclweb.org/anthology/K19-1001.pdf){:target="blank"}\] 
 \[[<font color="brown">source code</font>]( https://github.com/i-machine-think/gcd4lm){:target="_blank"}\]
 
-* Baan J., Leible J., Nikolaus M., Rau D., Ulmer D., Baumgärtner T., Hupkes D. and Bruni E. 
+* Joris Baan, Jana Leible, Mitja Nikolaus, David Rau, Dennis Ulmer, Tim Baumgärtner, Dieuwke Hupkes and Elia Bruni. 
 On the Realization of Compositionality in Neural Networks. 
 *BlackboxNLP, ACL 2019*. \\
 \[[<font color="brown">paper</font>](https://www.aclweb.org/anthology/W19-4814){:target="blank"}\] 
 
-* Ulmer D., Hupkes, D. and Bruni, E. 
+* Dennis Ulmer, Dieuwke Hupkes and Elia Bruni
 Assessing incrementality in sequence-to-sequence models. 
 *Repl4NLP, ACL 2019*. \\
 \[[<font color="brown">paper</font>](https://www.aclweb.org/anthology/W19-4324){:target="blank"}\] 
 
-* Korrel K., Hupkes D., Dankers V., and Bruni E.
+* Kris Korrel, Dieuwke Hupkes, Verna Dankers and Elia Bruni.
 Transcoding compositionally: using attention to find more generalizable solutions.
 *BlackboxNLP, ACL 2019*.\\
 \[[<font color="brown">paper</font>](https://www.aclweb.org/anthology/W19-4801){:target="blank"}\] 
 
-* Lakretz Y., Kruszewski G., Desbordes T., Hupkes D., Dehaene S. and Baroni M. 
+* Yair Lakretz, German Kruszewski, Theo Desbordes, Dieuwke Hupkes, Stanislas Dehaene and Marco Baroni.
 The emergence of number and syntax units in LSTM language models.
 *NAACL 2019*.\\
 \[[<font color="brown">paper</font>](https://www.aclweb.org/anthology/N19-1002){:target="blank"}\] 
 \[[<font color="brown">bibtex</font>](../bibfiles/lakretz2019emergence)\].
 
-* Hupkes D., Singh A.K., Korrel K., Kruszewski G. and, Bruni E. Learning compositionally through attentive guidance. 
+* Dieuwke Hupkes, Anand Kumar Singh, Kris Korrel, German Kruszewski, and Elia Bruni
+Learning compositionally through attentive guidance. 
 *CICLing 2019*.\\
 \[[<font color="brown">paper</font>](https://arxiv.org/pdf/1805.09657.pdf){:target="blank"}\] 
 \[[<font color="brown">source code</font>](https://github.com/i-machine-think/attentive_guidance){:target="_blank"}\]
 
-* Leonandya R., Bruni E., Hupkes D. and Kruszewski G. The Fast and the Flexible: training neural networks to learn to follow instructions from small data. 
+* Rezka Leonandya, Dieuwke Hupkes, Elia Bruni, Germán Kruszewski.
+The Fast and the Flexible: training neural networks to learn to follow instructions from small data. 
 *IWCS 2019*. \\
 \[[<font color="brown">paper</font>](https://www.aclweb.org/anthology/W19-0419/){:target="_blank"}\]
 
