@@ -12,11 +12,13 @@ image:
 
 ## Upcoming
 
-* *August 9, 2021*, TBA, *Keynote speaker at the workshop* [*Computational and experimental explanations in semantics and pragmatics*](https://www.jakubszymanik.com/CoSaQ/events/explanations-semantics), Utrecht.
-
 * TBA, *Keynote speaker at EurNLP*, Paris.
 
 ### 2021
+
+* *August 9*, Compositionality in the era of neural networks. Keynote at the workshop [*Computational and experimental explanations in semantics and pragmatics*](https://www.jakubszymanik.com/CoSaQ/events/explanations-semantics).\\
+[[<font color='blue'>slides</font>](ComputationalPragmatics09-08-2021)]
+
 
 * *April 28*, Compositionality Decomposed: how do neural networks generalise? Tel Aviv University (virtual talk).
 
