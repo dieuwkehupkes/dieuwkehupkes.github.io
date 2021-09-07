@@ -23,6 +23,9 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 
 ## 2021
 
+* Jaap Jumelet, Milica Denić, Jakub Szymanik, Dieuwke Hupkes, Shane Steinert-Threlkeld. Language models use monotonicity to assess NPI Licensing. *ACL findings*\\
+\[[<font color="brown">paper</font>](https://aclanthology.org/2021.findings-acl.439.pdf){:target="blank"}\] 
+
 * Yair Lakretz, Dieuwke Hupkes, Alessandra Vergallito, Marco Marelli, Marco Baroni and Stanislas Dehaene. Mechanisms for Handling Nested Dependencies in Neural-Network Language Models and Humans. *Cognition*.\\
 \[[<font color="brown">paper</font>](https://www.sciencedirect.com/science/article/abs/pii/S0010027721001189){:target="blank"}\] 
 
