@@ -17,7 +17,9 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 * Verna Dankers, Elia Bruni and Dieuwke Hupkes. The paradox of the compositionality of natural language: a neural machine translation case study. \\
 \[[<font color="brown">preprint</font>](https://arxiv.org/pdf/2108.05885.pdf){:target="blank"}\] 
 
-* Koustuv Sinha, Robin Jia, Dieuwke Hupkes, Joelle Pineau, Adina Williams, Douwe Kiela. Masked language modeling and the distributional hypothesis: Order word matters pre-training for little. \\
+* Verna Dankers, Anna Langedijk, Kate McCurdy, Adina Williams, Dieuwke Hupkes. Generalising to German plural noun classes, from the perspective of a recurrent neural network. Accepted at *CoNLL 2021*.\\
+
+* Koustuv Sinha, Robin Jia, Dieuwke Hupkes, Joelle Pineau, Adina Williams, Douwe Kiela. Masked language modeling and the distributional hypothesis: Order word matters pre-training for little. Accepted at *EMNLP 2021*. \\
 \[[<font color="brown">preprint</font>](https://arxiv.org/pdf/2104.06644){:target="blank"}\] 
 
 
