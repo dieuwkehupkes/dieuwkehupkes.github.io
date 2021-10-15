@@ -22,8 +22,12 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 * Koustuv Sinha, Robin Jia, Dieuwke Hupkes, Joelle Pineau, Adina Williams, Douwe Kiela. Masked language modeling and the distributional hypothesis: Order word matters pre-training for little. Accepted at *EMNLP 2021*. \\
 \[[<font color="brown">preprint</font>](https://arxiv.org/pdf/2104.06644){:target="blank"}\] 
 
-* Eugene Kharitonov, Marco Baroni, Dieuwke Hupkes. How BPE Affects Memorization in Transformers. *Submitted*
+* Eugene Kharitonov, Marco Baroni, Dieuwke Hupkes. How BPE Affects Memorization in Transformers. *Submitted*\\
 \[[<font color="brown">preprint</font>](https://arxiv.org/abs/2110.02782){:target="blank"}\] 
+
+* Yair Lakretz, Theo Desbordes, Dieuwke Hupkes, Stanislas Dehaene. Causal transformers perform below chance on recursive nested constructions, unlike humans. \\
+\[[<font color="brown">preprint</font>](https://arxiv.org/abs/2110.07240){:target="blank"}\] 
+
 
 
 ## 2021
