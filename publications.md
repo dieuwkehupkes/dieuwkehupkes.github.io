@@ -17,9 +17,6 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 * Verna Dankers, Elia Bruni and Dieuwke Hupkes. The paradox of the compositionality of natural language: a neural machine translation case study. \\
 \[[<font color="brown">preprint</font>](https://arxiv.org/pdf/2108.05885.pdf){:target="blank"}\] 
 
-* Verna Dankers, Anna Langedijk, Kate McCurdy, Adina Williams, Dieuwke Hupkes. Generalising to German plural noun classes, from the perspective of a recurrent neural network. Accepted at *CoNLL 2021*.\\
-\[[<font color="brown">preprint</font>](https://aclanthology.org/2021.conll-1.8/){:target="blank"}\] 
-
 * Koustuv Sinha, Robin Jia, Dieuwke Hupkes, Joelle Pineau, Adina Williams, Douwe Kiela. Masked language modeling and the distributional hypothesis: Order word matters pre-training for little. Accepted at *EMNLP 2021*. \\
 \[[<font color="brown">preprint</font>](https://arxiv.org/pdf/2104.06644){:target="blank"}\] 
 
@@ -32,6 +29,9 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 
 
 ## 2021
+
+* Verna Dankers, Anna Langedijk, Kate McCurdy, Adina Williams, Dieuwke Hupkes. Generalising to German plural noun classes, from the perspective of a recurrent neural network. *CoNLL 2021*, **Best paper award**.\\
+\[[<font color="brown">paper</font>](https://aclanthology.org/2021.conll-1.8/){:target="blank"}\] 
 
 * Jaap Jumelet, Milica Denić, Jakub Szymanik, Dieuwke Hupkes, Shane Steinert-Threlkeld. Language models use monotonicity to assess NPI Licensing. *ACL findings*\\
 \[[<font color="brown">paper</font>](https://aclanthology.org/2021.findings-acl.439.pdf){:target="blank"}\] 
