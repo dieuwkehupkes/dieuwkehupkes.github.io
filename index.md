@@ -31,6 +31,10 @@ Have a look at our <a href="https://www.instagram.com/duo_polenotti/" target="_b
 
 ## News
 
+- November 18, 2021 -- Today I was interviewed by Sean Welleck for his podcast <a href="https://cs.nyu.edu/~welleck/podcast.html">The Thesis Review</a>. Can't wait for it to come out!
+
+- November 11, 2021 -- Our article <a href="https://aclanthology.org/2021.conll-1.8/">Generalising to German Plural Noun Classes, from the Perspective of a Recurrent Neural Network</a>! Very honoured and proud.
+
 - December 7, 2020 -- Today I started as a research scientist at FAIR Paris! Looking forward to this new adventure :).
 
 - August 29, 2020 -- Jelle Zuidema and I were interviewed by Trouw, the resulting two page (!) [article](Trouw-29-08-2020-article.pdf) appeared today!
