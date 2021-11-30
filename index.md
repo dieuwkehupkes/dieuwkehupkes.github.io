@@ -31,6 +31,8 @@ Have a look at our <a href="https://www.instagram.com/duo_polenotti/" target="_b
 
 ## News
 
+- November 30, 2021 -- Podcast is out! Check it <a href="https://cs.nyu.edu/~welleck/episode36.html">here</a>, or listen on <a href="https://t.co/P5RxtByDZn?amp=1">apple podcasts</a>, <a href="https://t.co/PWSL07YXs8?amp=1">spotify</a> or <a href="https://soundcloud.com/thesis-review/36-dieuwke-hupkes-hierarchy-and-interpretability-in-neural-models-of-language-processing?utm_source=clipboard&utm_campaign=wtshare&utm_medium=widget&utm_content=https%253A%252F%252Fsoundcloud.com%252Fthesis-review%252F36-dieuwke-hupkes-hierarchy-and-interpretability-in-neural-models-of-language-processing">soundcloud</a>. 
+
 - November 18, 2021 -- Today I was interviewed by Sean Welleck for his podcast <a href="https://cs.nyu.edu/~welleck/podcast.html">The Thesis Review</a>. Can't wait for it to come out!
 
 - November 11, 2021 -- Our article <a href="https://aclanthology.org/2021.conll-1.8/">Generalising to German Plural Noun Classes, from the Perspective of a Recurrent Neural Network</a>! Very honoured and proud.
