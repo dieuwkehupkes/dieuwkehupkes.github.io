@@ -11,7 +11,7 @@ image:
 
 My name is Dieuwke Hupkes.
 The first question that many people ask me when they meet me is _How do I pronounce your name?_ So, here goes. My (first) name comes from a small province in the north of the Netherlands, called Frisia, where they speak Frisian.
-For those that can read it: the phonetic transcription of my name is *djukǝ*.
+For those that can read it: the phonetic transcription of my name is *dju'kǝ*.
 The first part is pronounced more or less exactly as the English word "duke" in British English (d-you-k), the second syllable sounds like "uh". 
 The stress is on the first syllable, so altogether: DUKE-uh .
 Still difficult? [Listen how I pronounce it myself](https://dieuwkehupkes.nl/audio/DieuwkeHupkes.mp3).<br><br>
