@@ -68,7 +68,7 @@ Compositionality decomposed: how do neural networks generalise? *JAIR*. \\
 
 * Yann Dubois, Gautier Dagan, Dieuwke Hupkes, and Elia Bruni. 
 Location Attention for Extrapolation to Longer Sequences. *ACL2020*. \\
-\[[<font color="brown">paper</font>](https://www.aclweb.org/anthology/2020.acl-main.39.pdf){:target="blank"}\] 
+\[[<font color="brown">paper</font>](https://aclanthology.org/2020.acl-main.39/){:target="blank"}\] 
 
 
 ## 2019
