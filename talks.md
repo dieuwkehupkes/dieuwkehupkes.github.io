@@ -14,6 +14,9 @@ image:
 
 * TBA, *Keynote speaker at EurNLP*, Paris.
 
+* *December 16*, On locality, globality, consistency and compositionality in neural machine translation. [CSD seminar, ENS](https://csd.ens.psl.eu/?-seminaire-)
+
+
 ### 2021
 
 * *August 9*, Compositionality in the era of neural networks. Keynote at the workshop [*Computational and experimental explanations in semantics and pragmatics*](https://www.jakubszymanik.com/CoSaQ/events/explanations-semantics).\\
