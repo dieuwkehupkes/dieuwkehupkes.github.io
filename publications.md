@@ -17,11 +17,17 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 * Verna Dankers, Elia Bruni and Dieuwke Hupkes. The paradox of the compositionality of natural language: a neural machine translation case study. \\
 \[[<font color="brown">preprint</font>](https://arxiv.org/pdf/2108.05885.pdf){:target="blank"}\] 
 
-* Eugene Kharitonov, Marco Baroni, Dieuwke Hupkes. How BPE Affects Memorization in Transformers. *Submitted*\\
+* Eugene Kharitonov, Marco Baroni, Dieuwke Hupkes. How BPE Affects Memorization in Transformers.\\
 \[[<font color="brown">preprint</font>](https://arxiv.org/abs/2110.02782){:target="blank"}\] 
 
 * Yair Lakretz, Theo Desbordes, Dieuwke Hupkes, Stanislas Dehaene. Causal transformers perform below chance on recursive nested constructions, unlike humans. \\
 \[[<font color="brown">preprint</font>](https://arxiv.org/abs/2110.07240){:target="blank"}\] 
+
+* Maartje ter Hoeve, Evgeny Kharitonov, Dieuwke Hupkes, Emmanuel Dupoux. Towards Interactive Language Modeling. \\
+\[[<font color="brown">preprint</font>](https://arxiv.org/pdf/2112.11911){:target="blank"}\] 
+ 
+* Nicola De Cao, Leon Schmid, Dieuwke Hupkes, Ivan Titov. Sparse Interventions in Language Models with Differentiable Masking. \\
+\[[<font color="brown">preprint</font>](https://arxiv.org/pdf/2112.06837){:target="blank"}\] 
 
 
 
