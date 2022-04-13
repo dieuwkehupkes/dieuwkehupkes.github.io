@@ -12,10 +12,8 @@ image:
 
 ## Upcoming
 
-* TBA, *Keynote speaker at EurNLP*, Paris.
-
-* *December 16*, On locality, globality, consistency and compositionality in neural machine translation. [CSD seminar, ENS](https://csd.ens.psl.eu/?-seminaire-)
-
+* *April 14*, [Stanford NLP Seminar](https://nlp.stanford.edu/seminar/)
+* *May 19*, [*Workshop on reasoning and neural models*](https://www.jakubszymanik.com/CoSaQ/events/workshop-on-reasoning-neural-models/)
 
 ### 2021
 
