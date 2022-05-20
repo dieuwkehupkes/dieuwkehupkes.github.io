@@ -12,8 +12,17 @@ image:
 
 ## Upcoming
 
-* *April 14*, [Stanford NLP Seminar](https://nlp.stanford.edu/seminar/)
-* *May 19*, [*Workshop on reasoning and neural models*](https://www.jakubszymanik.com/CoSaQ/events/workshop-on-reasoning-neural-models/)
+* *May 31*, On generalisation in neural networks, [Deep Mind reading group] 
+
+* *June 15*, Evaluating generalisation in natural language processing models, [*OCSC EUrope*](https://odsc.com/speakers/evaluating-generalisation-in-natural-language-processing-models/)
+
+* *June 29-30*, [The challence of compositionality for AI](https://compositionalintelligence.github.io/)
+
+### 2022
+
+* *May 19*, Are neural networks compositional, and how do we even measure that? [*Workshop on reasoning and neural models*](https://www.jakubszymanik.com/CoSaQ/events/workshop-on-reasoning-neural-models/)
+
+* *April 14*, Evaluating generalisation in neural networks for NLP, [Stanford NLP Seminar](https://nlp.stanford.edu/seminar/)
 
 ### 2021
 
