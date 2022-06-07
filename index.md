@@ -31,7 +31,7 @@ I am still very glad that I got the chance to have a job that allows me to try t
 In my free time, I spend a lot of time training for pole dancing competitions. 
 In 2018, my duo-partner Suzy and I won the national championships!
 Curious what it looks like?
-Have a look at our <a href="https://www.instagram.com/duo_polenotti/" target="_blank">Instagram</a>, or check our <a href="https://www.youtube.com/watch?v=ylr0YnVzjOg&t=158s" target="_blank">performance at the World's</a> in 2018!
+Have a look at our <a href="https://www.instagram.com/duo_polenotti/" target="_blank">Instagram</a>, or check our performances at the World Championships in <a href="https://www.youtube.com/watch?v=-yt1ufbCNYY" target="_blank">2017</a> or <a href="https://www.youtube.com/watch?v=ylr0YnVzjOg&t=158s" target="_blank">2018</a>!
 
 ## News
 
