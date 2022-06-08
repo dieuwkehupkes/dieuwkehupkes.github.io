@@ -12,11 +12,11 @@ image:
 
 ## Upcoming
 
-* *May 31*, On generalisation in neural networks, [Deep Mind reading group] 
+* *June 15*, Evaluating generalisation in natural language processing models, <a href="https://odsc.com/speakers/evaluating-generalisation-in-natural-language-processing-models/" target="_blank">*ODSC Europe*</a>
 
-* *June 15*, Evaluating generalisation in natural language processing models, [*OCSC EUrope*](https://odsc.com/speakers/evaluating-generalisation-in-natural-language-processing-models/)
+* *June 29-30*, <a href="https://compositionalintelligence.github.io/" target="_blank">The challence of compositionality for AI</a>
 
-* *June 29-30*, [The challence of compositionality for AI](https://compositionalintelligence.github.io/)
+* *TBD*, On generalisation in neural networks, *Deep Mind*
 
 ### 2022
 
