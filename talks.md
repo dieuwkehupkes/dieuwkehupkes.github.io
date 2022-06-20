@@ -12,13 +12,13 @@ image:
 
 ## Upcoming
 
-* *June 15*, Evaluating generalisation in natural language processing models, <a href="https://odsc.com/speakers/evaluating-generalisation-in-natural-language-processing-models/" target="_blank">*ODSC Europe*</a>
-
 * *June 29-30*, <a href="https://compositionalintelligence.github.io/" target="_blank">The challence of compositionality for AI</a>
 
 * *TBD*, On generalisation in neural networks, *Deep Mind*
 
 ### 2022
+
+* *June 15*, Evaluating generalisation in natural language processing models, <a href="https://odsc.com/speakers/evaluating-generalisation-in-natural-language-processing-models/" target="_blank">*ODSC Europe*</a>
 
 * *May 19*, Are neural networks compositional, and how do we even measure that? [*Workshop on reasoning and neural models*](https://www.jakubszymanik.com/CoSaQ/events/workshop-on-reasoning-neural-models/)
 
