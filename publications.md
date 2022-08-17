@@ -18,8 +18,8 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 * Eugene Kharitonov, Marco Baroni, Dieuwke Hupkes. How BPE Affects Memorization in Transformers.\\
 \[[<font color="brown">preprint</font>](https://arxiv.org/abs/2110.02782){:target="blank"}\] 
 
-* Yair Lakretz, Theo Desbordes, Dieuwke Hupkes, Stanislas Dehaene. Causal transformers perform below chance on recursive nested constructions, unlike humans. \\
-\[[<font color="brown">preprint</font>](https://arxiv.org/abs/2110.07240){:target="blank"}\] 
+* Yair Lakretz, Theo Desbordes, Dieuwke Hupkes, Stanislas Dehaene. Causal transformers perform below chance on recursive nested constructions, unlike humans, * Accepted at COLING* \\
+\[[<font color="brown">preprint</font>](https://arxiv.org/abs/2110.07240){:target="blank"}\].
 
 * Maartje ter Hoeve, Evgeny Kharitonov, Dieuwke Hupkes, Emmanuel Dupoux. Towards Interactive Language Modeling. \\
 \[[<font color="brown">preprint</font>](https://arxiv.org/pdf/2112.11911){:target="blank"}\] 
