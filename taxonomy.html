@@ -1,0 +1,324 @@
+---
+layout: page
+title: Taxonomy
+excerpt: "Taxonomy"
+tags: [Jekyll, theme, responsive, blog, template]
+comments: true
+image:
+  feature: rooftop_view.jpg
+---
+<!-- This is to prevent Jekyll from removing curly braces in our templates -->
+{% raw %}
+
+<!-- Some styles for the filter app, with some workarounds to play nicely with your theme. -->
+<style>
+  .label {
+      font-weight: bold;
+  }
+
+  th {
+      text-align: left;
+      padding:0.5em 0.75em;
+  }
+  td {
+      padding:0.5em 0.75em;
+  }
+
+  table {
+      border-collapse: collapse;
+  }
+
+  table td {
+      border: 1px solid #dbdbdb;
+      border-width: 0 0 1px;
+  }
+
+  .table-section {
+      margin-top: 2rem;
+  }
+
+  .field .checkbox {
+      cursor: pointer;
+      display: inline-block;
+      position:relative;
+      line-height: 1.25;
+      padding-left: 0;
+  }
+
+  .field input[type=checkbox] {
+      vertical-align: baseline;
+
+      /* Reset from the theme stylesheet */
+      float: none;
+      margin-left: 0;
+  }
+
+  .field {
+      display: flex;
+      margin-bottom:0.75rem;
+  }
+
+  .control:not(:last-child) {
+      margin-right:0.75rem;
+  }
+
+  .field input {
+      margin: 0;
+  }
+</style>
+
+<!-- Include petite-vue from a CDN -->
+<script src="https://unpkg.com/petite-vue@0.2.2/dist/petite-vue.iife.js"></script>
+
+<!-- Filter app code -->
+<script type="module">
+  // Path to the taxonomy file. Must be on the same domain as this page,
+  // otherwise it can't be loaded over XHR for security reasons (unless
+  // you configure CORS, which I'm not gonna get into).
+  const taxonomyPath = "/taxonomy.tsv";
+
+  // Define names and possible values for all annotations to filter by
+  // below, and add them to `filterBy`. Each entry should have a "name",
+  // which is what is displayed, and a "key", which is the actual
+  // annotation value.
+  const allMotivations = [
+    { name: "Practical", key: "practical" },
+    { name: "Cognitive", key: "cognitive" },
+    { name: "Intrinsic", key: "intrinsic" },
+    { name: "Fairness", key: "fairness" }
+  ];
+
+  // Defines names
+  const allTypes = [
+    { name: "Compositional", key: "compositional" },
+    { name: "Structural", key: "structural" },
+    { name: "Robustness", key: "robustness" },
+    { name: "Across domain", key: "across domain" },
+    { name: "Across task", key: "across task" },
+    { name: "Across language", key: "across language" }
+  ];
+
+  // A list of all fields to filter by, referring to the
+  // options we just created.
+  const filterBy = [
+    { field: "motivation", name: "Motivation", values: allMotivations },
+    { field: "type", name: "Type", values: allTypes }
+  ];
+
+  // If set to true, filters without any checkmarks are treated as if
+  // everything was selected.
+  const ignoreFiltersWithoutChecks = false;
+
+  // Leave this alone
+  const allFilters = filterBy.map((f) => f.field);
+
+  // Fetches the taxonomy TSV using XHR, with good browser compatibility.
+  // Copied almost verbatim from:
+  // https://stackoverflow.com/questions/40201137/i-need-to-read-a-text-file-from-a-javascript
+  function getTaxonomy(callback) {
+    const xhr = new XMLHttpRequest();
+    xhr.onreadystatechange = function() {
+      if (xhr.readyState === 4) {
+        // The request is done; did it work?
+        if (xhr.status === 200) {
+          // ***Yes, use `xhr.responseText` here***
+          callback(xhr.responseText);
+        } else {
+          // ***No, tell the callback the call failed***
+          callback(null);
+        }
+      }
+    };
+    xhr.open("GET", taxonomyPath);
+    xhr.send();
+  }
+
+  // Decodes the page's query string
+  // https://stackoverflow.com/a/2880929/358873
+  function decodeQueryString() {
+    let match,
+      pl     = /\+/g,  // Regex for replacing addition symbol with a space
+      search = /([^&=]+)=?([^&]*)/g,
+      decode = function (s) { return decodeURIComponent(s.replace(pl, " ")); },
+      query  = window.location.search.substring(1);
+
+    const urlParams = {};
+    while (match = search.exec(query))
+      urlParams[decode(match[1])] = decode(match[2]);
+
+    return urlParams;
+  }
+
+  // Another helper
+  // https://stackoverflow.com/questions/1714786/query-string-encoding-of-a-javascript-object
+  function serializeQuery(obj) {
+    const str = [];
+    for (const p in obj)
+      if (obj.hasOwnProperty(p)) {
+        str.push(encodeURIComponent(p) + "=" + encodeURIComponent(obj[p]));
+      }
+    return str.join("&");
+  }
+
+  // Parses the TSV file into a list of key => value objects
+  // We could do all sorts of fancy stuff here, like building some indices
+  // for the filtered fields, but honestly the list of items is small
+  // enough that this won't make a noticeable difference in performance.
+  function parseData(fileData) {
+    if (!fileData) {
+      // Show error
+      return;
+    }
+
+    const objects = [];
+    const lines = fileData.split("\n");
+    const header = lines[0].trim().split("\t");
+
+    for (let i = 1; i < lines.length; i++) {
+      const obj = {};
+      const fields = lines[i].trim().split("\t");
+
+      for (let j = 0; j < fields.length, j < header.length; j++) {
+        const field = header[j];
+        obj[field] = fields[j];
+      }
+
+      objects.push(obj);
+    }
+
+    initializeApp(objects);
+  }
+
+  // Initializes the data table
+  function initializeApp(objects) {
+    document.getElementById("loading").style.display = "none";
+    document.getElementById("table-container").style.display = "block";
+
+    // Create a list of objects with
+    const query = decodeQueryString();
+    const getCurrentQuery = (field) => {
+      if (!query[field]) {
+        return [];
+      }
+
+      return Array.from(new Set(query[field].split(',')));
+    }
+
+    const baseFilters = {};
+    for (const filter of filterBy) {
+      baseFilters[filter.field] = getCurrentQuery(filter.field);
+    }
+
+    // This creates the little filtering app
+    PetiteVue.createApp({
+      allObjects: objects,
+      filters: baseFilters,
+      filterBy,
+      updateQuery(_) {
+        for (const field of allFilters) {
+          query[field] = this.filters[field].join(",");
+
+          if (!query[field]) {
+            delete query[field];
+          }
+        }
+
+        const queryString = serializeQuery(query);
+        const newUri = window.location.pathname + (queryString ? '?' + queryString : '');
+        history.pushState(null, '', newUri);
+      },
+      get filtered() {
+        const current = this.filters;
+
+        const active = ignoreFiltersWithoutChecks ?
+          allFilters.filter((field) => !!current[field].length) :
+          allFilters;
+
+        // Returns whether an item matches the active filters
+        const matches = (obj) => {
+          // Find the first field that obj doesn't have or where the value
+          // of the object isn't in the list.
+          return !active.find((f) => !obj[f] || !current[f].includes(obj[f]));
+        };
+
+        // Final results
+        const results = [];
+
+        // Store added IDs in a set
+        const added = new Set();
+
+        // Iterate objects to find ones that haven't been added yet
+        // which match the filters.
+        for (const obj of objects) {
+          if (added.has(obj.tag) || !matches(obj)) {
+            continue;
+          }
+
+          added.add(obj.tag);
+          results.push(obj);
+        }
+
+        // Sorts by year, descending. Might not be what you want, easy
+        // enough to change.
+        return results.sort((a, b) => a.year > b.year ? -1 : (a.year === b.year ? 0 : 1));
+      }
+    }).mount("#table-container");
+  }
+
+  // Fetch the taxonomy file
+  getTaxonomy(parseData);
+</script>
+
+<!-- Filter app layout -->
+<!-- This first element will show while the TSV is being loaded.
+     Too lazy to make it prettier, it shouldn't take long. -->
+<section class="container" id="loading">
+  <section class="section">
+    Loading data...
+  </section>
+</section>
+<!-- This element contains the actual filter app. Hidden by default, until the taxonomy is loaded.  -->
+<div v-scope id="table-container" class="container" style="display: none;">
+  <div class="section">
+    <!-- List of all filters -->
+    <div class="field is-grouped" v-for="filterDef in filterBy" :key="filterDef.field" v-effect="updateQuery(filters[filterDef.field])">
+      <div class="control">
+        <label class="label">{{filterDef.name}}:</label>
+      </div>
+      <div class="control" v-for="v in filterDef.values" :key="v.key">
+        <label class="checkbox">
+          {{v.name}}
+          <input type="checkbox" class="checkbox"
+                 :value="v.key"
+                 v-model="filters[filterDef.field]"
+          >
+        </label>
+      </div>
+    </div>
+
+    <div class="table-section" style="overflow:hidden;">
+      <table v-if="filtered.length" class="table">
+        <thead>
+        <tr>
+          <th>Year</th>
+          <th>Title</th>
+          <th>Website</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr v-for="(obj,i) in filtered" :key="i">
+          <td>{{obj.year}}</td>
+          <td>{{obj.Title}}</td>
+          <td>
+            <a :href="obj.Website" v-if="!!obj.Website">Link</a>
+            <template v-else>-</template>
+          </td>
+        </tr>
+        </tbody>
+      </table>
+      <p v-else>No matches found.</p>
+    </div>
+  </div>
+</div>
+
+{% endraw %}
