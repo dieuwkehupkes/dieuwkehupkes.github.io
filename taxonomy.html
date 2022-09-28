@@ -215,6 +215,8 @@ image:
       filters: baseFilters,
       filterBy,
       updateQuery(_) {
+        const oldUri = window.location.pathname + window.location.search;
+
         for (const field of allFilters) {
           query[field] = this.filters[field].join(",");
 
@@ -225,7 +227,10 @@ image:
 
         const queryString = serializeQuery(query);
         const newUri = window.location.pathname + (queryString ? '?' + queryString : '');
-        history.pushState(null, '', newUri);
+
+        if (oldUri !== newUri) {
+          history.pushState(null, '', newUri);
+        }
       },
       get filtered() {
         const current = this.filters;
@@ -261,7 +266,23 @@ image:
         // Sorts by year, descending. Might not be what you want, easy
         // enough to change.
         return results.sort((a, b) => a.year > b.year ? -1 : (a.year === b.year ? 0 : 1));
-      }
+      },
+
+      // Syncs the checkboxes / search state when the user presses the back button
+      setupPopState() {
+        window.onpopstate = () => {
+          // When the state is popped, update all filters in one
+          // go to prevent weird query string interactions.
+          const newQuery = decodeQueryString();
+          const updatedFilters = {};
+          for (const k in this.filters) {
+            updatedFilters[k] = k in newQuery ? newQuery[k].split(',') : [];
+          }
+
+          // Update all filters in one go
+          this.filters = updatedFilters;
+        };
+      },
     }).mount("#table-container");
   }
 
@@ -278,7 +299,7 @@ image:
   </section>
 </section>
 <!-- This element contains the actual filter app. Hidden by default, until the taxonomy is loaded.  -->
-<div v-scope id="table-container" class="container" style="display: none;">
+<div v-scope id="table-container" class="container" style="display: none;" @mounted="setupPopState">
   <div class="section">
     <!-- List of all filters -->
     <div class="field is-grouped" v-for="filterDef in filterBy" :key="filterDef.field" v-effect="updateQuery(filters[filterDef.field])">
