@@ -14,6 +14,11 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 
 ## In prep
 
+* Dieuwke Hupkes, Mario Giulianelli, Verna Dankers, Mikel Artetxe et al. State-of-the-art generalisation research in NLP: a taxonomy and review. \\
+\[[<font color="brown">preprint</font>](https://arxiv.org/abs/2210.03050){:target="blank"}\] 
+
+* Koustuv Sinha, Amirhossein Kazemnejad, Siva Reddy, Joelle Pineau, Dieuwke Hupkes and Adina Williams. The curious case of absolute position embeddings.
+*Accepted at EMNLP2022*
 
 * Eugene Kharitonov, Marco Baroni, Dieuwke Hupkes. How BPE Affects Memorization in Transformers.\\
 \[[<font color="brown">preprint</font>](https://arxiv.org/abs/2110.02782){:target="blank"}\] 
