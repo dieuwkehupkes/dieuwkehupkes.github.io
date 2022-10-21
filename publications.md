@@ -17,22 +17,26 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 * Dieuwke Hupkes, Mario Giulianelli, Verna Dankers, Mikel Artetxe et al. State-of-the-art generalisation research in NLP: a taxonomy and review. \\
 \[[<font color="brown">preprint</font>](https://arxiv.org/abs/2210.03050){:target="blank"}\] 
 
-* Koustuv Sinha, Amirhossein Kazemnejad, Siva Reddy, Joelle Pineau, Dieuwke Hupkes and Adina Williams. The curious case of absolute position embeddings.
-*Accepted at EMNLP2022*
-
 * Eugene Kharitonov, Marco Baroni, Dieuwke Hupkes. How BPE Affects Memorization in Transformers.\\
 \[[<font color="brown">preprint</font>](https://arxiv.org/abs/2110.02782){:target="blank"}\] 
-
-* Yair Lakretz, Theo Desbordes, Dieuwke Hupkes, Stanislas Dehaene. Causal transformers perform below chance on recursive nested constructions, unlike humans, * Accepted at COLING* \\
-\[[<font color="brown">preprint</font>](https://arxiv.org/abs/2110.07240){:target="blank"}\].
 
 * Maartje ter Hoeve, Evgeny Kharitonov, Dieuwke Hupkes, Emmanuel Dupoux. Towards Interactive Language Modeling. \\
 \[[<font color="brown">preprint</font>](https://arxiv.org/pdf/2112.11911){:target="blank"}\] 
  
-* Nicola De Cao, Leon Schmid, Dieuwke Hupkes, Ivan Titov. Sparse Interventions in Language Models with Differentiable Masking. \\
-\[[<font color="brown">preprint</font>](https://arxiv.org/pdf/2112.06837){:target="blank"}\] 
 
 ## 2022
+
+*Daniel Simig, Tianlu Wang, Verna Dankers, Peter Henderson, Khuyagbaatar Batsuren, Dieuwke Hupkes, Mona Diab. Text Characterization Toolkit (TCT). *Accepted at AACL -- system demonstrations track.
+
+* Nicola De Cao, Leon Schmid, Dieuwke Hupkes, Ivan Titov. Sparse Interventions in Language Models with Differentiable Masking. *Accepted at BlackBoxNLP* \\
+\[[<font color="brown">preprint</font>](https://arxiv.org/pdf/2112.06837){:target="blank"}\] 
+
+* Koustuv Sinha, Amirhossein Kazemnejad, Siva Reddy, Joelle Pineau, Dieuwke Hupkes and Adina Williams. The curious case of absolute position embeddings.
+*Accepted at EMNLP2022*
+
+* Yair Lakretz, Theo Desbordes, Dieuwke Hupkes, Stanislas Dehaene. Causal transformers perform below chance on recursive nested constructions, unlike humans, *Accepted at COLING* \\
+\[[<font color="brown">preprint</font>](https://arxiv.org/abs/2110.07240){:target="blank"}\].
+
 * Verna Dankers, Elia Bruni and Dieuwke Hupkes. The paradox of the compositionality of natural language: a neural machine translation case study, *ACL*.\\
 \[[<font color="brown">preprint</font>](https://aclanthology.org/2022.acl-long.286/){:target="blank"}\] 
 
