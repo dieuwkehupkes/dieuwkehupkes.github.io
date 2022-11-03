@@ -12,11 +12,15 @@ image:
 
 ## Upcoming
 
-* *June 29-30*, <a href="https://compositionalintelligence.github.io/" target="_blank">The challence of compositionality for AI</a>
-
-* *TBD*, On generalisation in neural networks, *Deep Mind*
+* *November 25*. GenBench: State-of-the-art generalisation research in NLP. [*Cambridge NLP Seminar series*](https://talks.cam.ac.uk/show/index/6401)
 
 ### 2022
+
+* *November 3* State-of-the-art generalisation research in NLP. <a href="https://www.meetup.com/it-IT/deep-learning-ai/events/289147565/">Deep Learning & AI Talks @ Qualcomm</a>
+
+* *October 20*, State-of-the-art generalisation research in NLP. *Deep Mind reading group*
+
+* *June 29-30*, <a href="https://compositionalintelligence.github.io/" target="_blank">The challence of compositionality for AI</a>
 
 * *June 15*, Evaluating generalisation in natural language processing models, <a href="https://odsc.com/speakers/evaluating-generalisation-in-natural-language-processing-models/" target="_blank">*ODSC Europe*</a>
 
