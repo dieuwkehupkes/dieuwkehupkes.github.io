@@ -26,7 +26,7 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 
 ## 2022
 
-*Daniel Simig, Tianlu Wang, Verna Dankers, Peter Henderson, Khuyagbaatar Batsuren, Dieuwke Hupkes, Mona Diab. Text Characterization Toolkit (TCT). *Accepted at AACL -- system demonstrations track.
+* Daniel Simig, Tianlu Wang, Verna Dankers, Peter Henderson, Khuyagbaatar Batsuren, Dieuwke Hupkes, Mona Diab. Text Characterization Toolkit (TCT). *Accepted at AACL -- system demonstrations track.
 
 * Nicola De Cao, Leon Schmid, Dieuwke Hupkes, Ivan Titov. Sparse Interventions in Language Models with Differentiable Masking. *Accepted at BlackBoxNLP* \\
 \[[<font color="brown">preprint</font>](https://arxiv.org/pdf/2112.06837){:target="blank"}\] 
