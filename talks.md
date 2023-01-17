@@ -12,7 +12,12 @@ image:
 
 ## Upcoming
 
-* *November 25*. GenBench: State-of-the-art generalisation research in NLP. [*Cambridge NLP Seminar series*](https://talks.cam.ac.uk/show/index/6401)
+* *January 27. GenBench: State-of-the-art generalisation research in NLP. [*Cambridge NLP Seminar series*](https://talks.cam.ac.uk/show/index/6401)
+
+### 2023
+
+* *January 6* State-of-the-art generalisation research in NLP. [*ALiaS: Amsterdam Lectures in Artificial Intelligence and Society*](https://staff.fnwi.uva.nl/w.zuidema/alias-2023/).
+
 
 ### 2022
 
