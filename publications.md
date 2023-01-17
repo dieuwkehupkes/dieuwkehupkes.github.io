@@ -26,16 +26,18 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 
 ## 2022
 
-* Daniel Simig, Tianlu Wang, Verna Dankers, Peter Henderson, Khuyagbaatar Batsuren, Dieuwke Hupkes, Mona Diab. Text Characterization Toolkit (TCT). *Accepted at AACL -- system demonstrations track.
+* Daniel Simig, Tianlu Wang, Verna Dankers, Peter Henderson, Khuyagbaatar Batsuren, Dieuwke Hupkes, Mona Diab. Text Characterization Toolkit (TCT). *Accepted at AACL -- system demonstrations track*. \\
+\[[<font color="brown">paper</font>](https://aclanthology.org/2022.aacl-demo.9.pdf){:target="blank"}\] 
 
-* Nicola De Cao, Leon Schmid, Dieuwke Hupkes, Ivan Titov. Sparse Interventions in Language Models with Differentiable Masking. *Accepted at BlackBoxNLP* \\
+* Nicola De Cao, Leon Schmid, Dieuwke Hupkes, Ivan Titov. Sparse Interventions in Language Models with Differentiable Masking. *BlackBoxNLP* \\
 \[[<font color="brown">preprint</font>](https://arxiv.org/pdf/2112.06837){:target="blank"}\] 
 
-* Koustuv Sinha, Amirhossein Kazemnejad, Siva Reddy, Joelle Pineau, Dieuwke Hupkes and Adina Williams. The curious case of absolute position embeddings.
-*Accepted at EMNLP2022*
+* Koustuv Sinha, Amirhossein Kazemnejad, Siva Reddy, Joelle Pineau, Dieuwke Hupkes and Adina Williams. The curious case of absolute position embeddings. \\
+*EMNLP2022*
+\[[<font color="brown">preprint</font>](https://arxiv.org/abs/2210.12574){:target="blank"}\] 
 
-* Yair Lakretz, Theo Desbordes, Dieuwke Hupkes, Stanislas Dehaene. Causal transformers perform below chance on recursive nested constructions, unlike humans, *Accepted at COLING* \\
-\[[<font color="brown">preprint</font>](https://arxiv.org/abs/2110.07240){:target="blank"}\].
+* Yair Lakretz, Theo Desbordes, Dieuwke Hupkes, Stanislas Dehaene. Causal transformers perform below chance on recursive nested constructions, unlike humans, *COLING* \\
+\[[<font color="brown">paper</font>](https://aclanthology.org/2022.coling-1.285.pdf){:target="blank"}\].
 
 * Verna Dankers, Elia Bruni and Dieuwke Hupkes. The paradox of the compositionality of natural language: a neural machine translation case study, *ACL*.\\
 \[[<font color="brown">preprint</font>](https://aclanthology.org/2022.acl-long.286/){:target="blank"}\] 
@@ -47,7 +49,7 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 \[[<font color="brown">paper</font>](https://aclanthology.org/2021.conll-1.8/){:target="blank"}\] 
 
 
-* Koustuv Sinha, Robin Jia, Dieuwke Hupkes, Joelle Pineau, Adina Williams, Douwe Kiela. Masked language modeling and the distributional hypothesis: Order word matters pre-training for little. Accepted at *EMNLP 2021*. \\
+* Koustuv Sinha, Robin Jia, Dieuwke Hupkes, Joelle Pineau, Adina Williams, Douwe Kiela. Masked language modeling and the distributional hypothesis: Order word matters pre-training for little. *EMNLP 2021*. \\
 \[[<font color="brown">paper</font>](https://aclanthology.org/2021.emnlp-main.230/){:target="blank"}\] 
 
 * Jaap Jumelet, Milica Denić, Jakub Szymanik, Dieuwke Hupkes, Shane Steinert-Threlkeld. Language models use monotonicity to assess NPI Licensing. *ACL findings*\\
@@ -62,16 +64,16 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 * Gautier Dagan, Dieuwke Hupkes and Elia Bruni. Co-evolution of language and agents in referential games. *EACL 2021*.\\
 \[[<font color="brown">paper</font>](https://www.aclweb.org/anthology/2021.eacl-main.260.pdf){:target="blank"}\] 
 
-* Tom Kersten, Hugh Mee Wong, Jumelet Jumelet and Dieuwke Hupkes. Attention vs Non-attention for a Shapley-based Explanation Method. *Accepted at the NAACL 2021 workshop DeeLIO*\\
+* Tom Kersten, Hugh Mee Wong, Jumelet Jumelet and Dieuwke Hupkes. Attention vs Non-attention for a Shapley-based Explanation Method. *ADeeLIO @ NAACL 2021*\\
 \[[<font color="brown">paper</font>](https://aclanthology.org/2021.deelio-1.13.pdf){:target="blank"}\] 
 
 ## 2020
 * Diana Rodriguez Luna, Edoardo Maria Ponti, Dieuwke Hupkes, and Elia Bruni.
-Internal and External Pressures on Language Emergence: Least Effort, Object Constancy and Frequency. Accepted for *EMNLP-findings*. \\
+Internal and External Pressures on Language Emergence: Least Effort, Object Constancy and Frequency. *EMNLP-findings*. \\
 \[[<font color="brown">paper</font>](https://www.aclweb.org/anthology/2020.findings-emnlp.397.pdf){:target="blank"}\] 
 
 * Oskar van der Wal, Silvan de Boer, Elia Bruni and Dieuwke Hupkes.
-The grammar of emergent languages. Accepted at *EMNLP 2020*. \\
+The grammar of emergent languages. *EMNLP 2020*. \\
 \[[<font color="brown">paper</font>](https://www.aclweb.org/anthology/2020.emnlp-main.270.pdf){:target="blank"}\] 
 \[[<font color="brown">source code</font>](https://github.com/i-machine-think/emergent_grammar_induction){:target="_blank"}\]
 
