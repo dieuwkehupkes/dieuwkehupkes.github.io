@@ -14,7 +14,7 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 
 ## In prep
 
-* Valentin Taillandiers, Dieuwke Hupkes, Benoit Sagot, Emmanuel Dupoux and Paul Michel. Neural Agents Struggle to Take Turns in Bidirectional Emergent Communication. ICLR2023 \\
+* Valentin Taillandiers, Dieuwke Hupkes, Benoit Sagot, Emmanuel Dupoux and Paul Michel. Neural Agents Struggle to Take Turns in Bidirectional Emergent Communication. *ICLR2023*
 
 * Dieuwke Hupkes, Mario Giulianelli, Verna Dankers, Mikel Artetxe et al. State-of-the-art generalisation research in NLP: a taxonomy and review. \\
 \[[<font color="brown">preprint</font>](https://arxiv.org/abs/2210.03050){:target="blank"}\] 
@@ -28,15 +28,14 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 
 ## 2022
 
-* Daniel Simig, Tianlu Wang, Verna Dankers, Peter Henderson, Khuyagbaatar Batsuren, Dieuwke Hupkes, Mona Diab. Text Characterization Toolkit (TCT). *Accepted at AACL -- system demonstrations track*. \\
+* Daniel Simig, Tianlu Wang, Verna Dankers, Peter Henderson, Khuyagbaatar Batsuren, Dieuwke Hupkes, Mona Diab. Text Characterization Toolkit (TCT). *AACL -- system demonstrations*. \\
 \[[<font color="brown">paper</font>](https://aclanthology.org/2022.aacl-demo.9.pdf){:target="blank"}\] 
 
 * Nicola De Cao, Leon Schmid, Dieuwke Hupkes, Ivan Titov. Sparse Interventions in Language Models with Differentiable Masking. *BlackBoxNLP* \\
-\[[<font color="brown">preprint</font>](https://arxiv.org/pdf/2112.06837){:target="blank"}\] 
+\[[<font color="brown">paper</font>](https://aclanthology.org/2022.blackboxnlp-1.2/){:target="blank"}\] 
 
-* Koustuv Sinha, Amirhossein Kazemnejad, Siva Reddy, Joelle Pineau, Dieuwke Hupkes and Adina Williams. The curious case of absolute position embeddings. \\
-*EMNLP2022*
-\[[<font color="brown">preprint</font>](https://arxiv.org/abs/2210.12574){:target="blank"}\] 
+* Koustuv Sinha, Amirhossein Kazemnejad, Siva Reddy, Joelle Pineau, Dieuwke Hupkes and Adina Williams. The curious case of absolute position embeddings. *EMNLP*\\
+\[[<font color="brown">paper</font>](https://aclanthology.org/2022.findings-emnlp.326/){:target="blank"}\] 
 
 * Yair Lakretz, Theo Desbordes, Dieuwke Hupkes, Stanislas Dehaene. Causal transformers perform below chance on recursive nested constructions, unlike humans, *COLING* \\
 \[[<font color="brown">paper</font>](https://aclanthology.org/2022.coling-1.285.pdf){:target="blank"}\].
