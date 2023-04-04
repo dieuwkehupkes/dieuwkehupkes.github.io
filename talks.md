@@ -12,9 +12,14 @@ image:
 
 ## Upcoming
 
-* *January 27. GenBench: State-of-the-art generalisation research in NLP. [*Cambridge NLP Seminar series*](https://talks.cam.ac.uk/show/index/6401)
+* *April 11* TBD *MSR Montreal seminar series*
+
+* *April 13* The (un?)importance of generalisation in NLP. [*Generalisation in minds and machines*](https://mindandmachine.blogs.bristol.ac.uk/)
 
 ### 2023
+
+* *January 27. GenBench: State-of-the-art generalisation research in NLP. [*Cambridge NLP Seminar series*](https://talks.cam.ac.uk/show/index/6401)
+
 
 * *January 6* State-of-the-art generalisation research in NLP. [*ALiaS: Amsterdam Lectures in Artificial Intelligence and Society*](https://staff.fnwi.uva.nl/w.zuidema/alias-2023/).
 
