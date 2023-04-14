@@ -12,11 +12,13 @@ image:
 
 ## Upcoming
 
-* *April 11* TBD *MSR Montreal seminar series*
+### 2023
+
 
 * *April 13* The (un?)importance of generalisation in NLP. [*Generalisation in minds and machines*](https://mindandmachine.blogs.bristol.ac.uk/)
 
-### 2023
+* *April 11* The (un?)importance of generalisation in NLP. *MSR Montreal seminar series*
+
 
 * *January 27. GenBench: State-of-the-art generalisation research in NLP. [*Cambridge NLP Seminar series*](https://talks.cam.ac.uk/show/index/6401)
 
