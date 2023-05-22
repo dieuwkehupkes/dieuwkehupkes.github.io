@@ -43,7 +43,7 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 \[[<font color="brown">paper</font>](https://aclanthology.org/2022.coling-1.285.pdf){:target="blank"}\].
 
 * Verna Dankers, Elia Bruni and Dieuwke Hupkes. The paradox of the compositionality of natural language: a neural machine translation case study, *ACL*.\\
-\[[<font color="brown">preprint</font>](https://aclanthology.org/2022.acl-long.286/){:target="blank"}\] 
+\[[<font color="brown">paper</font>](https://aclanthology.org/2022.acl-long.286/){:target="blank"}\] 
 
 * Eugene Kharitonov, Marco Baroni, Dieuwke Hupkes. How BPE Affects Memorization in Transformers.\\
 \[[<font color="brown">preprint</font>](https://arxiv.org/abs/2110.02782){:target="blank"}\] 
