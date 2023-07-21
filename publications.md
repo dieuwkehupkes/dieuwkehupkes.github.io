@@ -22,6 +22,10 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 
 ## 2023
  
+* Kaiser Sun, Adina Williams, Dieuwke Hupkes. A replication study of compositional generalization works on semantic parsing. *MLRC 2022*. **Best paper award**  \\
+\[[<font color="brown">paper</font>](https://github.com/ReScience/MLRC/blob/main/2022/44/article.pdf){:target="blank"}\] 
+
+
 * Valentin Taillandiers, Dieuwke Hupkes, Benoit Sagot, Emmanuel Dupoux and Paul Michel. Neural Agents Struggle to Take Turns in Bidirectional Emergent Communication. *ICLR2023* \\
 \[[<font color="brown">paper</font>](https://openreview.net/pdf?id=GULFHQfgw0g){:target="blank"}\] 
 
