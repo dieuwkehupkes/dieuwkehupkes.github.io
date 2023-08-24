@@ -20,6 +20,9 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 * Dieuwke Hupkes, Mario Giulianelli, Verna Dankers, Mikel Artetxe et al. State-of-the-art generalisation research in NLP: a taxonomy and review. \\
 \[[<font color="brown">preprint</font>](https://arxiv.org/abs/2210.03050){:target="blank"}\] 
 
+* Lucas Weber, Jaap Jumelet, Paul Michel, Elia Bruni, Dieuwke Hupkes. Curriculum learning with Adam: The deil is in the wrong details.\\
+\[[<font color="brown">preprint</font>](https://arxiv.org/abs/2308.12202){:target="blank"}\] 
+
 ## 2023
  
 * Kaiser Sun, Adina Williams, Dieuwke Hupkes. A replication study of compositional generalization works on semantic parsing. *MLRC 2022*. **Best paper award**  \\
