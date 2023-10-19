@@ -17,11 +17,17 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 * Xenia Ohmer, Elia Bruni, Dieuwke Hupkes. Evaluating task understanding through multilingual self-consistency: A ChatGPT case study.\\
 \[[<font color="brown">preprint</font>](https://arxiv.org/abs/2305.11662){:target="blank"}\] 
 
-* Dieuwke Hupkes, Mario Giulianelli, Verna Dankers, Mikel Artetxe et al. State-of-the-art generalisation research in NLP: a taxonomy and review. \\
+* Dieuwke Hupkes, Mario Giulianelli, Verna Dankers, Mikel Artetxe et al. State-of-the-art generalisation research in NLP: a taxonomy and review. *Accepted at Nature Machine Intelligence* \\
 \[[<font color="brown">preprint</font>](https://arxiv.org/abs/2210.03050){:target="blank"}\] 
 
 * Lucas Weber, Jaap Jumelet, Paul Michel, Elia Bruni, Dieuwke Hupkes. Curriculum learning with Adam: The deil is in the wrong details.\\
 \[[<font color="brown">preprint</font>](https://arxiv.org/abs/2308.12202){:target="blank"}\] 
+
+* Lucas Weber, Elia Bruni, Dieuwke Hupkes. Mind the instructions: a holistic evaluation of consistency and interactions in prompt-based learning. *Accepted at CoNLL 2023*
+
+* Kaiser Sun, Adina Williams, Dieuwke Hupkes. The validity of evaluation results: assessing concurrence across compositionality benchmarks. *Accepted at CoNLL 2023*
+
+* Verna Dankers, Ivan Titov, Dieuwke Hupkes. Memorisation Cartography: mapping out the memorisation generalisation continuum in neural machine translation. *Accepted at EMNLP 2023*
 
 ## 2023
  
