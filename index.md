@@ -16,8 +16,9 @@ The first part is pronounced more or less exactly as the English word "duke" in 
 The stress is on the first syllable, so altogether: DUKE-uh .
 Still difficult? [Listen how I pronounce it myself](https://dieuwkehupkes.nl/audio/DieuwkeHupkes.mp3).<br><br>
 
-Some more info about me: I am currently a  research scientist at <a href="https://ai.facebook.com/" target="_blank">Facebook AI Research</a>, and involved with the <a href="https://ivi.fnwi.uva.nl/ellis/" target="_blank">Amsterdam unit</a> of <a href="https://ellis.eu/" target="_blank"><font color="brown">ELLIS</font></a>. 
-Before that, I did my PhD at the <a href="https:/illc.uva.nl" target="_blank"><font color="brown">Institute for Logic, Language and Computation (ILLC)</font></a>, under supervision of <a href="https://staff.fnwi.uva.nl/w.zuidema/" target="_blank"><font color="brown">Willem Zuidema</font></a>.
+Some more info about me: I am currently a research scientist at <a href="https://ai.meta.com/research/" target="_blank">Meta AI Research</a>.
+Before that, I did my PhD at the <a href="https:/illc.uva.nl" target="_blank"><font color="brown">Institute for Logic, Language and Computation (ILLC)</font></a>, under supervision of <a href="https://staff.fnwi.uva.nl/w.zuidema/" target="_blank"><font color="brown">Willem Zuidema</font></a>, and a brief postdoc at the <a href="https://ivi.fnwi.uva.nl/ellis/" target="_blank">Amsterdam unit</a> of <a href="https://ellis.eu/" target="_blank"><font color="brown">ELLIS</font></a>. 
+
 In my dissertation -- titled [<i>Hierarchy and interpretability in neural models of language processing</i>](https://pure.uva.nl/ws/files/48164248/Thesis.pdf){:target="blank"} -- I studied artificial neural networks for natural language processing, with as main aim to understand what they may teach us about processing of structure.
 While artificial neural networks are of course far from the real brain, I hope that understanding the principles by which they can encode and process structure can teach us something that will lead to a better understanding of how language is processed by the human brain. 
 <br /><br />
@@ -29,11 +30,13 @@ I am still very glad that I got the chance to have a job that allows me to try t
 <br /><br />
 
 In my free time, I spend a lot of time training for pole dancing competitions. 
-In 2018, my duo-partner Suzy and I won the national championships!
+In 2018, I won the national championships in the category doubles.
 Curious what it looks like?
-Have a look at our <a href="https://www.instagram.com/duo_polenotti/" target="_blank">Instagram</a>, or check our performances at the World Championships in <a href="https://www.youtube.com/watch?v=-yt1ufbCNYY" target="_blank">2017</a> or <a href="https://www.youtube.com/watch?v=ylr0YnVzjOg&t=158s" target="_blank">2018</a>!
+Have a look at my <a href="https://www.instagram.com/dieuwkehupkes/" target="_blank">Instagram</a>, or check our performances at the World Championships in <a href="https://www.youtube.com/watch?v=-yt1ufbCNYY" target="_blank">2017</a> or <a href="https://www.youtube.com/watch?v=ylr0YnVzjOg&t=158s" target="_blank">2018</a>!
 
 ## News
+
+- October 20, 2023 -- The <a href="https://www.nature.com/articles/s42256-023-00729-y" target="_blank">GenBench taxonomy paper</a> on generalisation in NLP just came out at Nature Machine Intelligence! Couldn't be more proud of this massive team effort :).
 
 - November 30, 2021 -- Podcast is out! Check it <a href="https://cs.nyu.edu/~welleck/episode36.html">here</a>, or listen on <a href="https://t.co/P5RxtByDZn?amp=1">apple podcasts</a>, <a href="https://t.co/PWSL07YXs8?amp=1">spotify</a> or <a href="https://soundcloud.com/thesis-review/36-dieuwke-hupkes-hierarchy-and-interpretability-in-neural-models-of-language-processing?utm_source=clipboard&utm_campaign=wtshare&utm_medium=widget&utm_content=https%253A%252F%252Fsoundcloud.com%252Fthesis-review%252F36-dieuwke-hupkes-hierarchy-and-interpretability-in-neural-models-of-language-processing">soundcloud</a>. 
 
