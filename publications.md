@@ -21,6 +21,7 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 \[[<font color="brown">preprint</font>](https://arxiv.org/abs/2308.12202){:target="blank"}\] 
 
 * Lucas Weber, Elia Bruni, Dieuwke Hupkes. Mind the instructions: a holistic evaluation of consistency and interactions in prompt-based learning. *Accepted at CoNLL 2023*
+\[[<font color="brown">preprint</font>](https://arxiv.org/pdf/2310.13486.pdf){:target="blank"}\] 
 
 * Kaiser Sun, Adina Williams, Dieuwke Hupkes. The validity of evaluation results: assessing concurrence across compositionality benchmarks. *Accepted at CoNLL 2023*
 
