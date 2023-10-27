@@ -24,6 +24,7 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 \[[<font color="brown">preprint</font>](https://arxiv.org/pdf/2310.13486.pdf){:target="blank"}\] 
 
 * Kaiser Sun, Adina Williams, Dieuwke Hupkes. The validity of evaluation results: assessing concurrence across compositionality benchmarks. *Accepted at CoNLL 2023*
+\[[<font color="brown">preprint</font>](https://arxiv.org/abs/2310.17514){:target="blank"}\] 
 
 * Verna Dankers, Ivan Titov, Dieuwke Hupkes. Memorisation Cartography: mapping out the memorisation generalisation continuum in neural machine translation. *Accepted at EMNLP 2023*
 
