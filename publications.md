@@ -17,7 +17,7 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 * Youssef Benchekroun, Megi Dervishi, Mark Ibrahim, Jean-Baptiste Gaya, Xavier Martinet, Grégoire Mialon, Thomas Scialom, Emmanuel Dupoux, Dieuwke Hupkes and Pascal Vincent. WorldSense: A synthetic benchmark for grounded reasoning in large language models. \\
 \[[<font color="brown">preprint</font>](https://arxiv.org/abs/2311.15930){:target="blank"}\] 
 
-* Verna Dankers, Ivan Titov, Dieuwke Hupkes. Memorisation cartography: mapping out the memorisation generalisation continuum in neural machine translation. *Accepted at EMNLP 2023*
+* Verna Dankers, Ivan Titov, Dieuwke Hupkes. Memorisation cartography: mapping out the memorisation generalisation continuum in neural machine translation. *Accepted at EMNLP 2023* \\
 \[[<font color="brown">preprint</font>](https://arxiv.org/abs/2311.05379){:target="blank"}\] 
 
 * Xenia Ohmer, Elia Bruni, Dieuwke Hupkes. Evaluating task understanding through multilingual self-consistency: A ChatGPT case study. *Accepted at GEM*\\
