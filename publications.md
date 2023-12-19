@@ -17,33 +17,37 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 * Youssef Benchekroun, Megi Dervishi, Mark Ibrahim, Jean-Baptiste Gaya, Xavier Martinet, Grégoire Mialon, Thomas Scialom, Emmanuel Dupoux, Dieuwke Hupkes and Pascal Vincent. WorldSense: A synthetic benchmark for grounded reasoning in large language models. \\
 \[[<font color="brown">preprint</font>](https://arxiv.org/abs/2311.15930){:target="blank"}\] 
 
-* Verna Dankers, Ivan Titov, Dieuwke Hupkes. Memorisation cartography: mapping out the memorisation generalisation continuum in neural machine translation. *Accepted at EMNLP 2023* \\
-\[[<font color="brown">preprint</font>](https://arxiv.org/abs/2311.05379){:target="blank"}\] 
-
-* Xenia Ohmer, Elia Bruni, Dieuwke Hupkes. Evaluating task understanding through multilingual self-consistency: A ChatGPT case study. *Accepted at GEM*\\
-\[[<font color="brown">preprint</font>](https://arxiv.org/abs/2305.11662){:target="blank"}\] 
-
 * Lucas Weber, Jaap Jumelet, Paul Michel, Elia Bruni, Dieuwke Hupkes. Curriculum learning with Adam: The devil is in the wrong details.\\
 \[[<font color="brown">preprint</font>](https://arxiv.org/abs/2308.12202){:target="blank"}\] 
 
-* Lucas Weber, Elia Bruni, Dieuwke Hupkes. Mind the instructions: a holistic evaluation of consistency and interactions in prompt-based learning. *Accepted at CoNLL 2023*\\
-\[[<font color="brown">preprint</font>](https://arxiv.org/pdf/2310.13486.pdf){:target="blank"}\] 
-
-* Kaiser Sun, Adina Williams, Dieuwke Hupkes. The validity of evaluation results: assessing concurrence across compositionality benchmarks. *Accepted at CoNLL 2023*\\
-\[[<font color="brown">preprint</font>](https://arxiv.org/abs/2310.17514){:target="blank"}\] 
 
 ## 2023
+
+* Xenia Ohmer, Elia Bruni, Dieuwke Hupkes. Evaluating task understanding through multilingual self-consistency: A ChatGPT case study. *GEM*\\
+\[[<font color="brown">preprint</font>](https://arxiv.org/abs/2305.11662){:target="blank"}\] 
+
+* Verna Dankers, Ivan Titov, Dieuwke Hupkes. Memorisation cartography: mapping out the memorisation generalisation continuum in neural machine translation. *Accepted at EMNLP 2023* \\
+\[[<font color="brown">paper</font>](https://aclanthology.org/2023.emnlp-main.518/){:target="blank"}\] 
+\[[<font color="brown">demo</font>](https://memorisation-mt-demo.github.io/memorisation-mt-demo/demo.html){:target="blank"}\] 
+
+* Kaiser Sun, Adina Williams, Dieuwke Hupkes. A replication study of compositional generalization works on semantic parsing. *MLRC 2022*. **Best paper award**  \\
+\[[<font color="brown">paper</font>](https://github.com/ReScience/MLRC/blob/main/2022/44/article.pdf){:target="blank"}\] 
+
+* Lucas Weber, Elia Bruni, Dieuwke Hupkes. Mind the instructions: a holistic evaluation of consistency and interactions in prompt-based learning. *CoNLL 2023*. **Honourable mention**\\
+\[[<font color="brown">paper</font>](https://aclanthology.org/2023.conll-1.20/){:target="blank"}\] 
+
+* Kaiser Sun, Adina Williams, Dieuwke Hupkes. The validity of evaluation results: assessing concurrence across compositionality benchmarks. *CoNLL 2023*. **Honourable mention**\\
+\[[<font color="brown">paper</font>](https://aclanthology.org/2023.conll-1.19/){:target="blank"}\] 
 
 * Dieuwke Hupkes, Mario Giulianelli, Verna Dankers, Mikel Artetxe et al. State-of-the-art generalisation research in NLP: a taxonomy and review. *Nature Machine Intelligence* \\
 \[[<font color="brown">paper</font>](https://www.nature.com/articles/s42256-023-00729-y){:target="blank"}\] 
 \[[<font color="brown">(longer) preprint</font>](https://arxiv.org/abs/2210.03050){:target="blank"}\] 
 \[[<font color="brown">website</font>](https://genbench.org/visualisations/){:target="blank"}\] 
 
+* Lucas Weber, Elia Bruni, Dieuwke Hupkes. The ICL Consistency test. *GenBench 2023 CBT submission* \\
+\[[<font color="brown">paper</font>](https://arxiv.org/abs/2312.04945){:target="blank"}\] 
+\[[<font color="brown">code</font>](https://github.com/GenBench/genbench_cbt/pull/11){:target="blank"}\] 
  
-* Kaiser Sun, Adina Williams, Dieuwke Hupkes. A replication study of compositional generalization works on semantic parsing. *MLRC 2022*. **Best paper award**  \\
-\[[<font color="brown">paper</font>](https://github.com/ReScience/MLRC/blob/main/2022/44/article.pdf){:target="blank"}\] 
-
-
 * Valentin Taillandiers, Dieuwke Hupkes, Benoit Sagot, Emmanuel Dupoux and Paul Michel. Neural Agents Struggle to Take Turns in Bidirectional Emergent Communication. *ICLR2023* \\
 \[[<font color="brown">paper</font>](https://openreview.net/pdf?id=GULFHQfgw0g){:target="blank"}\] 
 
