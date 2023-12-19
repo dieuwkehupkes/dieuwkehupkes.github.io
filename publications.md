@@ -23,12 +23,10 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 
 ## 2023
 
-* Xenia Ohmer, Elia Bruni, Dieuwke Hupkes. Evaluating task understanding through multilingual self-consistency: A ChatGPT case study. *GEM*\\
-\[[<font color="brown">preprint</font>](https://arxiv.org/abs/2305.11662){:target="blank"}\] 
-
-* Verna Dankers, Ivan Titov, Dieuwke Hupkes. Memorisation cartography: mapping out the memorisation generalisation continuum in neural machine translation. *Accepted at EMNLP 2023* \\
-\[[<font color="brown">paper</font>](https://aclanthology.org/2023.emnlp-main.518/){:target="blank"}\] 
-\[[<font color="brown">demo</font>](https://memorisation-mt-demo.github.io/memorisation-mt-demo/demo.html){:target="blank"}\] 
+* Dieuwke Hupkes, Mario Giulianelli, Verna Dankers, Mikel Artetxe et al. State-of-the-art generalisation research in NLP: a taxonomy and review. *Nature Machine Intelligence* \\
+\[[<font color="brown">paper</font>](https://www.nature.com/articles/s42256-023-00729-y){:target="blank"}\] 
+\[[<font color="brown">(longer) preprint</font>](https://arxiv.org/abs/2210.03050){:target="blank"}\] 
+\[[<font color="brown">website</font>](https://genbench.org/visualisations/){:target="blank"}\] 
 
 * Kaiser Sun, Adina Williams, Dieuwke Hupkes. A replication study of compositional generalization works on semantic parsing. *MLRC 2022*. **Best paper award**  \\
 \[[<font color="brown">paper</font>](https://github.com/ReScience/MLRC/blob/main/2022/44/article.pdf){:target="blank"}\] 
@@ -38,11 +36,14 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 
 * Kaiser Sun, Adina Williams, Dieuwke Hupkes. The validity of evaluation results: assessing concurrence across compositionality benchmarks. *CoNLL 2023*. **Honourable mention**\\
 \[[<font color="brown">paper</font>](https://aclanthology.org/2023.conll-1.19/){:target="blank"}\] 
+\[[<font color="brown">code</font>](https://github.com/facebookresearch/CompositionalityValidity){:target="blank"}\] 
 
-* Dieuwke Hupkes, Mario Giulianelli, Verna Dankers, Mikel Artetxe et al. State-of-the-art generalisation research in NLP: a taxonomy and review. *Nature Machine Intelligence* \\
-\[[<font color="brown">paper</font>](https://www.nature.com/articles/s42256-023-00729-y){:target="blank"}\] 
-\[[<font color="brown">(longer) preprint</font>](https://arxiv.org/abs/2210.03050){:target="blank"}\] 
-\[[<font color="brown">website</font>](https://genbench.org/visualisations/){:target="blank"}\] 
+* Verna Dankers, Ivan Titov, Dieuwke Hupkes. Memorisation cartography: mapping out the memorisation generalisation continuum in neural machine translation. *Accepted at EMNLP 2023* \\
+\[[<font color="brown">paper</font>](https://aclanthology.org/2023.emnlp-main.518/){:target="blank"}\] 
+\[[<font color="brown">demo</font>](https://memorisation-mt-demo.github.io/memorisation-mt-demo/demo.html){:target="blank"}\] 
+
+* Xenia Ohmer, Elia Bruni, Dieuwke Hupkes. Evaluating task understanding through multilingual self-consistency: A ChatGPT case study. *GEM*\\
+\[[<font color="brown">preprint</font>](https://arxiv.org/abs/2305.11662){:target="blank"}\] 
 
 * Lucas Weber, Elia Bruni, Dieuwke Hupkes. The ICL Consistency test. *GenBench 2023 CBT submission* \\
 \[[<font color="brown">paper</font>](https://arxiv.org/abs/2312.04945){:target="blank"}\] 
