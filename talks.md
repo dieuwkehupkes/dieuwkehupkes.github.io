@@ -12,19 +12,22 @@ image:
 
 ## Upcoming
 
-### 2023
+* *August 16* TBD [*CONDA*](https://conda-workshop.github.io/)
+* *August 16* TBD [*Repl4NLP*](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=178782&copyownerid=320)
 
+### 2024
+
+* *January 24* Evaluation, generalisation and understanding in the era of LLMs, ILLC
+
+### 2023
 
 * *April 13* The (un?)importance of generalisation in NLP. [*Generalisation in minds and machines*](https://mindandmachine.blogs.bristol.ac.uk/)
 
 * *April 11* The (un?)importance of generalisation in NLP. *MSR Montreal seminar series*
 
-
 * *January 27. GenBench: State-of-the-art generalisation research in NLP. [*Cambridge NLP Seminar series*](https://talks.cam.ac.uk/show/index/6401)
 
-
 * *January 6* State-of-the-art generalisation research in NLP. [*ALiaS: Amsterdam Lectures in Artificial Intelligence and Society*](https://staff.fnwi.uva.nl/w.zuidema/alias-2023/).
-
 
 ### 2022
 
