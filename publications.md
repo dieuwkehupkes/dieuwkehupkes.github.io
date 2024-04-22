@@ -14,6 +14,9 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 
 ## In prep
 
+* Xenia Ohmer, Elia Bruni, Dieuwke Hupkes. From form(s) to meaning: probing the semantic depths of language models using multisense consistency.
+\[[<font color="brown">preprint</font>](https://arxiv.org/abs/2404.12145){:target="blank"}\] 
+
 * Youssef Benchekroun, Megi Dervishi, Mark Ibrahim, Jean-Baptiste Gaya, Xavier Martinet, Grégoire Mialon, Thomas Scialom, Emmanuel Dupoux, Dieuwke Hupkes and Pascal Vincent. WorldSense: A synthetic benchmark for grounded reasoning in large language models. \\
 \[[<font color="brown">preprint</font>](https://arxiv.org/abs/2311.15930){:target="blank"}\] 
 
