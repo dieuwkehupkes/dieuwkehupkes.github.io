@@ -14,8 +14,10 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 
 ## In prep
 
-* Xenia Ohmer, Elia Bruni, Dieuwke Hupkes. From form(s) to meaning: probing the semantic depths of language models using multisense consistency.
+* Xenia Ohmer, Elia Bruni, Dieuwke Hupkes. From form(s) to meaning: probing the semantic depths of language models using multisense consistency.\\
 \[[<font color="brown">preprint</font>](https://arxiv.org/abs/2404.12145){:target="blank"}\] 
+
+* Kartik Choudhary*, Aman Singh Thakur*, Venkat Srinik Ramayapally*, Sankaran Vaidyanathanand Dieuwke Hupkes. Judging the judges: evaluating alignment and vulnerabilities in LLMs-as-Judges.\\
 
 * Youssef Benchekroun, Megi Dervishi, Mark Ibrahim, Jean-Baptiste Gaya, Xavier Martinet, Grégoire Mialon, Thomas Scialom, Emmanuel Dupoux, Dieuwke Hupkes and Pascal Vincent. WorldSense: A synthetic benchmark for grounded reasoning in large language models. \\
 \[[<font color="brown">preprint</font>](https://arxiv.org/abs/2311.15930){:target="blank"}\] 
@@ -23,6 +25,10 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 * Lucas Weber, Jaap Jumelet, Paul Michel, Elia Bruni, Dieuwke Hupkes. Curriculum learning with Adam: The devil is in the wrong details.\\
 \[[<font color="brown">preprint</font>](https://arxiv.org/abs/2308.12202){:target="blank"}\] 
 
+## 2024
+
+* Lucas Weber, Jaap Jumelet, Elia Bruni, Dieuwke Hupkes. Interpretability of Language Models via Task Spaces. *ACL 2024* \\
+\[[<font color="brown">preprint</font>](https://arxiv.org/abs/2406.06441){:target="blank"}\] 
 
 ## 2023
 
