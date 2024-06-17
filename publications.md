@@ -14,7 +14,11 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 
 ## In prep
 
-* Xenia Ohmer, Elia Bruni, Dieuwke Hupkes. From form(s) to meaning: probing the semantic depths of language models using multisense consistency.\\
+* Lovish Madaan, Aaditya K. Singh, Rylan Schaeffer, Andrew Poulton, Sanmi Koyejo, Pontus Stenetorp, Sharan Narang and Dieuwke Hupkes. Quantifying Variance in Evaluation Benchmarks
+. 
+\[[<font color="brown">preprint</font>](https://arxiv.org/abs/2406.10229){:target="blank"}\] 
+
+* Xenia Ohmer, Elia Bruni, Dieuwke Hupkes. From form(s) to meaning: probing the semantic depths of language models using multisense consistency. **Submitted to CL**\\
 \[[<font color="brown">preprint</font>](https://arxiv.org/abs/2404.12145){:target="blank"}\] 
 
 * Kartik Choudhary\*, Aman Singh Thakur\*, Venkat Srinik Ramayapally\*, Sankaran Vaidyanathanand Dieuwke Hupkes. Judging the judges: evaluating alignment and vulnerabilities in LLMs-as-Judges. \\
