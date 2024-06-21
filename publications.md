@@ -17,9 +17,6 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 * Kartik Choudhary\*, Aman Singh Thakur\*, Venkat Srinik Ramayapally\*, Sankaran Vaidyanathanand Dieuwke Hupkes. Judging the judges: evaluating alignment and vulnerabilities in LLMs-as-Judges. \\
 \[[<font color="brown">preprint</font>](https://arxiv.org/abs/2406.12624){:target="blank"}\] 
 
-* Xenia Ohmer, Elia Bruni, Dieuwke Hupkes. From form(s) to meaning: probing the semantic depths of language models using multisense consistency. *Accepted to CL*\\
-\[[<font color="brown">preprint</font>](https://arxiv.org/abs/2404.12145){:target="blank"}\] 
-
 * Lovish Madaan, Aaditya K. Singh, Rylan Schaeffer, Andrew Poulton, Sanmi Koyejo, Pontus Stenetorp, Sharan Narang and Dieuwke Hupkes. Quantifying Variance in Evaluation Benchmarks
 . \\
 \[[<font color="brown">preprint</font>](https://arxiv.org/abs/2406.10229){:target="blank"}\] 
@@ -31,6 +28,10 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 \[[<font color="brown">preprint</font>](https://arxiv.org/abs/2308.12202){:target="blank"}\] 
 
 ## 2024
+
+* Xenia Ohmer, Elia Bruni, Dieuwke Hupkes. From form(s) to meaning: probing the semantic depths of language models using multisense consistency. *Accepted to Computational Linguistics*\\
+\[[<font color="brown">preprint</font>](https://arxiv.org/abs/2404.12145){:target="blank"}\] 
+
 
 * Lucas Weber, Jaap Jumelet, Elia Bruni, Dieuwke Hupkes. Interpretability of Language Models via Task Spaces. *ACL 2024* \\
 \[[<font color="brown">preprint</font>](https://arxiv.org/abs/2406.06441){:target="blank"}\] 
@@ -57,7 +58,8 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 \[[<font color="brown">demo</font>](https://memorisation-mt-demo.github.io/memorisation-mt-demo/demo.html){:target="blank"}\] 
 
 * Xenia Ohmer, Elia Bruni, Dieuwke Hupkes. Evaluating task understanding through multilingual self-consistency: A ChatGPT case study. *GEM*\\
-\[[<font color="brown">preprint</font>](https://arxiv.org/abs/2305.11662){:target="blank"}\] 
+\[[<font color="brown">paper</font>](https://aclanthology.org/2023.gem-1.22.pdf){:target="blank"}\] 
+\[[<font color="brown">code</font>](https://github.com/XeniaOhmer/multisense_consistency){:target="blank"}\] 
 
 * Lucas Weber, Elia Bruni, Dieuwke Hupkes. The ICL Consistency test. *GenBench 2023 CBT submission* \\
 \[[<font color="brown">paper</font>](https://arxiv.org/abs/2312.04945){:target="blank"}\] 
