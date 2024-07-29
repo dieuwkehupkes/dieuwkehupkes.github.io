@@ -24,17 +24,20 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 * Youssef Benchekroun, Megi Dervishi, Mark Ibrahim, Jean-Baptiste Gaya, Xavier Martinet, Grégoire Mialon, Thomas Scialom, Emmanuel Dupoux, Dieuwke Hupkes and Pascal Vincent. WorldSense: A synthetic benchmark for grounded reasoning in large language models. \\
 \[[<font color="brown">preprint</font>](https://arxiv.org/abs/2311.15930){:target="blank"}\] 
 
-* Lucas Weber, Jaap Jumelet, Paul Michel, Elia Bruni, Dieuwke Hupkes. Curriculum learning with Adam: The devil is in the wrong details.\\
-\[[<font color="brown">preprint</font>](https://arxiv.org/abs/2308.12202){:target="blank"}\] 
 
 ## 2024
+
+* Llama team. The Llama 3 Herd of Models. \\
+\[[<font color="brown">paper</font>](https://scontent-ams2-1.xx.fbcdn.net/v/t39.2365-6/452387774_1036916434819166_4173978747091533306_n.pdf?_nc_cat=104&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=DTS7hDTcxZoQ7kNvgEEioMh&_nc_ht=scontent-ams2-1.xx&oh=00_AYC-3TlwVlRnatnXa2Oh3od7X7EGb0gnm58xFyxlF58hkg&oe=66AD4ACD){:target="blank"}\] 
 
 * Xenia Ohmer, Elia Bruni, Dieuwke Hupkes. From form(s) to meaning: probing the semantic depths of language models using multisense consistency. *Accepted to Computational Linguistics*\\
 \[[<font color="brown">preprint</font>](https://arxiv.org/abs/2404.12145){:target="blank"}\] 
 
-
 * Lucas Weber, Jaap Jumelet, Elia Bruni, Dieuwke Hupkes. Interpretability of Language Models via Task Spaces. *ACL 2024* \\
 \[[<font color="brown">preprint</font>](https://arxiv.org/abs/2406.06441){:target="blank"}\] 
+
+* Lucas Weber, Jaap Jumelet, Paul Michel, Elia Bruni, Dieuwke Hupkes. Curriculum learning with Adam: The devil is in the wrong details.\\
+\[[<font color="brown">preprint</font>](https://arxiv.org/abs/2308.12202){:target="blank"}\] 
 
 ## 2023
 
