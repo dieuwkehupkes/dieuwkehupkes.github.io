@@ -14,6 +14,9 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 
 ## In prep
 
+* Aaditya K Singh\*, Muhammed Yusuf Kocyigit\*, Andrew Poulton, David Esiobu, Maria Lomeli, Gergely Szilvasy, Dieuwke Hupkes. Evaluation data contamination in LLMs: how do we measure it and (when) does it matter? \\
+\[[<font color="brown">preprint</font>](https://arxiv.org/abs/2411.03923){:target="blank"}\] 
+
 * Kartik Choudhary\*, Aman Singh Thakur\*, Venkat Srinik Ramayapally\*, Sankaran Vaidyanathanand Dieuwke Hupkes. Judging the judges: evaluating alignment and vulnerabilities in LLMs-as-Judges. \\
 \[[<font color="brown">preprint</font>](https://arxiv.org/abs/2406.12624){:target="blank"}\] 
 
@@ -21,14 +24,14 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 . \\
 \[[<font color="brown">preprint</font>](https://arxiv.org/abs/2406.10229){:target="blank"}\] 
 
-* Youssef Benchekroun, Megi Dervishi, Mark Ibrahim, Jean-Baptiste Gaya, Xavier Martinet, Grégoire Mialon, Thomas Scialom, Emmanuel Dupoux, Dieuwke Hupkes and Pascal Vincent. WorldSense: A synthetic benchmark for grounded reasoning in large language models. \\
-\[[<font color="brown">preprint</font>](https://arxiv.org/abs/2311.15930){:target="blank"}\] 
 
 
 ## 2024
 
 * Llama team. The Llama 3 Herd of Models. \\
-\[[<font color="brown">paper</font>](https://scontent-ams2-1.xx.fbcdn.net/v/t39.2365-6/452387774_1036916434819166_4173978747091533306_n.pdf?_nc_cat=104&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=DTS7hDTcxZoQ7kNvgEEioMh&_nc_ht=scontent-ams2-1.xx&oh=00_AYC-3TlwVlRnatnXa2Oh3od7X7EGb0gnm58xFyxlF58hkg&oe=66AD4ACD){:target="blank"}\] 
+*Contribution: pretraining evaluations lead*\\
+\[[<font color="brown">paper</font>](https://x.com/_dieuwke_/status/1816098840551870719){:target="blank"}\] 
+
 
 * Xenia Ohmer, Elia Bruni, Dieuwke Hupkes. From form(s) to meaning: probing the semantic depths of language models using multisense consistency. *Computational Linguistics*\\
 \[[<font color="brown">paper</font>](https://direct.mit.edu/coli/article/doi/10.1162/coli_a_00529/123794/From-Form-s-to-Meaning-Probing-the-Semantic-Depths?searchresult=1){:target="blank"}\] 
@@ -70,6 +73,9 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
  
 * Valentin Taillandiers, Dieuwke Hupkes, Benoit Sagot, Emmanuel Dupoux and Paul Michel. Neural Agents Struggle to Take Turns in Bidirectional Emergent Communication. *ICLR2023* \\
 \[[<font color="brown">paper</font>](https://openreview.net/pdf?id=GULFHQfgw0g){:target="blank"}\] 
+
+* Youssef Benchekroun, Megi Dervishi, Mark Ibrahim, Jean-Baptiste Gaya, Xavier Martinet, Grégoire Mialon, Thomas Scialom, Emmanuel Dupoux, Dieuwke Hupkes and Pascal Vincent. WorldSense: A synthetic benchmark for grounded reasoning in large language models. \\
+\[[<font color="brown">preprint</font>](https://arxiv.org/abs/2311.15930){:target="blank"}\] 
 
 ## 2022
 
