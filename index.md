@@ -38,7 +38,9 @@ Have a look at my <a href="https://www.instagram.com/dieuwkehupkes/" target="_bl
 
 - October 14, 2024 -- I became an ELLIS Scholar! Grateful for the nomination and the honour :)
 
-- July, 2042 -- Proud to have been part of the Llama 3 effort and grateful that we got to publish such a comprehensive paper about it. It's a loooong paper, I know. Curious about my contributions specifically? Head to section 5.1! For my personal highlights, read <a href="https://x.com/_dieuwke_/status/1816098840551870719" target="_blank">my tweet</a>
+- August 20, 2024 -- Scitube made <a href='https://www.youtube.com/watch?v=ARipp-MslrY' target="_blank">a video</a> about my work on generalisation with GenBench! Very happy with how it turned out.
+
+- July, 2024 -- Proud to have been part of the Llama 3 effort and grateful that we got to publish such a comprehensive paper about it. It's a loooong paper, I know. Curious about my contributions specifically? Head to section 5.1! For my personal highlights, read <a href="https://x.com/_dieuwke_/status/1816098840551870719" target="_blank">my tweet</a>
 
 - October 20, 2023 -- The <a href="https://www.nature.com/articles/s42256-023-00729-y" target="_blank">GenBench taxonomy paper</a> on generalisation in NLP just came out at Nature Machine Intelligence! Couldn't be more proud of this massive team effort :).
 
