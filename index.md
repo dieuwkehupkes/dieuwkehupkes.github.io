@@ -36,6 +36,10 @@ Have a look at my <a href="https://www.instagram.com/dieuwkehupkes/" target="_bl
 
 ## News
 
+- October 14, 2024 -- I became an ELLIS Scholar! Grateful for the nomination and the honour :)
+
+- July, 2042 -- Proud to have been part of the Llama 3 effort and grateful that we got to publish such a comprehensive paper about it. It's a loooong paper, I know. Curious about my contributions specifically? Head to section 5.1! For my personal highlights, read <a href="https://x.com/_dieuwke_/status/1816098840551870719" target="_blank">my tweet</a>
+
 - October 20, 2023 -- The <a href="https://www.nature.com/articles/s42256-023-00729-y" target="_blank">GenBench taxonomy paper</a> on generalisation in NLP just came out at Nature Machine Intelligence! Couldn't be more proud of this massive team effort :).
 
 - November 30, 2021 -- Podcast is out! Check it <a href="https://cs.nyu.edu/~welleck/episode36.html">here</a>, or listen on <a href="https://t.co/P5RxtByDZn?amp=1">apple podcasts</a>, <a href="https://t.co/PWSL07YXs8?amp=1">spotify</a> or <a href="https://soundcloud.com/thesis-review/36-dieuwke-hupkes-hierarchy-and-interpretability-in-neural-models-of-language-processing?utm_source=clipboard&utm_campaign=wtshare&utm_medium=widget&utm_content=https%253A%252F%252Fsoundcloud.com%252Fthesis-review%252F36-dieuwke-hupkes-hierarchy-and-interpretability-in-neural-models-of-language-processing">soundcloud</a>. 
@@ -72,13 +76,19 @@ Have a look at my <a href="https://www.instagram.com/dieuwkehupkes/" target="_bl
 
 ## Highlighted publications 
 
+* Dieuwke Hupkes, Mario Giulianelli, Verna Dankers, Mikel Artetxe et al. State-of-the-art generalisation research in NLP: a taxonomy and review. *Nature Machine Intelligence* \\
+\[[<font color="brown">paper</font>](https://www.nature.com/articles/s42256-023-00729-y){:target="blank"}\] 
+\[[<font color="brown">(longer) preprint</font>](https://arxiv.org/abs/2210.03050){:target="blank"}\] 
+\[[<font color="brown">website</font>](https://genbench.org/visualisations/){:target="blank"}\] 
+
+* Xenia Ohmer, Elia Bruni, Dieuwke Hupkes. From form(s) to meaning: probing the semantic depths of language models using multisense consistency. *Computational Linguistics*\\
+\[[<font color="brown">paper</font>](https://direct.mit.edu/coli/article/doi/10.1162/coli_a_00529/123794/From-Form-s-to-Meaning-Probing-the-Semantic-Depths?searchresult=1){:target="blank"}\] 
+
+* Llama team. The Llama 3 Herd of Models. \\
+*Contribution: pretraining evaluations lead*\\
+\[[<font color="brown">paper</font>](https://scontent-ams2-1.xx.fbcdn.net/v/t39.2365-6/452387774_1036916434819166_4173978747091533306_n.pdf?_nc_cat=104&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=DTS7hDTcxZoQ7kNvgEEioMh&_nc_ht=scontent-ams2-1.xx&oh=00_AYC-3TlwVlRnatnXa2Oh3od7X7EGb0gnm58xFyxlF58hkg&oe=66AD4ACD){:target="blank"}\] 
+
 * Hupkes D., Dankers V., Mul M. and Bruni E. (2020)
 [Compositionality decomposed: how do neural networks generalise?](https://jair.org/index.php/jair/article/view/11674/26576){:target="blank"}
 *JAIR*.
 
-* Giulianelli, M., Harding, J., Mohnert, F., Hupkes, D. and Zuidema, W. (2018). 
-[Under the hood: using diagnostic classifiers to investigate and improve how language models track agreement information](https://aclweb.org/anthology/W18-5426){:target="blank"}.
-*BlackboxNLP 2018, ACL*.
-
-* Hupkes D., Veldhoen S., and Zuidema W. (2018). [Visualisation and 'diagnostic classifiers' reveal how recurrent and recursive neural networks process hierarchical structure](https://jair.org/index.php/jair/article/view/11196/26408){:target="blank"}.
-*JAIR*.
