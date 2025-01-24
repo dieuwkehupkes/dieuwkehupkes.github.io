@@ -14,33 +14,33 @@ image:
 
 ### 2024
 
-* *December 11* Host, [*Responsible AI Roundtable*](https://ecda.eur.nl/event/responsible-ai-roundtable/)
+* *December 11*, Host, [*Responsible AI Roundtable*](https://ecda.eur.nl/event/responsible-ai-roundtable/)
 
-* *December 10* Generalisation in generative AI, Local workshop in Amsterdam
+* *December 10*, Generalisation in generative AI, Local workshop in Amsterdam
 
-* *December 7* Generalisation in LLMs - and beyond, [*CliC-it*](https://clic2024.ilc.cnr.it/)
+* *December 7*, Generalisation in LLMs - and beyond, [*CliC-it*](https://clic2024.ilc.cnr.it/)
 
-* *August 17* Generalisation in LLMs – and beyond, [*Repl4NLP*](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=178782&copyownerid=320)
+* *August 17*, Generalisation in LLMs – and beyond, [*Repl4NLP*](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=178782&copyownerid=320)
 
-* *August 16* Evaluation data contamination:how much is there, and how much does it actually matter? [*CONDA*](https://conda-workshop.github.io/)
+* *August 16*, Evaluation data contamination:how much is there, and how much does it actually matter? [*CONDA*](https://conda-workshop.github.io/)
 
-* *April 18* Large language models in the workplace, [Erasmus Data Summit](https://ecda.eur.nl/event/erasmus-data-summit/)
+* *April 18*, Large language models in the workplace, [Erasmus Data Summit](https://ecda.eur.nl/event/erasmus-data-summit/)
 
-* *January 24* Evaluation, generalisation and understanding in the era of LLMs, ILLC
+* *January 24*, Evaluation, generalisation and understanding in the era of LLMs, ILLC
 
 ### 2023
 
-* *April 13* The (un?)importance of generalisation in NLP. [*Generalisation in minds and machines*](https://mindandmachine.blogs.bristol.ac.uk/)
+* *April 13*, The (un?)importance of generalisation in NLP. [*Generalisation in minds and machines*](https://mindandmachine.blogs.bristol.ac.uk/)
 
-* *April 11* The (un?)importance of generalisation in NLP. *MSR Montreal seminar series*
+* *April 11*, The (un?)importance of generalisation in NLP. *MSR Montreal seminar series*
 
-* *January 27. GenBench: State-of-the-art generalisation research in NLP. [*Cambridge NLP Seminar series*](https://talks.cam.ac.uk/show/index/6401)
+* *January 27, GenBench: State-of-the-art generalisation research in NLP. [*Cambridge NLP Seminar series*](https://talks.cam.ac.uk/show/index/6401)
 
-* *January 6* State-of-the-art generalisation research in NLP. [*ALiaS: Amsterdam Lectures in Artificial Intelligence and Society*](https://staff.fnwi.uva.nl/w.zuidema/alias-2023/).
+* *January 6*, State-of-the-art generalisation research in NLP. [*ALiaS: Amsterdam Lectures in Artificial Intelligence and Society*](https://staff.fnwi.uva.nl/w.zuidema/alias-2023/).
 
 ### 2022
 
-* *November 3* State-of-the-art generalisation research in NLP. <a href="https://www.meetup.com/it-IT/deep-learning-ai/events/289147565/">Deep Learning & AI Talks @ Qualcomm</a>
+* *November 3*, State-of-the-art generalisation research in NLP. <a href="https://www.meetup.com/it-IT/deep-learning-ai/events/289147565/">Deep Learning & AI Talks @ Qualcomm</a>
 
 * *October 20*, State-of-the-art generalisation research in NLP. *Deep Mind reading group*
 
