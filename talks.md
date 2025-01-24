@@ -12,10 +12,19 @@ image:
 
 ## Upcoming
 
-* *August 16* TBD [*CONDA*](https://conda-workshop.github.io/)
-* *August 16* TBD [*Repl4NLP*](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=178782&copyownerid=320)
-
 ### 2024
+
+* *December 11* Host, [*Responsible AI Roundtable*](https://ecda.eur.nl/event/responsible-ai-roundtable/)
+
+* *December 10* Generalisation in generative AI, Local workshop in Amsterdam
+
+* *December 7* Generalisation in LLMs - and beyond, [*CliC-it*](https://clic2024.ilc.cnr.it/)
+
+* *August 17* Generalisation in LLMs – and beyond, [*Repl4NLP*](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=178782&copyownerid=320)
+
+* *August 16* Evaluation data contamination:how much is there, and how much does it actually matter? [*CONDA*](https://conda-workshop.github.io/)
+
+* *April 18* Large language models in the workplace, [Erasmus Data Summit](https://ecda.eur.nl/event/erasmus-data-summit/)
 
 * *January 24* Evaluation, generalisation and understanding in the era of LLMs, ILLC
 
