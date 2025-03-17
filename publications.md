@@ -14,8 +14,8 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 
 ## In prep
 
-* Lovish Madaan, David Esiobu, Pontus Stenetorp, Barbara Plank, Dieuwke Hupkes. Lost in inference: rediscovering the role of natural language inference for large language models. *Accepted at NAACL 2025*\\
-\[[<font color="brown">preprint</font>](https://arxiv.org/abs/2411.14103){:target="blank"}\] 
+* Nicholas Roberts, Niladri Chatterji, Sharan Narang, Mike Lewis, Dieuwke Hupkes. Compute optimal scaling of skills: knowledge vs reasoning. \\
+\[[<font color="brown">preprint</font>](https://arxiv.org/abs/2503.10061){:target="blank"}\] 
 
 * Aaditya K Singh\*, Muhammed Yusuf Kocyigit\*, Andrew Poulton, David Esiobu, Maria Lomeli, Gergely Szilvasy, Dieuwke Hupkes. Evaluation data contamination in LLMs: how do we measure it and (when) does it matter? \\
 \[[<font color="brown">preprint</font>](https://arxiv.org/abs/2411.03923){:target="blank"}\] 
@@ -27,7 +27,10 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 . \\
 \[[<font color="brown">preprint</font>](https://arxiv.org/abs/2406.10229){:target="blank"}\] 
 
+## 2025
 
+* Lovish Madaan, David Esiobu, Pontus Stenetorp, Barbara Plank, Dieuwke Hupkes. Lost in inference: rediscovering the role of natural language inference for large language models. *Accepted at NAACL 2025*\\
+\[[<font color="brown">preprint</font>](https://arxiv.org/abs/2411.14103){:target="blank"}\] 
 
 ## 2024
 
