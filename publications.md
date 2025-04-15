@@ -14,6 +14,9 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 
 ## In prep
 
+* Dieuwke Hupkes and Nikolay Bogoychev.\\
+\[[<font color="brown">preprint</font>](https://arxiv.org/abs/2504.10356){:target="blank"}\] 
+
 * Nicholas Roberts, Niladri Chatterji, Sharan Narang, Mike Lewis, Dieuwke Hupkes. Compute optimal scaling of skills: knowledge vs reasoning. \\
 \[[<font color="brown">preprint</font>](https://arxiv.org/abs/2503.10061){:target="blank"}\] 
 
