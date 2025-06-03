@@ -14,7 +14,8 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 
 ## In prep
 
-* Dieuwke Hupkes and Nikolay Bogoychev.\\
+* Dieuwke Hupkes and Nikolay Bogoychev. MultiLoKo: a multilingual local knowledge benchmark for LLMs spanning 31 languages
+\\
 \[[<font color="brown">preprint</font>](https://arxiv.org/abs/2504.10356){:target="blank"}\] 
 \[[<font color="brown">data</font>](https://github.com/facebookresearch/multiloko){:target="blank"}\] 
 
