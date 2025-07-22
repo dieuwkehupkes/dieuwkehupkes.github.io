@@ -36,6 +36,8 @@ Have a look at my <a href="https://www.instagram.com/dieuwkehupkes/" target="_bl
 
 ## News
 
+- July 16, 2025 -- Excited about this interview with <a href='https://women-in-ai-research.github.io/' target="_blank">Women in AI Research (WiAIR)</a>: https://www.youtube.com/watch?v=CuTWIW1JcsA!
+
 - October 14, 2024 -- I became an ELLIS Scholar! Grateful for the nomination and the honour :)
 
 - August 20, 2024 -- Scitube made <a href='https://www.youtube.com/watch?v=ARipp-MslrY' target="_blank">a video</a> about my work on generalisation with GenBench! Very happy with how it turned out.
