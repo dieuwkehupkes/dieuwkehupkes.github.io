@@ -36,6 +36,8 @@ Have a look at my <a href="https://www.instagram.com/dieuwkehupkes/" target="_bl
 
 ## News
 
+- August, 2025 -- Our <a href="https://jair.org/index.php/jair/IJCAIJAIR" target="_blank">2020 paper on compositionality</a> won the 2025 IJCAI-JAIR Best Paper Prize! Verna Dankers presented it at <a href="https://x.com/IJCAIconf/status/1958192992822428090" target="_blank">IJCAI</a>
+
 - July 16, 2025 -- Excited about this interview with <a href='https://women-in-ai-research.github.io/' target="_blank">Women in AI Research (WiAIR)</a>: https://www.youtube.com/watch?v=CuTWIW1JcsA!
 
 - October 14, 2024 -- I became an ELLIS Scholar! Grateful for the nomination and the honour :)
