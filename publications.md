@@ -19,13 +19,14 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 \[[<font color="brown">preprint</font>](https://arxiv.org/abs/2504.10356){:target="blank"}\] 
 \[[<font color="brown">data</font>](https://github.com/facebookresearch/multiloko){:target="blank"}\] 
 
-* Aaditya K Singh\*, Muhammed Yusuf Kocyigit\*, Andrew Poulton, David Esiobu, Maria Lomeli, Gergely Szilvasy, Dieuwke Hupkes. Evaluation data contamination in LLMs: how do we measure it and (when) does it matter? \\
-\[[<font color="brown">preprint</font>](https://arxiv.org/abs/2411.03923){:target="blank"}\] 
+* Philipp Mondorf, Samuel J. Bell, Jesse Dodge and Dieuwke Hupkes. LPDS: Evaluating LLM Robustness Through Logic-Preserving Difficulty Scaling.
+\\
+\[[<font color="brown">preprint</font>](https://arxiv.org/abs/2605.15393){:target="blank"}\] 
 
 ## 2025
 
 * Nicholas Roberts, Niladri Chatterji, Sharan Narang, Mike Lewis, Dieuwke Hupkes. Compute optimal scaling of skills: knowledge vs reasoning. *ACL Findings* \\
-\[[<font color="brown">paper</font>](https://arxiv.org/abs/2411.03923){:target="blank"}\] 
+\[[<font color="brown">paper</font>](https://aclanthology.org/2025.findings-acl.688.pdf){:target="blank"}\] 
 
 * Kartik Choudhary\*, Aman Singh Thakur\*, Venkat Srinik Ramayapally\*, Sankaran Vaidyanathanand Dieuwke Hupkes. Judging the judges: evaluating alignment and vulnerabilities in LLMs-as-Judges. *GEM 2025* \\
 \[[<font color="brown">paper</font>](https://aclanthology.org/2025.gem-1.33/){:target="blank"}\] 
@@ -35,6 +36,9 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 \[[<font color="brown">preprint</font>](https://aclanthology.org/2025.naacl-long.466){:target="blank"}\] 
 
 ## 2024
+
+* Aaditya K Singh\*, Muhammed Yusuf Kocyigit\*, Andrew Poulton, David Esiobu, Maria Lomeli, Gergely Szilvasy, Dieuwke Hupkes. Evaluation data contamination in LLMs: how do we measure it and (when) does it matter? \\
+\[[<font color="brown">preprint</font>](https://arxiv.org/abs/2411.03923){:target="blank"}\] 
 
 * Lovish Madaan, Aaditya K. Singh, Rylan Schaeffer, Andrew Poulton, Sanmi Koyejo, Pontus Stenetorp, Sharan Narang and Dieuwke Hupkes. Quantifying Variance in Evaluation Benchmarks
 . \\
