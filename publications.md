@@ -19,7 +19,7 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 \[[<font color="brown">preprint</font>](https://arxiv.org/abs/2504.10356){:target="blank"}\] 
 \[[<font color="brown">data</font>](https://github.com/facebookresearch/multiloko){:target="blank"}\] 
 
-* Philipp Mondorf, Samuel J. Bell, Jesse Dodge and Dieuwke Hupkes. LPDS: Evaluating LLM Robustness Through Logic-Preserving Difficulty Scaling.
+* Philipp Mondorf, Samuel J. Bell, Jesse Dodge and Dieuwke Hupkes. LPDS: Evaluating LLM Robustness Through Logic-Preserving Difficulty Scaling. *Accepted at COLM*
 \\
 \[[<font color="brown">preprint</font>](https://arxiv.org/abs/2605.15393){:target="blank"}\] 
 
