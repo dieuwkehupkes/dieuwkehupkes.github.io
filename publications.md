@@ -23,6 +23,12 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 \\
 \[[<font color="brown">preprint</font>](https://arxiv.org/abs/2605.15393){:target="blank"}\] 
 
+## 2026
+
+* Rohit Patel, Dieuwke Hupkes, Sloan Strader. Modality Maturity Index: A benchmark for assessing multimodal capabilities of omni models.\\
+\[[<font color="brown">preprint</font>](https://arxiv.org/abs/2608.26317){:target="blank"}\] 
+
+
 ## 2025
 
 * Nicholas Roberts, Niladri Chatterji, Sharan Narang, Mike Lewis, Dieuwke Hupkes. Compute optimal scaling of skills: knowledge vs reasoning. *ACL Findings* \\
@@ -31,22 +37,21 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 * Kartik Choudhary\*, Aman Singh Thakur\*, Venkat Srinik Ramayapally\*, Sankaran Vaidyanathanand Dieuwke Hupkes. Judging the judges: evaluating alignment and vulnerabilities in LLMs-as-Judges. *GEM 2025* \\
 \[[<font color="brown">paper</font>](https://aclanthology.org/2025.gem-1.33/){:target="blank"}\] 
 
-
 * Lovish Madaan, David Esiobu, Pontus Stenetorp, Barbara Plank, Dieuwke Hupkes. Lost in inference: rediscovering the role of natural language inference for large language models. *NAACL 2025*\\
-\[[<font color="brown">preprint</font>](https://aclanthology.org/2025.naacl-long.466){:target="blank"}\] 
+\[[<font color="brown">paper</font>](https://aclanthology.org/2025.naacl-long.466){:target="blank"}\] 
 
 ## 2024
 
 * Aaditya K Singh\*, Muhammed Yusuf Kocyigit\*, Andrew Poulton, David Esiobu, Maria Lomeli, Gergely Szilvasy, Dieuwke Hupkes. Evaluation data contamination in LLMs: how do we measure it and (when) does it matter? \\
-\[[<font color="brown">preprint</font>](https://arxiv.org/abs/2411.03923){:target="blank"}\] 
+\[[<font color="brown">paper</font>](https://arxiv.org/abs/2411.03923){:target="blank"}\] 
 
 * Lovish Madaan, Aaditya K. Singh, Rylan Schaeffer, Andrew Poulton, Sanmi Koyejo, Pontus Stenetorp, Sharan Narang and Dieuwke Hupkes. Quantifying Variance in Evaluation Benchmarks
 . \\
-\[[<font color="brown">preprint</font>](https://arxiv.org/abs/2406.10229){:target="blank"}\] 
+\[[<font color="brown">paper</font>](https://arxiv.org/abs/2406.10229){:target="blank"}\] 
 
 * Llama team. The Llama 3 Herd of Models. \\
 *Contribution: pretraining evaluations lead*\\
-\[[<font color="brown">preprint</font>](https://arxiv.org/abs/2407.21783){:target="blank"}\] 
+\[[<font color="brown">paper</font>](https://arxiv.org/abs/2407.21783){:target="blank"}\] 
 \[[<font color="brown">eval highlights tweet</font>](https://x.com/_dieuwke_/status/1816098840551870719){:target="blank"}\] 
 
 
@@ -54,10 +59,10 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 \[[<font color="brown">paper</font>](https://direct.mit.edu/coli/article/doi/10.1162/coli_a_00529/123794/From-Form-s-to-Meaning-Probing-the-Semantic-Depths?searchresult=1){:target="blank"}\] 
 
 * Lucas Weber, Jaap Jumelet, Elia Bruni, Dieuwke Hupkes. Interpretability of Language Models via Task Spaces. *ACL 2024* \\
-\[[<font color="brown">preprint</font>](https://aclanthology.org/2024.acl-long.248/){:target="blank"}\] 
+\[[<font color="brown">paper</font>](https://aclanthology.org/2024.acl-long.248/){:target="blank"}\] 
 
 * Lucas Weber, Jaap Jumelet, Paul Michel, Elia Bruni, Dieuwke Hupkes. Curriculum learning with Adam: The devil is in the wrong details.\\
-\[[<font color="brown">preprint</font>](https://arxiv.org/abs/2308.12202){:target="blank"}\] 
+\[[<font color="brown">paper</font>](https://arxiv.org/abs/2308.12202){:target="blank"}\] 
 
 ## 2023
 
