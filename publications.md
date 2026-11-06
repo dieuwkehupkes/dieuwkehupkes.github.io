@@ -14,19 +14,20 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 
 ## In prep
 
-* Dieuwke Hupkes and Nikolay Bogoychev. MultiLoKo: a multilingual local knowledge benchmark for LLMs spanning 31 languages. *Accepted at CL*
-\\
-\[[<font color="brown">preprint</font>](https://arxiv.org/abs/2504.10356){:target="blank"}\] 
-\[[<font color="brown">data</font>](https://github.com/facebookresearch/multiloko){:target="blank"}\] 
+* Rohit Patel, Dieuwke Hupkes, Sloan Strader. Modality Maturity Index: A benchmark for assessing multimodal capabilities of omni models.\\
+\[[<font color="brown">preprint</font>](https://arxiv.org/abs/2608.26317){:target="blank"}\] 
 
-* Philipp Mondorf, Samuel J. Bell, Jesse Dodge and Dieuwke Hupkes. LPDS: Evaluating LLM Robustness Through Logic-Preserving Difficulty Scaling. *Accepted at COLM*
-\\
-\[[<font color="brown">preprint</font>](https://arxiv.org/abs/2605.15393){:target="blank"}\] 
 
 ## 2026
 
-* Rohit Patel, Dieuwke Hupkes, Sloan Strader. Modality Maturity Index: A benchmark for assessing multimodal capabilities of omni models.\\
-\[[<font color="brown">preprint</font>](https://arxiv.org/abs/2608.26317){:target="blank"}\] 
+* Dieuwke Hupkes and Nikolay Bogoychev. MultiLoKo: a multilingual local knowledge benchmark for LLMs spanning 31 languages. *CL*
+\\
+\[[<font color="brown">paper</font>](https://direct.mit.edu/coli/article/doi/10.1162/COLI.a.643/139040/MultiLoKo-A-Multilingual-Local-Knowledge-Benchmark){:target="blank"}\] 
+\[[<font color="brown">data</font>](https://github.com/facebookresearch/multiloko){:target="blank"}\] 
+
+* Philipp Mondorf, Samuel J. Bell, Jesse Dodge and Dieuwke Hupkes. LPDS: Evaluating LLM Robustness Through Logic-Preserving Difficulty Scaling. *COLM*
+\\
+\[[<font color="brown">paper</font>](https://proceedings.colm.cc/paper_files/paper/2026/hash/bc39a59c49b731c51398ad6b12f301d3-Abstract-Conference.html){:target="blank"}\] 
 
 
 ## 2025
